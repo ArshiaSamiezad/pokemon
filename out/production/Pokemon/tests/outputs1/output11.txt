@@ -1,0 +1,324 @@
+invalid command
+username format is invalid
+user registered successfully
+username doesn't exist
+username doesn't exist
+password is incorrect
+password is incorrect
+user logged in successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+invalid command
+card name is invalid
+your rank:1
+number of coins:300
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:FoOBuzwyLKTFWZZDXDx experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+1.username:FoOBuzwyLKTFWZZDXDx experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+profile menu
+profile menu
+experience:0
+experience:0
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:300
+profile menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+experience:0
+your rank:1
+experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+profile menu
+your rank:1
+number of coins:300
+profile menu
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+number of coins:300
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+invalid command
+you don't have this type of card
+you don't have this type of card
+invalid command
+number of coins:300
+your rank:1
+card name is invalid
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:300
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+number of coins:300
+experience:0
+1.username:FoOBuzwyLKTFWZZDXDx experience:0
+card rowlet bought successfully
+invalid command
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+invalid command
+experience:0
+number of coins:288
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:288
+1.plant rowlet 12
+profile menu
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+invalid command
+your rank:1
+1.username:FoOBuzwyLKTFWZZDXDx experience:0
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+invalid command
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+username is incorrect
+username is incorrect
+username is incorrect
+1.plant rowlet 12
+you don't have this type of card
+card rowlet equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.rowlet
+1.username:FoOBuzwyLKTFWZZDXDx experience:0
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+you don't have this type of card for sell
+card rowlet bought successfully
+you don't have this type of card for sell
+card lugia bought successfully
+card rowlet bought successfully
+your rank:1
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+your rank:1
+1.rowlet
+2.lugia
+password is incorrect
+password is incorrect
+password is incorrect
+password is incorrect
+user logged in successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+email format is invalid
+email format is invalid
+user registered successfully
+password is incorrect
+password is incorrect
+username doesn't exist
+username doesn't exist
+user logged in successfully
+DkiDrSKfUtAyOpKvbei has no 12 cards in deck
+DkiDrSKfUtAyOpKvbei has no 12 cards in deck
+DkiDrSKfUtAyOpKvbei has no 12 cards in deck
+DkiDrSKfUtAyOpKvbei has no 12 cards in deck
+card name is invalid
+you don't have this type of card for sell
+you don't have this type of card for sell
+you don't have this type of card for sell
+DkiDrSKfUtAyOpKvbei has no 12 cards in deck
+DkiDrSKfUtAyOpKvbei has no 12 cards in deck
+DkiDrSKfUtAyOpKvbei has no 12 cards in deck
+username is incorrect
+DkiDrSKfUtAyOpKvbei has no 12 cards in deck
+DkiDrSKfUtAyOpKvbei has no 12 cards in deck
+DkiDrSKfUtAyOpKvbei has no 12 cards in deck
+you don't have this type of card for sell
+card yellow bought successfully
+you don't have this type of card for sell
+card dragonite bought successfully
+shop menu
+you don't have this type of card for sell
+shop menu
+username format is invalid
+your password must have at least one special character
+email format is invalid
+username format is invalid
+email format is invalid
+user registered successfully
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+user logged in successfully
+1.username:DkiDrSKfUtAyOpKvbei experience:0
+2.username:FoOBuzwyLKTFWZZDXDx experience:0
+3.username:ulcJCnGEXAe experience:0
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+username is incorrect
+ulcJCnGEXAe has no 12 cards in deck
+ulcJCnGEXAe has no 12 cards in deck
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card rowlet bought successfully
+you don't have this type of card for sell
+card dragonite bought successfully
+shop menu
+card rowlet bought successfully
+card name is invalid
+card rowlet sold successfully
+shop menu
+card name is invalid
+you don't have this type of card for sell
+card lugia bought successfully
+card rowlet bought successfully
+card rowlet sold successfully
+card lugia sold successfully
+card tepig bought successfully
+card rowlet bought successfully
+username is incorrect
+ulcJCnGEXAe has no 12 cards in deck
+username is incorrect
+username is incorrect
+ulcJCnGEXAe has no 12 cards in deck
+ulcJCnGEXAe has no 12 cards in deck
+username is incorrect
+ulcJCnGEXAe has no 12 cards in deck
+username is incorrect
+ulcJCnGEXAe has no 12 cards in deck
+card name is invalid
+card yellow bought successfully
+shop menu
+card yellow bought successfully
+card pink bought successfully
+invalid command
+you don't have this type of card for sell
+main menu

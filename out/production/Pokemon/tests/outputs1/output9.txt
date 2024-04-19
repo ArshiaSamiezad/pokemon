@@ -1,0 +1,36 @@
+password length too small or short
+email format is invalid
+email format is invalid
+email format is invalid
+user registered successfully
+invalid command
+email format is invalid
+your password must have at least one special character
+your password must have at least one special character
+invalid command
+user registered successfully
+user logged in successfully
+main menu
+number of coins:300
+experience:0
+your rank:1
+experience:0
+your rank:1
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+1.username:VyHhWoajlgXVC experience:0
+2.username:eDzDEJ experience:0
+your rank:1
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+your rank:1
+number of coins:300
+number of coins:300
+1.username:VyHhWoajlgXVC experience:0
+2.username:eDzDEJ experience:0
+main menu

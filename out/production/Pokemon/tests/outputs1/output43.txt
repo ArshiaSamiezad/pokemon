@@ -1,0 +1,54 @@
+password length too small or short
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+user registered successfully
+password is incorrect
+username doesn't exist
+user logged in successfully
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+card rowlet bought successfully
+invalid command
+password is incorrect
+password is incorrect
+user logged in successfully
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+main menu

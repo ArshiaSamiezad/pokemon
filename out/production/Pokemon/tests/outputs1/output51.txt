@@ -1,0 +1,994 @@
+email format is invalid
+user registered successfully
+password is incorrect
+username doesn't exist
+username doesn't exist
+user logged in successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+experience:0
+1.username:VCcxvNl_A_i experience:0
+1.username:VCcxvNl_A_i experience:0
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+number of coins:300
+profile menu
+profile menu
+profile menu
+experience:0
+card name is invalid
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+your rank:1
+profile menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+1.username:VCcxvNl_A_i experience:0
+experience:0
+your rank:1
+your rank:1
+number of coins:300
+1.username:VCcxvNl_A_i experience:0
+experience:0
+number of coins:300
+number of coins:300
+1.username:VCcxvNl_A_i experience:0
+invalid command
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+main menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+invalid command
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card dragonite bought successfully
+card ducklett bought successfully
+card yellow bought successfully
+card name is invalid
+card rowlet bought successfully
+card pineco bought successfully
+you don't have this type of card for sell
+you don't have this type of card for sell
+card ducklett sold successfully
+card rowlet bought successfully
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:VCcxvNl_A_i experience:0
+number of coins:248
+1.username:VCcxvNl_A_i experience:0
+you don't have this type of card
+card rowlet equipped to your deck successfully
+card pineco equipped to your deck successfully
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+experience:0
+number of coins:248
+1.username:VCcxvNl_A_i experience:0
+your rank:1
+your rank:1
+you don't have this type of card
+card yellow equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+card name is invalid
+you don't have this type of card
+1.username:VCcxvNl_A_i experience:0
+your rank:1
+1.fire dragonite 10
+2.energy yellow 5
+3.plant rowlet 12
+4.plant pineco 9
+5.plant rowlet 12
+you don't have this type of card in your deck
+card name is invalid
+card name is invalid
+you have already added this type of pokemon to your deck
+you don't have this type of card
+invalid command
+card dragonite equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+invalid command
+card name is invalid
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:VCcxvNl_A_i experience:0
+experience:0
+number of coins:248
+1.fire dragonite 10
+2.energy yellow 5
+3.plant rowlet 12
+4.plant pineco 9
+5.plant rowlet 12
+1.fire dragonite 10
+2.energy yellow 5
+3.plant rowlet 12
+4.plant pineco 9
+5.plant rowlet 12
+number of coins:248
+1.rowlet
+2.pineco
+3.yellow
+4.dragonite
+experience:0
+experience:0
+1.username:VCcxvNl_A_i experience:0
+1.username:VCcxvNl_A_i experience:0
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+1.username:VCcxvNl_A_i experience:0
+1.rowlet
+2.pineco
+3.yellow
+4.dragonite
+1.username:VCcxvNl_A_i experience:0
+you don't have this type of card for sell
+card pink bought successfully
+card yellow sold successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+you don't have this type of card in your deck
+card rowlet unequipped from your deck successfully
+card name is invalid
+card pineco unequipped from your deck successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card yellow bought successfully
+card pineco sold successfully
+card ducklett bought successfully
+card pink bought successfully
+card ducklett bought successfully
+card name is invalid
+user registered successfully
+username doesn't exist
+username doesn't exist
+password is incorrect
+user logged in successfully
+main menu
+you don't have this type of card for sell
+main menu
+ONaQFA_fgrpiZXONr_Q has no 12 cards in deck
+username is incorrect
+ONaQFA_fgrpiZXONr_Q has no 12 cards in deck
+you don't have this type of card for sell
+card lugia bought successfully
+you don't have this type of card for sell
+shop menu
+you don't have this type of card for sell
+main menu
+ONaQFA_fgrpiZXONr_Q has no 12 cards in deck
+username is incorrect
+ONaQFA_fgrpiZXONr_Q has no 12 cards in deck
+username doesn't exist
+password is incorrect
+invalid command
+user logged in successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card lugia equipped to your deck successfully
+you don't have this type of card
+experience:0
+1.username:ONaQFA_fgrpiZXONr_Q experience:0
+2.username:VCcxvNl_A_i experience:0
+number of coins:289
+1.lugia
+experience:0
+your rank:1
+1.water lugia 11
+1.username:ONaQFA_fgrpiZXONr_Q experience:0
+2.username:VCcxvNl_A_i experience:0
+username is incorrect
+username is incorrect
+username is incorrect
+1.lugia
+1.water lugia 11
+number of coins:289
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.water lugia 11
+1.lugia
+experience:0
+number of coins:289
+username is incorrect
+username is incorrect
+ONaQFA_fgrpiZXONr_Q has no 12 cards in deck
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+ONaQFA_fgrpiZXONr_Q has no 12 cards in deck
+1.username:ONaQFA_fgrpiZXONr_Q experience:0
+2.username:VCcxvNl_A_i experience:0
+experience:0
+1.username:ONaQFA_fgrpiZXONr_Q experience:0
+2.username:VCcxvNl_A_i experience:0
+experience:0
+1.username:ONaQFA_fgrpiZXONr_Q experience:0
+2.username:VCcxvNl_A_i experience:0
+1.water lugia 11
+profile menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:289
+card lugia unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:ONaQFA_fgrpiZXONr_Q experience:0
+2.username:VCcxvNl_A_i experience:0
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+invalid command
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.lugia
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+1.lugia
+1.username:ONaQFA_fgrpiZXONr_Q experience:0
+2.username:VCcxvNl_A_i experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card name is invalid
+you don't have this type of card
+1.lugia
+card name is invalid
+invalid command
+invalid command
+you don't have this type of card
+invalid command
+you don't have this type of card
+1.water lugia 11
+1.water lugia 11
+number of coins:289
+profile menu
+1.water lugia 11
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.water lugia 11
+profile menu
+number of coins:289
+profile menu
+1.water lugia 11
+number of coins:289
+1.username:ONaQFA_fgrpiZXONr_Q experience:0
+2.username:VCcxvNl_A_i experience:0
+experience:0
+1.water lugia 11
+experience:0
+card lugia unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:289
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+1.water lugia 11
+your rank:1
+your rank:1
+experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+your rank:1
+username is incorrect
+ONaQFA_fgrpiZXONr_Q has no 12 cards in deck
+ONaQFA_fgrpiZXONr_Q has no 12 cards in deck
+ONaQFA_fgrpiZXONr_Q has no 12 cards in deck
+number of coins:289
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.water lugia 11
+profile menu
+you don't have this type of card in your deck
+card lugia unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:289
+number of coins:289
+number of coins:289
+number of coins:289
+card lugia equipped to your deck successfully
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+1.water lugia 11
+number of coins:289
+1.username:ONaQFA_fgrpiZXONr_Q experience:0
+2.username:VCcxvNl_A_i experience:0
+1.water lugia 11
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:ONaQFA_fgrpiZXONr_Q experience:0
+2.username:VCcxvNl_A_i experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.lugia
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+your rank:1
+1.lugia
+experience:0
+profile menu
+1.username:ONaQFA_fgrpiZXONr_Q experience:0
+2.username:VCcxvNl_A_i experience:0
+user registered successfully
+invalid command
+user registered successfully
+username doesn't exist
+username doesn't exist
+user logged in successfully
+card tepig bought successfully
+you don't have this type of card for sell
+you don't have this type of card for sell
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+DsHruX_QEchD has no 12 cards in deck
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+number of coins:287
+1.fire tepig 13
+1.fire tepig 13
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+1.username:DVJuiYEnIFOLlfnnFf experience:0
+2.username:DsHruX_QEchD experience:0
+3.username:ONaQFA_fgrpiZXONr_Q experience:0
+4.username:VCcxvNl_A_i experience:0
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card tepig equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+invalid command
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+1.fire tepig 13
+card tepig unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+card tepig equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+number of coins:287
+1.fire tepig 13
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+DsHruX_QEchD has no 12 cards in deck
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+DsHruX_QEchD has no 12 cards in deck
+card pineco bought successfully
+card lugia bought successfully
+shop menu
+shop menu
+card lugia sold successfully
+card pink bought successfully
+shop menu
+card yellow bought successfully
+card tepig bought successfully
+password is incorrect
+password is incorrect
+password is incorrect
+user logged in successfully
+card rowlet bought successfully
+card name is invalid
+card name is invalid
+card name is invalid
+card pink sold successfully
+card yellow sold successfully
+card rowlet bought successfully
+card pineco sold successfully
+card pineco bought successfully
+DsHruX_QEchD has no 12 cards in deck
+DsHruX_QEchD has no 12 cards in deck
+DsHruX_QEchD has no 12 cards in deck
+DsHruX_QEchD has no 12 cards in deck
+card name is invalid
+shop menu
+card pink bought successfully
+card pineco sold successfully
+card tepig bought successfully
+card pink bought successfully
+you don't have this type of card for sell
+you don't have this type of card for sell
+card pineco bought successfully
+invalid command
+card ducklett bought successfully
+card rowlet bought successfully
+number of coins:181
+number of coins:181
+1.fire tepig 13
+2.fire tepig 13
+3.plant rowlet 12
+4.plant rowlet 12
+5.energy pink 5
+6.fire tepig 13
+7.energy pink 5
+8.plant pineco 9
+9.water ducklett 15
+10.plant rowlet 12
+card pink bought successfully
+card lugia bought successfully
+card dragonite bought successfully
+card name is invalid
+card name is invalid
+card dragonite sold successfully
+card dragonite bought successfully
+card rowlet bought successfully
+card rowlet bought successfully
+card dragonite sold successfully
+invalid command
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+DsHruX_QEchD has no 12 cards in deck
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+username is incorrect
+username is incorrect
+DsHruX_QEchD has no 12 cards in deck
+you don't have this type of card in your deck
+card tepig unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+main menu
+card tepig bought successfully
+main menu
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+DsHruX_QEchD has no 12 cards in deck
+password is incorrect
+username doesn't exist
+username doesn't exist
+user logged in successfully
+you don't have this type of card for sell
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+card ducklett equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+number of coins:124
+1.fire tepig 13
+2.fire tepig 13
+3.plant rowlet 12
+4.plant rowlet 12
+5.energy pink 5
+6.fire tepig 13
+7.energy pink 5
+8.plant pineco 9
+9.water ducklett 15
+10.plant rowlet 12
+11.energy pink 5
+12.water lugia 11
+13.plant rowlet 12
+14.plant rowlet 12
+15.fire tepig 13
+number of coins:124
+your rank:2
+card name is invalid
+card yellow bought successfully
+shop menu
+card ducklett bought successfully
+username is incorrect
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+username is incorrect
+main menu
+DsHruX_QEchD has no 12 cards in deck
+DsHruX_QEchD has no 12 cards in deck
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+DsHruX_QEchD has no 12 cards in deck
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+username is incorrect
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+card ducklett sold successfully
+card rowlet sold successfully
+card pink sold successfully
+card pineco bought successfully
+card tepig sold successfully
+card name is invalid
+card pineco sold successfully
+card ducklett sold successfully
+card tepig sold successfully
+invalid command
+card pink bought successfully
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+username is incorrect
+card pineco sold successfully
+shop menu
+card rowlet bought successfully
+card rowlet sold successfully
+card tepig sold successfully
+you don't have this type of card for sell
+card tepig bought successfully
+card name is invalid
+card lugia sold successfully
+card pink sold successfully
+shop menu
+card tepig bought successfully
+DsHruX_QEchD has no 12 cards in deck
+username is incorrect
+DsHruX_QEchD has no 12 cards in deck
+DsHruX_QEchD has no 12 cards in deck
+card tepig equipped to your deck successfully
+you don't have this type of card
+card pink equipped to your deck successfully
+you don't have this type of card
+card name is invalid
+your rank:2
+experience:0
+1.username:DVJuiYEnIFOLlfnnFf experience:0
+2.username:DsHruX_QEchD experience:0
+3.username:ONaQFA_fgrpiZXONr_Q experience:0
+4.username:VCcxvNl_A_i experience:0
+user registered successfully
+password is incorrect
+password is incorrect
+username doesn't exist
+user logged in successfully
+card yellow bought successfully
+card yellow bought successfully
+rdZUqhrnBoTzmKeA has no 12 cards in deck
+rdZUqhrnBoTzmKeA has no 12 cards in deck
+rdZUqhrnBoTzmKeA has no 12 cards in deck
+rdZUqhrnBoTzmKeA has no 12 cards in deck
+rdZUqhrnBoTzmKeA has no 12 cards in deck
+rdZUqhrnBoTzmKeA has no 12 cards in deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+profile menu
+you don't have this type of card
+card yellow equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+1.yellow
+profile menu
+your rank:5
+invalid command
+experience:0
+1.yellow
+your rank:5
+your rank:5
+experience:0
+1.energy yellow 5
+2.energy yellow 5
+experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+your rank:5
+1.yellow
+1.username:DVJuiYEnIFOLlfnnFf experience:0
+2.username:DsHruX_QEchD experience:0
+3.username:ONaQFA_fgrpiZXONr_Q experience:0
+4.username:VCcxvNl_A_i experience:0
+5.username:rdZUqhrnBoTzmKeA experience:0
+experience:0
+experience:0
+1.energy yellow 5
+2.energy yellow 5
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card yellow equipped to your deck successfully
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+profile menu
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card yellow unequipped from your deck successfully
+card yellow unequipped from your deck successfully
+you don't have this type of card for sell
+shop menu
+you don't have this type of card for sell
+card pineco bought successfully
+card name is invalid
+shop menu
+password is incorrect
+username doesn't exist
+invalid command
+user logged in successfully
+card pineco equipped to your deck successfully
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+1.pineco
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+card yellow equipped to your deck successfully
+you don't have this type of card
+your rank:5
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card yellow unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card name is invalid
+you don't have this type of card
+your rank:5
+your rank:5
+experience:0
+1.pineco
+2.yellow
+3.yellow
+your rank:5
+1.energy yellow 5
+2.energy yellow 5
+3.plant pineco 9
+invalid command
+1.username:DVJuiYEnIFOLlfnnFf experience:0
+2.username:DsHruX_QEchD experience:0
+3.username:ONaQFA_fgrpiZXONr_Q experience:0
+4.username:VCcxvNl_A_i experience:0
+5.username:rdZUqhrnBoTzmKeA experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.energy yellow 5
+2.energy yellow 5
+3.plant pineco 9
+profile menu
+experience:0
+profile menu
+you don't have this type of card in your deck
+card yellow unequipped from your deck successfully
+invalid command
+number of coins:281
+experience:0
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card yellow unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:281
+1.pineco
+experience:0
+card name is invalid
+card name is invalid
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card in your deck
+card name is invalid
+card pineco unequipped from your deck successfully
+you don't have this type of card in your deck
+1.energy yellow 5
+2.energy yellow 5
+3.plant pineco 9
+1.username:DVJuiYEnIFOLlfnnFf experience:0
+2.username:DsHruX_QEchD experience:0
+3.username:ONaQFA_fgrpiZXONr_Q experience:0
+4.username:VCcxvNl_A_i experience:0
+5.username:rdZUqhrnBoTzmKeA experience:0
+experience:0
+1.energy yellow 5
+2.energy yellow 5
+3.plant pineco 9
+card yellow equipped to your deck successfully
+card name is invalid
+you don't have this type of card
+card pineco equipped to your deck successfully
+card yellow equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card yellow unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+invalid command
+1.energy yellow 5
+2.energy yellow 5
+3.plant pineco 9
+experience:0
+1.energy yellow 5
+2.energy yellow 5
+3.plant pineco 9
+1.username:DVJuiYEnIFOLlfnnFf experience:0
+2.username:DsHruX_QEchD experience:0
+3.username:ONaQFA_fgrpiZXONr_Q experience:0
+4.username:VCcxvNl_A_i experience:0
+5.username:rdZUqhrnBoTzmKeA experience:0
+1.username:DVJuiYEnIFOLlfnnFf experience:0
+2.username:DsHruX_QEchD experience:0
+3.username:ONaQFA_fgrpiZXONr_Q experience:0
+4.username:VCcxvNl_A_i experience:0
+5.username:rdZUqhrnBoTzmKeA experience:0
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.pineco
+2.yellow
+number of coins:281
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+your rank:5
+1.pineco
+2.yellow
+1.username:DVJuiYEnIFOLlfnnFf experience:0
+2.username:DsHruX_QEchD experience:0
+3.username:ONaQFA_fgrpiZXONr_Q experience:0
+4.username:VCcxvNl_A_i experience:0
+5.username:rdZUqhrnBoTzmKeA experience:0
+username is incorrect
+rdZUqhrnBoTzmKeA has no 12 cards in deck
+rdZUqhrnBoTzmKeA has no 12 cards in deck
+rdZUqhrnBoTzmKeA has no 12 cards in deck
+your rank:5
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:281
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card name is invalid
+you don't have this type of card
+profile menu
+card name is invalid
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+card yellow equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid

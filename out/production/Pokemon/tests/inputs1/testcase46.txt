@@ -1,0 +1,25 @@
+register username DDGcBIYlRnYHNPTciJ password 21bR email Z.j@waat.com
+register username (_xq^ASduD3o<#R password 3W@8oMa<ARM email 5#V(z@r.com
+register username 9gdNphm)6kXUil password luj)1b^.1a^@N email L''Fkf1  @whq.com
+register username rLyJgyKyzAyPwjXUEvo password k('(l!zdb2G email .qo0Hp1vq@d.com
+login username rLyJgyKyzAyPwjXUEvo password v-zrP)@s4Hpdm
+login username rLyJgyKyzAyPwjXUEvo password V5@Cr*G9KT^a46wTnSpx
+login username rLyJgyKyzAyPwjXUEvo password v6kfp&&xx9L^
+login username UoGVFqpjgzABc password 8nYH3b.r
+login username rLyJgyKyzAyPwjXUEvo password k('(l!zdb2G
+go to profile menu
+show current menu
+show experience
+unequip card lugia from my deck
+unequip card tepi*g from my deck
+unequip card pineco from my deck
+unequip card pineco from my deck
+show experience
+show current menu
+show coins
+show experience
+show coins
+show my rank
+back
+logout
+exit

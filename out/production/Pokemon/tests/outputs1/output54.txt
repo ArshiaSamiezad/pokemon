@@ -1,0 +1,307 @@
+invalid command
+email format is invalid
+password length too small or short
+user registered successfully
+password is incorrect
+password is incorrect
+username doesn't exist
+user logged in successfully
+card pink bought successfully
+card dragonite bought successfully
+you don't have this type of card for sell
+card ducklett bought successfully
+card dragonite sold successfully
+card name is invalid
+card tepig bought successfully
+card tepig bought successfully
+username doesn't exist
+password is incorrect
+password is incorrect
+user logged in successfully
+card name is invalid
+card pink sold successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+number of coins:255
+card name is invalid
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+card tepig equipped to your deck successfully
+card name is invalid
+you don't have this type of card
+1.water ducklett 15
+2.fire tepig 13
+3.fire tepig 13
+profile menu
+card name is invalid
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:hoJEZZXylSkKqhv experience:0
+card rowlet bought successfully
+card tepig sold successfully
+card lugia bought successfully
+card lugia sold successfully
+shop menu
+card ducklett sold successfully
+invalid command
+main menu
+invalid command
+card rowlet bought successfully
+card dragonite bought successfully
+card rowlet bought successfully
+card rowlet bought successfully
+card ducklett bought successfully
+shop menu
+card pink bought successfully
+card tepig sold successfully
+card lugia bought successfully
+profile menu
+username is incorrect
+username is incorrect
+username is incorrect
+experience:0
+profile menu
+1.plant rowlet 12
+2.plant rowlet 12
+3.fire dragonite 10
+4.plant rowlet 12
+5.plant rowlet 12
+6.water ducklett 15
+7.energy pink 5
+8.water lugia 11
+your rank:1
+number of coins:195
+1.username:hoJEZZXylSkKqhv experience:0
+your rank:1
+your rank:1
+number of coins:195
+1.username:hoJEZZXylSkKqhv experience:0
+you don't have this type of card
+card dragonite equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card ducklett equipped to your deck successfully
+you don't have this type of card
+card pink equipped to your deck successfully
+you don't have this type of card
+1.plant rowlet 12
+2.plant rowlet 12
+3.fire dragonite 10
+4.plant rowlet 12
+5.plant rowlet 12
+6.water ducklett 15
+7.energy pink 5
+8.water lugia 11
+invalid command
+number of coins:195
+card name is invalid
+you don't have this type of card
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+your rank:1
+your rank:1
+number of coins:195
+1.plant rowlet 12
+2.plant rowlet 12
+3.fire dragonite 10
+4.plant rowlet 12
+5.plant rowlet 12
+6.water ducklett 15
+7.energy pink 5
+8.water lugia 11
+1.username:hoJEZZXylSkKqhv experience:0
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card dragonite unequipped from your deck successfully
+experience:0
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.ducklett
+2.pink
+3.lugia
+card name is invalid
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+number of coins:195
+card ducklett unequipped from your deck successfully
+you don't have this type of card in your deck
+card lugia unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card
+card lugia equipped to your deck successfully
+card rowlet equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card ducklett equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you don't have this type of card
+1.pink
+2.lugia
+3.rowlet
+4.ducklett
+your rank:1
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:hoJEZZXylSkKqhv experience:0
+1.pink
+2.lugia
+3.rowlet
+4.ducklett
+number of coins:195
+1.pink
+2.lugia
+3.rowlet
+4.ducklett
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+card name is invalid
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.pink
+2.lugia
+3.rowlet
+4.ducklett
+1.username:hoJEZZXylSkKqhv experience:0
+profile menu
+you don't have this type of card
+invalid command
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+profile menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card rowlet bought successfully
+shop menu
+card ducklett sold successfully
+card lugia sold successfully
+card name is invalid
+card pink bought successfully
+card lugia bought successfully
+you don't have this type of card for sell
+card tepig bought successfully
+card lugia bought successfully
+invalid command
+card dragonite sold successfully
+card yellow bought successfully
+card pineco bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.pink
+2.rowlet
+your rank:1
+experience:0
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card lugia equipped to your deck successfully
+1.pink
+2.rowlet
+3.lugia
+number of coins:157
+experience:0
+experience:0
+your rank:1
+card tepig equipped to your deck successfully
+you don't have this type of card
+card yellow equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+experience:0
+you don't have this type of card
+card pink equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+card name is invalid
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card for sell
+card lugia bought successfully
+card dragonite bought successfully
+card name is invalid
+card pink bought successfully
+card name is invalid
+card pink sold successfully
+card tepig sold successfully
+card name is invalid
+card tepig bought successfully
+username format is invalid
+email format is invalid
+you can't use special characters
+password length too small or short
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command

@@ -1,0 +1,359 @@
+your password must have at least one special character
+email format is invalid
+username format is invalid
+user registered successfully
+password is incorrect
+password is incorrect
+password is incorrect
+password is incorrect
+user logged in successfully
+password is incorrect
+password is incorrect
+password is incorrect
+password is incorrect
+user logged in successfully
+you don't have this type of card for sell
+card tepig bought successfully
+you don't have this type of card for sell
+card ducklett bought successfully
+card name is invalid
+card pineco bought successfully
+your rank:1
+1.username:LYjlbOWmjLtGdQTWekd experience:0
+your rank:1
+number of coins:263
+number of coins:263
+your rank:1
+1.fire tepig 13
+2.water ducklett 15
+3.plant pineco 9
+number of coins:263
+you don't have this type of card
+you don't have this type of card
+card tepig equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+card name is invalid
+card tepig unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+your rank:1
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+you don't have this type of card
+card ducklett equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:263
+1.fire tepig 13
+2.water ducklett 15
+3.plant pineco 9
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+1.ducklett
+1.fire tepig 13
+2.water ducklett 15
+3.plant pineco 9
+1.ducklett
+number of coins:263
+profile menu
+1.ducklett
+1.ducklett
+1.ducklett
+1.fire tepig 13
+2.water ducklett 15
+3.plant pineco 9
+number of coins:263
+profile menu
+1.username:LYjlbOWmjLtGdQTWekd experience:0
+1.fire tepig 13
+2.water ducklett 15
+3.plant pineco 9
+profile menu
+1.username:LYjlbOWmjLtGdQTWekd experience:0
+your rank:1
+experience:0
+1.fire tepig 13
+2.water ducklett 15
+3.plant pineco 9
+card ducklett unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+card name is invalid
+experience:0
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:263
+number of coins:263
+experience:0
+card name is invalid
+you don't have this type of card
+card ducklett equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card tepig equipped to your deck successfully
+you don't have this type of card
+card pineco equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card name is invalid
+experience:0
+your rank:1
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:263
+1.username:LYjlbOWmjLtGdQTWekd experience:0
+your rank:1
+1.username:LYjlbOWmjLtGdQTWekd experience:0
+number of coins:263
+1.username:LYjlbOWmjLtGdQTWekd experience:0
+number of coins:263
+1.username:LYjlbOWmjLtGdQTWekd experience:0
+experience:0
+1.fire tepig 13
+2.water ducklett 15
+3.plant pineco 9
+your rank:1
+experience:0
+1.username:LYjlbOWmjLtGdQTWekd experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+your rank:1
+1.username:LYjlbOWmjLtGdQTWekd experience:0
+card tepig unequipped from your deck successfully
+card ducklett unequipped from your deck successfully
+you don't have this type of card in your deck
+1.pineco
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card name is invalid
+1.fire tepig 13
+2.water ducklett 15
+3.plant pineco 9
+1.username:LYjlbOWmjLtGdQTWekd experience:0
+your rank:1
+experience:0
+number of coins:263
+experience:0
+1.fire tepig 13
+2.water ducklett 15
+3.plant pineco 9
+card rowlet bought successfully
+card name is invalid
+card pineco bought successfully
+shop menu
+card ducklett bought successfully
+card pineco bought successfully
+card lugia bought successfully
+card tepig bought successfully
+card yellow bought successfully
+shop menu
+card tepig bought successfully
+card dragonite bought successfully
+card ducklett sold successfully
+card lugia sold successfully
+card rowlet sold successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card dragonite equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+1.pineco
+2.dragonite
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:LYjlbOWmjLtGdQTWekd experience:0
+your rank:1
+password is incorrect
+username doesn't exist
+username doesn't exist
+password is incorrect
+user logged in successfully
+profile menu
+experience:0
+profile menu
+card name is invalid
+card yellow equipped to your deck successfully
+you have already added this type of pokemon to your deck
+card tepig equipped to your deck successfully
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+number of coins:195
+number of coins:195
+1.fire tepig 13
+2.plant pineco 9
+3.plant pineco 9
+4.water ducklett 15
+5.plant pineco 9
+6.fire tepig 13
+7.energy yellow 5
+8.fire tepig 13
+9.fire dragonite 10
+1.pineco
+2.dragonite
+3.yellow
+4.tepig
+profile menu
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card pineco unequipped from your deck successfully
+you don't have this type of card in your deck
+card tepig unequipped from your deck successfully
+card yellow unequipped from your deck successfully
+1.dragonite
+1.dragonite
+you don't have this type of card in your deck
+card dragonite unequipped from your deck successfully
+you don't have this type of card in your deck
+number of coins:195
+your rank:1
+1.username:LYjlbOWmjLtGdQTWekd experience:0
+card name is invalid
+you don't have this type of card
+card ducklett equipped to your deck successfully
+card dragonite equipped to your deck successfully
+card yellow equipped to your deck successfully
+you don't have this type of card
+invalid command
+you don't have this type of card
+card tepig equipped to your deck successfully
+password is incorrect
+password is incorrect
+username doesn't exist
+username doesn't exist
+user logged in successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+1.fire tepig 13
+2.plant pineco 9
+3.plant pineco 9
+4.water ducklett 15
+5.plant pineco 9
+6.fire tepig 13
+7.energy yellow 5
+8.fire tepig 13
+9.fire dragonite 10
+1.ducklett
+2.dragonite
+3.yellow
+4.tepig
+you don't have this type of card in your deck
+card dragonite unequipped from your deck successfully
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+card pineco equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+card dragonite equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+invalid command
+number of coins:195
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+invalid command
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+1.username:LYjlbOWmjLtGdQTWekd experience:0
+card lugia bought successfully
+card tepig sold successfully
+shop menu
+username is incorrect
+username is incorrect
+username is incorrect
+card pink bought successfully
+shop menu
+card dragonite bought successfully
+card name is invalid
+shop menu
+card yellow bought successfully
+card pineco sold successfully
+card pink bought successfully
+card ducklett bought successfully
+card tepig bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu

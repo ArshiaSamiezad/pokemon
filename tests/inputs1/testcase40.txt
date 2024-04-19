@@ -1,0 +1,101 @@
+register username rqTaMxGcDUmHxqat password bC4-.Xqsc#v1&r8s!< email >4WBT@etlbcip.com
+register username TYXKhYKDJDff password bIZ&uRG email M8@wsherbb.com
+login username TYXKhYKDJDff password bIZ&uRG
+logout
+login username TYXKhYKDJDff password bIZ&uRG
+show current menu
+show current menu
+go to profile menu
+show coins
+equip card yellow to my deck
+equip card yellow to my deck
+equip card pineco to my deck
+equip card pin co to my deck
+equip card pineco to my deck
+equip card ducklett to my deck
+equip card yellow to my deck
+equip card pineco to my deck
+equip card pink to my deck
+unequip card yellow from my deck
+unequip card pineco from my deck
+unequip card dragonite from my deck
+unequip card lugia from my deck
+back
+go to profile menu
+show storage
+show storage
+show ranking
+show storage
+back
+go to profile menu
+show storage
+show storage
+unequip card ducklett from my deck
+unequip card pink from my deck
+unequip card yellow from my deck
+show storage
+back
+start new game with ytpNhHw
+start new game with ijXqKFobPBHwjCA
+start new game with __ZtTUqHQtSe
+go to shop menu
+buy card row@let
+show current menu
+back
+go to shop menu
+buy card rowlet
+sell card pineco
+back
+show current menu
+start new game with IwOeqLfwpNYVPWY
+start new game with bPsFGherNMn
+start new game with _ILRQU_
+start new game with rlIQFiqda
+logout
+login username TYXKhYKDJDff password bIZ&uRG
+go to profile menu
+show experience
+back
+go to shop menu
+sell card yellow
+back
+go to shop menu
+sell card ducklett
+buy card yellow
+buy card pineco
+buy card ducklett
+sell card dragonite
+buy card pi_nk
+buy card dragonite
+sell card lugia
+sell card pink
+buy card dragonite
+buy card lugia
+sell card pink
+back
+show current menu
+go to shop menu
+show current menu
+buy card tepig
+buy card pineco
+back
+go to shop menu
+back
+logout
+register username 3l%s& password gxd1'Vt^'HI3UzC email .ap@.com
+register username dPUOEDiOIcTrokGKb password UNPgM!%_4OT email fQ@mgn.com
+login username dPUOEDiOIcTrokGKb password UNPgM!%_4OT
+start new game with TYXKhYKDJDff
+start new game with TYXKhYKDJDff
+start new game with TYXKhYKDJDff
+go to shop menu
+buy card yellow
+buy card yellow
+buy card tepig
+back
+start new game with TYXKhYKDJDff
+start new game with TYXKhYKDJDff
+start new game with TYXKhYKDJDff
+show current menu
+logout
+exit

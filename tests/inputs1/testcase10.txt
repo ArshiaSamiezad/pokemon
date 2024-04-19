@@ -1,0 +1,31 @@
+register username nSWhx4&uDLhLK30I password E4vt^!q.J email L4M.sYRPz@5 'gzi0.com
+register username g password E5@)^pZ4 email Z@.com
+register username SFuxS password HoK_8+z.8(tDz1x9 email EO75t@cqem.com
+register username MAgsbj_ password i60$g3 email TaBs@xnovnaij.com
+login username wDcTz password p(oc*^kY*u
+login username AhbQCZiql password ay<7PF!g>DxW
+login username MAgsbj_ password i60$g3
+go to profile menu
+show coins
+unequip card tepig from my deck
+unequip card yellow from my deck
+unequip card yellow from my deck
+unequip card rowlet from my deck
+show my rank
+show coins
+show my rank
+show my rank
+show storage
+back
+logout
+login username jKGObCIDITBYbnZ password tCk!x'A
+login username MAgsbj_ password dv(cLvg#0f.#Q-g
+login username MAgsbj_ password i60$g3
+go to profile menu
+back
+start new game with g
+start new game with g
+start new game with g
+start new game with g
+logout
+exit

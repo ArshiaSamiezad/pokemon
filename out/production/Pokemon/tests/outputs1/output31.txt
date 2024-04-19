@@ -1,0 +1,147 @@
+your password must start with english letters
+email format is invalid
+user registered successfully
+username doesn't exist
+username doesn't exist
+user logged in successfully
+profile menu
+number of coins:300
+number of coins:300
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:300
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+experience:0
+card lugia bought successfully
+email format is invalid
+invalid command
+user registered successfully
+password is incorrect
+username doesn't exist
+user logged in successfully
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+your rank:2
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+1.username:TM experience:0
+2.username:cQRkfj experience:0
+1.username:TM experience:0
+2.username:cQRkfj experience:0
+number of coins:300
+1.username:TM experience:0
+2.username:cQRkfj experience:0
+card yellow bought successfully
+card tepig bought successfully
+card name is invalid
+you don't have this type of card for sell
+invalid command
+main menu
+invalid command
+your rank:2
+experience:0
+shop menu
+password is incorrect
+invalid command
+user logged in successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+you don't have this type of card for sell
+card pineco bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+number of coins:247
+card pineco equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card yellow equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:TM experience:0
+2.username:cQRkfj experience:0
+shop menu
+card lugia bought successfully
+profile menu
+you don't have this type of card
+you don't have this type of card
+card tepig equipped to your deck successfully
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.pineco
+2.ducklett
+3.yellow
+4.tepig
+1.pineco
+2.ducklett
+3.yellow
+4.tepig
+you don't have this type of card in your deck
+card ducklett unequipped from your deck successfully
+you don't have this type of card in your deck
+1.pineco
+2.yellow
+3.tepig
+1.username:TM experience:0
+2.username:cQRkfj experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.pineco
+2.yellow
+3.tepig
+number of coins:236
+card lugia bought successfully
+card pineco sold successfully
+card lugia bought successfully
+card ducklett bought successfully
+you don't have this type of card for sell
+invalid command
+card ducklett bought successfully
+card name is invalid
+card name is invalid
+shop menu
+card lugia bought successfully
+card ducklett bought successfully
+shop menu
+main menu

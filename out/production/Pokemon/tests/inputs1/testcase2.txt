@@ -1,0 +1,87 @@
+register username ioNaJUQjyytQSxCKa password Q.5CPQe$A8c7D5 email q.Z3@83Gz.com
+register username AdtiufLbUlIwfk password hgPo9MTo3n1.FkgSr email CJhcQw@X8#Cy0U#.com
+register username SRFfpv password 6M-bv%M%F email p5TbOk@njr25t&0.com
+register username VyzG password TKK#sb3 email 5Z6F4N@aypg.com
+login username u2Iy&WL9m8+h@F!7 password !35 gp
+register username uFqwA password wvI.XK^4JN3Z^ email ^z+V^(@nsfyzmhbx.com
+register username RLiIcj password aEZW+rA$$Qsy8!1Uv email Y.8G5@.com
+register username OiACrSWPoYnrgqZsnRr password nnmtP@^KO+B9 email +lw@bvnpqsd.com
+register username _PHZHrdIGswcBint password qG.>_0MR%^env^74&&c email .c@i.com
+login username _PHZHrdIGswcBint password T6c1^99hz
+login username _PHZHrdIGswcBint password qG.>_0MR%^env^74&&c
+start new game with VyzG
+start new game with VyzG
+start new game with VyzG
+go to shop menu
+buy card ducklett
+back
+go to shop menu
+buy card tepi*g
+buy card lOugia
+sell card yellow
+back
+show current menu
+go to shop menu
+buy card yellow
+buy card dragonite
+buy card tepig
+back
+start new game with jaCOYmFuQyzMZDmLfe
+start new game with VyzG
+start new game with R
+start new game with VyzG
+start new game with JR
+start new game with NINZHEVcDNmYjWl
+go to shop menu
+buy card tepig
+show current menu
+buy card pineco
+sell card dragonite
+buy card pineco
+buy card rowlet
+sell card yellow
+back
+start new game with VyzG
+start new game with VyzG
+start new game with VyzG
+start new game with VyzG
+go to profile menu
+back
+go to profile menu
+back
+go to profile menu
+show current menu
+show experience
+show my rank
+show ranking
+equip card lugia to my deck
+equip card yellow to my deck
+equip card ducklett to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card lugia to my deck
+equip card tepig to my deck
+show my deck
+unequip card lugia from my deck
+unequip card dragonite from my deck
+unequip card tepig from my deck
+unequip card rowlet from my deck
+unequip card tepig from my deck
+unequip card pink from my deck
+unequip card ducklett from my deck
+show storage
+show coins
+back
+start new game with VyzG
+start new game with VyzG
+start new game with VyzG
+start new game with VyzG
+start new game with VyzG
+start new game with VyzG
+start new game with VyzG
+go to shop menu
+buy card rowlet
+buy card pineco
+back
+logout
+exit

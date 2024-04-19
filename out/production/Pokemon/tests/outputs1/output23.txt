@@ -1,0 +1,603 @@
+your password must have at least one special character
+username format is invalid
+email format is invalid
+you can't use special characters
+password length too small or short
+email format is invalid
+email format is invalid
+email format is invalid
+user registered successfully
+password is incorrect
+username doesn't exist
+user logged in successfully
+1.username:nPw_wYEecn experience:0
+experience:0
+1.username:nPw_wYEecn experience:0
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:nPw_wYEecn experience:0
+profile menu
+experience:0
+experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:nPw_wYEecn experience:0
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+profile menu
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:300
+number of coins:300
+1.username:nPw_wYEecn experience:0
+1.username:nPw_wYEecn experience:0
+experience:0
+1.username:nPw_wYEecn experience:0
+1.username:nPw_wYEecn experience:0
+1.username:nPw_wYEecn experience:0
+username format is invalid
+password length too small or short
+user registered successfully
+password is incorrect
+username doesn't exist
+user logged in successfully
+vyGj has no 12 cards in deck
+username is incorrect
+vyGj has no 12 cards in deck
+username is incorrect
+experience:0
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:nPw_wYEecn experience:0
+2.username:vyGj experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+your rank:2
+profile menu
+number of coins:300
+main menu
+invalid command
+card name is invalid
+card pink bought successfully
+card dragonite bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+your rank:2
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+you don't have this type of card
+you don't have this type of card
+card pink equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.pink
+experience:0
+1.pink
+main menu
+your password must have at least one special character
+username format is invalid
+password length too small or short
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+email format is invalid
+username format is invalid
+email format is invalid
+your password must start with english letters
+username format is invalid
+user registered successfully
+username doesn't exist
+password is incorrect
+user logged in successfully
+username doesn't exist
+password is incorrect
+user logged in successfully
+main menu
+main menu
+card name is invalid
+shop menu
+TFSmRcOEk has no 12 cards in deck
+TFSmRcOEk has no 12 cards in deck
+TFSmRcOEk has no 12 cards in deck
+number of coins:300
+your rank:1
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+number of coins:300
+experience:0
+number of coins:300
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+profile menu
+1.username:TFSmRcOEk experience:0
+2.username:nPw_wYEecn experience:0
+3.username:vyGj experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+profile menu
+profile menu
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+1.username:TFSmRcOEk experience:0
+2.username:nPw_wYEecn experience:0
+3.username:vyGj experience:0
+you don't have this type of card for sell
+card dragonite bought successfully
+username is incorrect
+TFSmRcOEk has no 12 cards in deck
+username is incorrect
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+1.fire dragonite 10
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.fire dragonite 10
+you don't have this type of card
+card dragonite equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+1.username:TFSmRcOEk experience:0
+2.username:nPw_wYEecn experience:0
+3.username:vyGj experience:0
+1.username:TFSmRcOEk experience:0
+2.username:nPw_wYEecn experience:0
+3.username:vyGj experience:0
+experience:0
+1.dragonite
+your rank:1
+your rank:1
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+username is incorrect
+TFSmRcOEk has no 12 cards in deck
+username is incorrect
+username is incorrect
+you don't have this type of card for sell
+card pink bought successfully
+username is incorrect
+TFSmRcOEk has no 12 cards in deck
+username is incorrect
+card ducklett bought successfully
+card pink sold successfully
+card pink bought successfully
+card name is invalid
+card dragonite sold successfully
+shop menu
+you don't have this type of card for sell
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+your rank:1
+1.water ducklett 15
+2.energy pink 5
+1.username:TFSmRcOEk experience:0
+2.username:nPw_wYEecn experience:0
+3.username:vyGj experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.water ducklett 15
+2.energy pink 5
+username is incorrect
+TFSmRcOEk has no 12 cards in deck
+username is incorrect
+username is incorrect
+you don't have this type of card for sell
+card pink bought successfully
+card name is invalid
+card dragonite bought successfully
+card rowlet bought successfully
+card tepig bought successfully
+card pink sold successfully
+shop menu
+card lugia bought successfully
+card rowlet sold successfully
+card ducklett sold successfully
+main menu
+card lugia sold successfully
+card name is invalid
+card name is invalid
+username is incorrect
+username is incorrect
+TFSmRcOEk has no 12 cards in deck
+profile menu

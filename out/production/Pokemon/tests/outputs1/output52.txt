@@ -1,0 +1,248 @@
+username format is invalid
+email format is invalid
+invalid command
+username format is invalid
+email format is invalid
+email format is invalid
+invalid command
+your password must start with english letters
+password length too small or short
+user registered successfully
+username doesn't exist
+username doesn't exist
+user logged in successfully
+username doesn't exist
+password is incorrect
+user logged in successfully
+you don't have this type of card for sell
+card lugia bought successfully
+card dragonite bought successfully
+card dragonite bought successfully
+card rowlet bought successfully
+card yellow bought successfully
+card rowlet bought successfully
+you don't have this type of card for sell
+card lugia bought successfully
+card dragonite bought successfully
+shop menu
+card pink bought successfully
+you don't have this type of card for sell
+card yellow bought successfully
+card pink bought successfully
+card lugia sold successfully
+card yellow sold successfully
+invalid command
+card lugia bought successfully
+main menu
+profile menu
+1.username:m experience:0
+card dragonite equipped to your deck successfully
+you don't have this type of card
+card rowlet equipped to your deck successfully
+you have already added this type of pokemon to your deck
+card lugia equipped to your deck successfully
+card yellow equipped to your deck successfully
+your rank:1
+card rowlet sold successfully
+card pineco bought successfully
+card name is invalid
+card pink bought successfully
+card ducklett bought successfully
+card name is invalid
+card name is invalid
+shop menu
+card tepig bought successfully
+card name is invalid
+card dragonite bought successfully
+card lugia sold successfully
+card dragonite sold successfully
+card lugia sold successfully
+password is incorrect
+password is incorrect
+user logged in successfully
+main menu
+username doesn't exist
+password is incorrect
+user logged in successfully
+card rowlet equipped to your deck successfully
+card tepig equipped to your deck successfully
+you don't have this type of card
+card ducklett equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+your rank:1
+card pink equipped to your deck successfully
+invalid command
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+profile menu
+1.fire dragonite 10
+2.plant rowlet 12
+3.fire dragonite 10
+4.energy pink 5
+5.energy yellow 5
+6.energy pink 5
+7.plant pineco 9
+8.energy pink 5
+9.water ducklett 15
+10.fire tepig 13
+11.fire dragonite 10
+you don't have this type of card
+card pink equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card name is invalid
+you don't have this type of card
+card pineco equipped to your deck successfully
+card pink equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+your rank:1
+number of coins:188
+number of coins:188
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+card dragonite equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+your rank:1
+1.yellow
+2.rowlet
+3.tepig
+4.ducklett
+5.pink
+6.pink
+7.pineco
+8.pink
+9.dragonite
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+your rank:1
+card tepig sold successfully
+card name is invalid
+card dragonite sold successfully
+you don't have this type of card
+you don't have this type of card
+card dragonite equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you have already added this type of pokemon to your deck
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+1.plant rowlet 12
+2.fire dragonite 10
+3.energy pink 5
+4.energy yellow 5
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+your rank:1
+your rank:1
+1.yellow
+2.rowlet
+3.ducklett
+4.pink
+5.pink
+6.pineco
+7.pink
+8.dragonite
+1.yellow
+2.rowlet
+3.ducklett
+4.pink
+5.pink
+6.pineco
+7.pink
+8.dragonite
+number of coins:206
+1.username:m experience:0
+your rank:1
+1.plant rowlet 12
+2.fire dragonite 10
+3.energy pink 5
+4.energy yellow 5
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+profile menu
+profile menu
+experience:0
+profile menu
+card dragonite unequipped from your deck successfully
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+1.username:m experience:0
+card lugia bought successfully
+shop menu
+card name is invalid
+invalid command
+number of coins:195
+1.plant rowlet 12
+2.fire dragonite 10
+3.energy pink 5
+4.energy yellow 5
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.water lugia 11
+1.yellow
+2.rowlet
+3.ducklett
+4.pink
+5.pink
+6.pineco
+7.pink
+1.username:m experience:0
+1.plant rowlet 12
+2.fire dragonite 10
+3.energy pink 5
+4.energy yellow 5
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.water lugia 11
+card lugia sold successfully
+card pink bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pineco bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+shop menu
+card rowlet sold successfully
+username doesn't exist
+username doesn't exist
+user logged in successfully
+main menu

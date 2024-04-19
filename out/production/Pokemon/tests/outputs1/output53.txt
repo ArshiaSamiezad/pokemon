@@ -1,0 +1,319 @@
+username format is invalid
+password length too small or short
+email format is invalid
+password length too small or short
+invalid command
+user registered successfully
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+user logged in successfully
+profile menu
+1.username:ilbdRpcnekIvy experience:0
+invalid command
+1.username:ilbdRpcnekIvy experience:0
+1.username:ilbdRpcnekIvy experience:0
+your rank:1
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+your rank:1
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+card name is invalid
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+number of coins:300
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+your rank:1
+number of coins:300
+main menu
+card yellow bought successfully
+you don't have this type of card for sell
+card pineco bought successfully
+card tepig bought successfully
+card tepig sold successfully
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+card name is invalid
+card yellow equipped to your deck successfully
+you don't have this type of card
+card pineco equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+1.yellow
+2.pineco
+1.username:ilbdRpcnekIvy experience:0
+1.yellow
+2.pineco
+experience:0
+experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card in your deck
+card yellow unequipped from your deck successfully
+you don't have this type of card in your deck
+card pineco unequipped from your deck successfully
+profile menu
+1.energy yellow 5
+2.plant pineco 9
+number of coins:283
+profile menu
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+invalid command
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card pineco equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card yellow equipped to your deck successfully
+invalid command
+you don't have this type of card
+invalid command
+you don't have this type of card
+card name is invalid
+your rank:1
+1.username:ilbdRpcnekIvy experience:0
+number of coins:283
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:283
+card pineco unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.energy yellow 5
+2.plant pineco 9
+1.yellow
+1.energy yellow 5
+2.plant pineco 9
+1.username:ilbdRpcnekIvy experience:0
+1.yellow
+number of coins:283
+main menu
+your rank:1
+experience:0
+1.yellow
+experience:0
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card pineco equipped to your deck successfully
+card name is invalid
+you don't have this type of card in your deck
+card yellow unequipped from your deck successfully
+you don't have this type of card in your deck
+1.username:ilbdRpcnekIvy experience:0
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+main menu
+card pink bought successfully
+card yellow sold successfully
+card name is invalid
+you don't have this type of card for sell
+card tepig bought successfully
+shop menu
+card tepig bought successfully
+card rowlet bought successfully
+card dragonite bought successfully
+you don't have this type of card for sell
+card tepig sold successfully
+you don't have this type of card for sell
+shop menu
+card pineco bought successfully
+card rowlet sold successfully
+card lugia bought successfully
+card tepig sold successfully
+you don't have this type of card for sell
+you don't have this type of card for sell
+card lugia sold successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+experience:0
+number of coins:251
+1.plant pineco 9
+2.energy pink 5
+3.fire dragonite 10
+4.plant pineco 9
+1.pineco
+card dragonite equipped to your deck successfully
+you don't have this type of card
+card pink equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you have already added this type of pokemon to your deck
+1.pineco
+2.dragonite
+3.pink
+1.username:ilbdRpcnekIvy experience:0
+1.username:ilbdRpcnekIvy experience:0
+1.pineco
+2.dragonite
+3.pink
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+invalid command
+main menu
+card pink sold successfully
+card ducklett bought successfully
+card pineco bought successfully
+shop menu
+card pineco sold successfully
+card dragonite sold successfully
+card lugia bought successfully
+card tepig bought successfully
+card ducklett bought successfully
+card pineco equipped to your deck successfully
+card name is invalid
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card ducklett equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card lugia equipped to your deck successfully
+card tepig equipped to your deck successfully
+experience:0
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card ducklett unequipped from your deck successfully
+card pineco unequipped from your deck successfully
+you don't have this type of card in your deck
+card lugia unequipped from your deck successfully
+card ducklett equipped to your deck successfully
+card name is invalid
+card lugia equipped to your deck successfully
+card pineco equipped to your deck successfully
+you don't have this type of card
+you have already added this type of pokemon to your deck
+card name is invalid
+you have already added this type of pokemon to your deck
+password is incorrect
+password is incorrect
+username doesn't exist
+username doesn't exist
+user logged in successfully
+1.tepig
+2.ducklett
+3.lugia
+4.pineco
+1.username:ilbdRpcnekIvy experience:0
+1.tepig
+2.ducklett
+3.lugia
+4.pineco
+1.tepig
+2.ducklett
+3.lugia
+4.pineco
+experience:0
+profile menu

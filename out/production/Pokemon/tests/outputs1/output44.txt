@@ -1,0 +1,129 @@
+username format is invalid
+email format is invalid
+password length too small or short
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+login menu
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+password length too small or short
+username format is invalid
+user registered successfully
+username doesn't exist
+username doesn't exist
+username doesn't exist
+user logged in successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card yellow bought successfully
+you don't have this type of card for sell
+card lugia bought successfully
+card name is invalid
+shop menu
+card yellow bought successfully
+your rank:1
+1.username:lyUQRJHQv experience:0
+your rank:1
+number of coins:279
+number of coins:279
+experience:0
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+your rank:1
+your rank:1
+1.username:lyUQRJHQv experience:0
+profile menu
+number of coins:279

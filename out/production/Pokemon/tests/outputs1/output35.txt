@@ -1,0 +1,262 @@
+your password must have at least one special character
+username format is invalid
+email format is invalid
+invalid command
+user registered successfully
+password is incorrect
+username doesn't exist
+password is incorrect
+user logged in successfully
+card ducklett bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+card pineco bought successfully
+card ducklett bought successfully
+card pink bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+shop menu
+card yellow bought successfully
+card tepig bought successfully
+card pink sold successfully
+1.water ducklett 15
+2.plant pineco 9
+3.water ducklett 15
+4.energy yellow 5
+5.fire tepig 13
+number of coins:241
+experience:0
+card name is invalid
+card pineco bought successfully
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+your rank:1
+profile menu
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.water ducklett 15
+2.plant pineco 9
+3.water ducklett 15
+4.energy yellow 5
+5.fire tepig 13
+6.plant pineco 9
+card lugia bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+card rowlet bought successfully
+card name is invalid
+card tepig bought successfully
+shop menu
+username is incorrect
+username is incorrect
+username is incorrect
+number of coins:196
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.water ducklett 15
+2.plant pineco 9
+3.water ducklett 15
+4.energy yellow 5
+5.fire tepig 13
+6.plant pineco 9
+7.water lugia 11
+8.plant rowlet 12
+9.fire tepig 13
+number of coins:196
+your rank:1
+1.water ducklett 15
+2.plant pineco 9
+3.water ducklett 15
+4.energy yellow 5
+5.fire tepig 13
+6.plant pineco 9
+7.water lugia 11
+8.plant rowlet 12
+9.fire tepig 13
+1.water ducklett 15
+2.plant pineco 9
+3.water ducklett 15
+4.energy yellow 5
+5.fire tepig 13
+6.plant pineco 9
+7.water lugia 11
+8.plant rowlet 12
+9.fire tepig 13
+profile menu
+1.water ducklett 15
+2.plant pineco 9
+3.water ducklett 15
+4.energy yellow 5
+5.fire tepig 13
+6.plant pineco 9
+7.water lugia 11
+8.plant rowlet 12
+9.fire tepig 13
+number of coins:196
+your rank:1
+card yellow equipped to your deck successfully
+card tepig equipped to your deck successfully
+card rowlet equipped to your deck successfully
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+card lugia equipped to your deck successfully
+you don't have this type of card
+1.water ducklett 15
+2.plant pineco 9
+3.water ducklett 15
+4.energy yellow 5
+5.fire tepig 13
+6.plant pineco 9
+7.water lugia 11
+8.plant rowlet 12
+9.fire tepig 13
+experience:0
+card name is invalid
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+you don't have this type of card
+invalid command
+card name is invalid
+experience:0
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card name is invalid
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+experience:0
+1.yellow
+2.tepig
+3.rowlet
+4.lugia
+5.ducklett
+6.pineco
+1.yellow
+2.tepig
+3.rowlet
+4.lugia
+5.ducklett
+6.pineco
+main menu
+you don't have this type of card
+you have already added this type of pokemon to your deck
+invalid command
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+card yellow bought successfully
+card yellow sold successfully
+card yellow bought successfully
+card lugia sold successfully
+card name is invalid
+card tepig bought successfully
+shop menu
+you don't have this type of card for sell
+card pink bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+number of coins:180
+you don't have this type of card
+card yellow equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card name is invalid
+card name is invalid
+you have already added this type of pokemon to your deck
+card pink equipped to your deck successfully
+card tepig unequipped from your deck successfully
+card pink unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card name is invalid
+card name is invalid
+you don't have this type of card
+experience:0
+1.username:kDBasOYpIRtyVbPwZJq experience:0
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+you don't have this type of card for sell
+card name is invalid
+card dragonite bought successfully
+you don't have this type of card for sell
+you don't have this type of card for sell
+card dragonite sold successfully
+card dragonite bought successfully
+shop menu
+card tepig sold successfully
+card ducklett sold successfully
+shop menu
+card yellow sold successfully
+card pineco bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+main menu
+email format is invalid
+you can't use special characters
+you can't use special characters
+email format is invalid
+user registered successfully
+username doesn't exist
+username doesn't exist
+username doesn't exist
+user logged in successfully
+number of coins:300
+number of coins:300
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:300
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:300
+experience:0
+experience:0
+you don't have this type of card
+you don't have this type of card
+invalid command
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card

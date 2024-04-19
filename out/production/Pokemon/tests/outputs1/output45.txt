@@ -1,0 +1,181 @@
+password length too small or short
+invalid command
+user registered successfully
+password is incorrect
+user logged in successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+1.username:rZMKdS_fi experience:0
+number of coins:300
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+your rank:1
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:rZMKdS_fi experience:0
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:rZMKdS_fi experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:rZMKdS_fi experience:0
+1.username:rZMKdS_fi experience:0
+1.username:rZMKdS_fi experience:0
+1.username:rZMKdS_fi experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+your rank:1
+your rank:1
+1.username:rZMKdS_fi experience:0
+experience:0
+experience:0
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+shop menu
+card lugia bought successfully
+card yellow bought successfully
+shop menu
+card pineco bought successfully
+you don't have this type of card for sell
+card rowlet bought successfully
+card dragonite bought successfully
+card lugia sold successfully
+card pink bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card pink sold successfully
+shop menu
+card yellow bought successfully
+card pink bought successfully
+shop menu
+shop menu
+you don't have this type of card for sell
+card yellow sold successfully
+username is incorrect
+username is incorrect
+username is incorrect
+your rank:1
+your rank:1
+number of coins:253
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+profile menu
+1.plant pineco 9
+2.plant rowlet 12
+3.fire dragonite 10
+4.energy yellow 5
+5.energy pink 5
+you don't have this type of card
+card pineco equipped to your deck successfully
+card pink equipped to your deck successfully
+card dragonite equipped to your deck successfully
+you don't have this type of card
+card yellow equipped to your deck successfully
+card rowlet equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.plant pineco 9
+2.plant rowlet 12
+3.fire dragonite 10
+4.energy yellow 5
+5.energy pink 5
+profile menu
+1.pineco
+2.pink
+3.dragonite
+4.yellow
+5.rowlet
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card pink unequipped from your deck successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card name is invalid
+card rowlet sold successfully
+card ducklett bought successfully
+card yellow bought successfully
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+you don't have this type of card for sell
+shop menu
+you don't have this type of card for sell
+you don't have this type of card for sell
+card pineco sold successfully
+main menu
+shop menu
+main menu
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card tepig bought successfully
+card ducklett bought successfully
+shop menu
+card tepig bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+shop menu
+card name is invalid
+card yellow bought successfully
+card pink sold successfully
+card pineco bought successfully
+shop menu

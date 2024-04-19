@@ -1,0 +1,103 @@
+password length too small or short
+user registered successfully
+password is incorrect
+username doesn't exist
+user logged in successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+your rank:1
+number of coins:300
+profile menu
+you can't use special characters
+username doesn't exist
+username doesn't exist
+user logged in successfully
+you don't have this type of card for sell
+card name is invalid
+you don't have this type of card for sell
+card rowlet bought successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card rowlet equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+number of coins:288
+shop menu
+1.username:foMQnUBMOg experience:0
+your rank:1
+1.rowlet
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.rowlet
+1.username:foMQnUBMOg experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+invalid command
+your rank:1
+you don't have this type of card for sell
+card pineco bought successfully
+card lugia bought successfully
+you don't have this type of card for sell
+card yellow bought successfully
+shop menu
+shop menu
+card pink bought successfully
+card yellow bought successfully
+main menu
+card ducklett bought successfully
+user registered successfully
+username doesn't exist
+password is incorrect
+user logged in successfully
+shop menu
+card tepig bought successfully
+card yellow bought successfully
+card yellow sold successfully
+shop menu
+you don't have this type of card for sell

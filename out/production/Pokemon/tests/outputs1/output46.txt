@@ -1,0 +1,21 @@
+password length too small or short
+username format is invalid
+invalid command
+user registered successfully
+password is incorrect
+password is incorrect
+password is incorrect
+username doesn't exist
+user logged in successfully
+profile menu
+experience:0
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+profile menu
+number of coins:300
+experience:0
+number of coins:300
+your rank:1

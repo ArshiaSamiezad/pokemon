@@ -1,0 +1,442 @@
+username format is invalid
+invalid command
+user registered successfully
+username doesn't exist
+password is incorrect
+user logged in successfully
+card tepig bought successfully
+you don't have this type of card for sell
+card name is invalid
+username doesn't exist
+password is incorrect
+user logged in successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+profile menu
+1.fire tepig 13
+1.fire tepig 13
+your rank:1
+profile menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+card name is invalid
+experience:0
+1.username:IR_Ri experience:0
+your rank:1
+experience:0
+experience:0
+number of coins:287
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+card ducklett bought successfully
+card rowlet bought successfully
+card pineco bought successfully
+card tepig bought successfully
+you don't have this type of card for sell
+card tepig bought successfully
+shop menu
+card pineco bought successfully
+card pineco sold successfully
+card ducklett bought successfully
+card pink bought successfully
+card lugia bought successfully
+card lugia sold successfully
+card ducklett bought successfully
+main menu
+1.username:IR_Ri experience:0
+number of coins:186
+your rank:1
+experience:0
+your rank:1
+number of coins:186
+1.username:IR_Ri experience:0
+card pineco equipped to your deck successfully
+you don't have this type of card
+card pink equipped to your deck successfully
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+profile menu
+you don't have this type of card
+card rowlet equipped to your deck successfully
+you don't have this type of card
+card ducklett equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+card name is invalid
+1.pineco
+2.pink
+3.rowlet
+4.ducklett
+your rank:1
+card name is invalid
+card ducklett unequipped from your deck successfully
+you don't have this type of card in your deck
+invalid command
+card name is invalid
+card name is invalid
+card tepig equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+card ducklett equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+profile menu
+1.fire tepig 13
+2.water ducklett 15
+3.plant rowlet 12
+4.fire tepig 13
+5.fire tepig 13
+6.plant pineco 9
+7.water ducklett 15
+8.energy pink 5
+9.water ducklett 15
+1.fire tepig 13
+2.water ducklett 15
+3.plant rowlet 12
+4.fire tepig 13
+5.fire tepig 13
+6.plant pineco 9
+7.water ducklett 15
+8.energy pink 5
+9.water ducklett 15
+1.username:IR_Ri experience:0
+experience:0
+number of coins:186
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+1.fire tepig 13
+2.water ducklett 15
+3.plant rowlet 12
+4.fire tepig 13
+5.fire tepig 13
+6.plant pineco 9
+7.water ducklett 15
+8.energy pink 5
+9.water ducklett 15
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+invalid command
+1.fire tepig 13
+2.water ducklett 15
+3.plant rowlet 12
+4.fire tepig 13
+5.fire tepig 13
+6.plant pineco 9
+7.water ducklett 15
+8.energy pink 5
+9.water ducklett 15
+experience:0
+main menu
+1.username:IR_Ri experience:0
+experience:0
+your rank:1
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:186
+number of coins:186
+experience:0
+your rank:1
+number of coins:186
+1.pineco
+2.pink
+3.rowlet
+4.tepig
+5.ducklett
+you don't have this type of card in your deck
+card pink unequipped from your deck successfully
+card tepig unequipped from your deck successfully
+main menu
+shop menu
+card tepig sold successfully
+card tepig bought successfully
+1.water ducklett 15
+2.plant rowlet 12
+3.fire tepig 13
+4.fire tepig 13
+5.plant pineco 9
+6.water ducklett 15
+7.energy pink 5
+8.water ducklett 15
+9.fire tepig 13
+experience:0
+1.water ducklett 15
+2.plant rowlet 12
+3.fire tepig 13
+4.fire tepig 13
+5.plant pineco 9
+6.water ducklett 15
+7.energy pink 5
+8.water ducklett 15
+9.fire tepig 13
+1.pineco
+2.rowlet
+3.ducklett
+1.username:IR_Ri experience:0
+experience:0
+number of coins:183
+1.username:IR_Ri experience:0
+invalid command
+1.pineco
+2.rowlet
+3.ducklett
+number of coins:183
+profile menu
+your rank:1
+you don't have this type of card
+invalid command
+card pink equipped to your deck successfully
+you don't have this type of card
+card tepig equipped to your deck successfully
+card name is invalid
+1.pineco
+2.rowlet
+3.ducklett
+4.pink
+5.tepig
+profile menu
+1.water ducklett 15
+2.plant rowlet 12
+3.fire tepig 13
+4.fire tepig 13
+5.plant pineco 9
+6.water ducklett 15
+7.energy pink 5
+8.water ducklett 15
+9.fire tepig 13
+your rank:1
+number of coins:183
+1.pineco
+2.rowlet
+3.ducklett
+4.pink
+5.tepig
+your rank:1
+1.water ducklett 15
+2.plant rowlet 12
+3.fire tepig 13
+4.fire tepig 13
+5.plant pineco 9
+6.water ducklett 15
+7.energy pink 5
+8.water ducklett 15
+9.fire tepig 13
+your rank:1
+number of coins:183
+1.username:IR_Ri experience:0
+profile menu
+1.water ducklett 15
+2.plant rowlet 12
+3.fire tepig 13
+4.fire tepig 13
+5.plant pineco 9
+6.water ducklett 15
+7.energy pink 5
+8.water ducklett 15
+9.fire tepig 13
+card ducklett unequipped from your deck successfully
+invalid command
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+card tepig unequipped from your deck successfully
+card pineco unequipped from your deck successfully
+card name is invalid
+you don't have this type of card in your deck
+1.water ducklett 15
+2.plant rowlet 12
+3.fire tepig 13
+4.fire tepig 13
+5.plant pineco 9
+6.water ducklett 15
+7.energy pink 5
+8.water ducklett 15
+9.fire tepig 13
+you don't have this type of card
+card ducklett equipped to your deck successfully
+invalid command
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:IR_Ri experience:0
+your rank:1
+your rank:1
+1.rowlet
+2.pink
+3.ducklett
+1.username:IR_Ri experience:0
+experience:0
+experience:0
+email format is invalid
+your password must start with english letters
+user registered successfully
+password is incorrect
+username doesn't exist
+user logged in successfully
+email format is invalid
+username format is invalid
+password length too small or short
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command

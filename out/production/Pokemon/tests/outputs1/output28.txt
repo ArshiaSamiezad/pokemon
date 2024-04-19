@@ -1,0 +1,103 @@
+password length too small or short
+your password must have at least one special character
+you can't use special characters
+user registered successfully
+password is incorrect
+user logged in successfully
+main menu
+shop menu
+shop menu
+you don't have this type of card for sell
+card yellow bought successfully
+card ducklett bought successfully
+you don't have this type of card for sell
+shop menu
+card name is invalid
+card lugia bought successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card ducklett equipped to your deck successfully
+shop menu
+card pink bought successfully
+you don't have this type of card for sell
+card name is invalid
+card pink bought successfully
+card name is invalid
+you don't have this type of card for sell
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+1.lugia
+2.ducklett
+1.username:qjBPyljxdwzHsip experience:0
+invalid command
+1.energy yellow 5
+2.water ducklett 15
+3.water lugia 11
+4.energy pink 5
+5.energy pink 5
+1.lugia
+2.ducklett
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+card yellow equipped to your deck successfully
+card pink equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+number of coins:259
+1.lugia
+2.ducklett
+3.yellow
+4.pink
+you don't have this type of card in your deck
+card ducklett unequipped from your deck successfully
+card yellow unequipped from your deck successfully
+you don't have this type of card in your deck
+1.username:qjBPyljxdwzHsip experience:0
+card pink bought successfully
+card lugia bought successfully
+1.lugia
+2.pink
+your rank:1
+you don't have this type of card in your deck
+card lugia unequipped from your deck successfully
+card name is invalid
+you don't have this type of card for sell
+card ducklett bought successfully
+card yellow bought successfully
+card ducklett bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+card pink equipped to your deck successfully
+card name is invalid
+you don't have this type of card
+card ducklett equipped to your deck successfully
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card pink equipped to your deck successfully
+you don't have this type of card
+card yellow equipped to your deck successfully
+card name is invalid
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+main menu

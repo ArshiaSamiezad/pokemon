@@ -1,0 +1,201 @@
+register username PVRDnwaGuNpQi password EK-EYk3P@6FWp*LE email gckNU.@#A .com
+register username fSGsPbCE password nAlm(+-03!+8b+MGJTF email %<L@ejje.com
+register username P_xcGfCsAAryRKj password ayD+z7@eQL+h5 email #0vv>__u@.com
+register username IU password x)$$W'g$074Kr. email @jul.com
+login username IU password x)$$W'g$074Kr.
+go to shop menu
+show current menu
+buy card tepig
+buy card du  klett
+sell card dragonite
+sell card dragonite
+buy card ducklett
+sell card ducklett
+back
+logout
+register username eJBokGDCQoCb password kZix%R3^+E&1p-- email ah+r)r@OdfA.co
+register username 7hFV4GA!HFP(05VLC4 password vxgNo^qhT^7mGMVB0_O email 10.3gl3M@eivbrggjb.com
+register username qAlhCld9agZKA8riR password sC7ZI4uTo@D9iuH>ug email nAva.UlrB@dmjdfafc.com
+register username gYHheZLCPixgVuQ password ll+T+^eep^s4()qEgF5 email .@qmoqva.com
+login username gYHheZLCPixgVuQ password ll+T+^eep^s4()qEgF5
+go to shop menu
+buy card dragonite
+buy card tepig
+sell card lugia
+back
+go to shop menu
+buy card tepig
+back
+show current menu
+go to shop menu
+show current menu
+sell card lugia
+buy card pineco
+sell card lugia
+show current menu
+show current menu
+buy card pink
+sell card dragonite
+sell card yel  low
+back
+go to profile menu
+show my deck
+unequip card rowlet from my deck
+unequip card yellow from my deck
+unequip card dragonite from my deck
+show ranking
+show experience
+show current menu
+show my rank
+show experience
+show my rank
+show coins
+show ranking
+show storage
+show my deck
+show storage
+show my rank
+show my deck
+equip card lugia to my deck
+equip card yellow to my deck
+equip card rowlet to my deck
+equip card ducklett to my deck
+equip card yellow to my deck
+show storage
+show coins
+back
+go to profile menu
+back
+go to shop menu
+sell card ducklett
+buy card rowlet
+back
+go to shop menu
+back
+start new game with IU
+start new game with IU
+start new game with IU
+go to profile menu
+show current menu
+equip card pineco to my deck
+equip card tepig to my deck
+equip card dragonite to my deck
+equip card dragonite to my deck
+equip card ducklett to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+show storage
+unequip card lugia from my deck
+unequip card rowlet from my deck
+unequip card pink from my deck
+show experience
+show ranking
+show my deck
+equip card pink to my deck
+equip card pineco to my deck
+equip card yellow to my deck
+equip card lugia to my deck
+equip card yellow to my deck
+equip card lugia to my deck
+equip card t pig to my deck
+equip card drag nite to my deck
+show my rank
+show ranking
+show ranking
+show my rank
+back
+go to profile menu
+show my deck
+show ranking
+show experience
+equip card rowlet to my deck
+equip card lugia to my deck
+equip card rowlet to my deck
+equip card tepig to my deck
+equip card pineco to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card pink to my deck
+show coins
+show experience
+show experience
+back
+go to profile menu
+show ranking
+show coins
+back
+start new game with IU
+start new game with IU
+start new game with IU
+start new game with IU
+show current menu
+start new game with IU
+start new game with IU
+start new game with IU
+go to profile menu
+show storage
+show storage
+show my deck
+equip card pineco to my deck
+equip card lugia to my deck
+equip card row@let to my deck
+equip card rowlet to my deck
+equip card lugia to my deck
+equip card pineco to my deck
+equip card tepig to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+show ranking
+show storage
+show experience
+show my deck
+show coins
+show coins
+show my deck
+equip card pineco to my deck
+equip card pineco to my deck
+equip card ducklett to my deck
+equip card lugia to my deck
+equip card pink to my deck
+equip card ducklett to my deck
+equip card draGonite to my deck
+equip card pineco to my deck
+equip card yellow to my deck
+show my rank
+show storage
+show coins
+equip card yellow to my deck
+equip card du  klett to my deck
+equip card tepi*g to my deck
+equip card y+ellow to my deck
+equip card lugia to my deck
+back
+logout
+login username gYHheZLCPixgVuQ password ll+T+^eep^s4()qEgF5
+start new game with IU
+start new game with IU
+start new game with IU
+start new game with IU
+go to profile menu
+equip card pineco to my deck
+equip card lugia to my deck
+equip card yel  low to my deck
+equip card tepig to my deck
+equip card yellow to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card pink to my deck
+equip card tepig to my deck
+equip card tepig to my deck
+show ranking
+show my rank
+show ranking
+unequip card tepig from my deck
+unequip card yellow from my deck
+unequip card pi_nk from my deck
+show experience
+show my rank
+show storage
+back
+logout
+exit

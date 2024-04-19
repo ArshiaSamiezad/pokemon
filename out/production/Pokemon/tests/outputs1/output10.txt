@@ -1,0 +1,23 @@
+invalid command
+email format is invalid
+your password must have at least one special character
+user registered successfully
+username doesn't exist
+username doesn't exist
+user logged in successfully
+number of coins:300
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+your rank:1
+number of coins:300
+your rank:1
+your rank:1
+username doesn't exist
+password is incorrect
+user logged in successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect

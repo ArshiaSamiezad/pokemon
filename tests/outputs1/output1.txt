@@ -1,0 +1,156 @@
+password length too small or short
+invalid command
+email format is invalid
+user registered successfully
+user logged in successfully
+you don't have this type of card for sell
+invalid command
+card yellow bought successfully
+shop menu
+you don't have this type of card for sell
+card ducklett bought successfully
+you don't have this type of card for sell
+shop menu
+card lugia bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+card name is invalid
+card tepig bought successfully
+shop menu
+card ducklett bought successfully
+you don't have this type of card for sell
+card dragonite bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card lugia sold successfully
+shop menu
+invalid command
+shop menu
+card tepig bought successfully
+you don't have this type of card for sell
+card lugia bought successfully
+1.username:GG experience:0
+experience:0
+card name is invalid
+card tepig equipped to your deck successfully
+card yellow equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card lugia equipped to your deck successfully
+card dragonite equipped to your deck successfully
+card name is invalid
+you don't have this type of card
+experience:0
+1.username:GG experience:0
+1.tepig
+2.yellow
+3.lugia
+4.dragonite
+1.energy yellow 5
+2.water ducklett 15
+3.fire tepig 13
+4.water ducklett 15
+5.fire dragonite 10
+6.fire tepig 13
+7.water lugia 11
+1.energy yellow 5
+2.water ducklett 15
+3.fire tepig 13
+4.water ducklett 15
+5.fire dragonite 10
+6.fire tepig 13
+7.water lugia 11
+profile menu
+1.username:GG experience:0
+1.username:GG experience:0
+you don't have this type of card
+card ducklett equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+invalid command
+your rank:1
+number of coins:216
+experience:0
+number of coins:216
+card tepig bought successfully
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+your rank:1
+1.username:GG experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+1.username:GG experience:0
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+1.username:GG experience:0
+profile menu
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+profile menu
+1.username:GG experience:0
+number of coins:203
+number of coins:203
+1.energy yellow 5
+2.water ducklett 15
+3.fire tepig 13
+4.water ducklett 15
+5.fire dragonite 10
+6.fire tepig 13
+7.water lugia 11
+8.fire tepig 13
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card name is invalid
+card yellow sold successfully
+card ducklett bought successfully

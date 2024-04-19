@@ -1,0 +1,23 @@
+register username LacD password Q36@yY email iZ@brvlpz.com
+login username GejrZSbXsQSJAcdWS password A^Q@q4
+login username RbMEagBAcWcfCmB password 40Q0p-pj3VhLDI!
+login username LacD password $jMPqkm0SkRI(qxoP a>bq1oUc.
+login username LacD password Q36@yY
+go to profile menu
+show experience
+show storage
+show ranking
+show ranking
+equip card pi_nk to my deck
+equip card lugia to my deck
+equip card rowlet to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card yellow to my deck
+equip card pink to my deck
+show experience
+show my rank
+show experience
+back
+logout
+exit

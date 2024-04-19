@@ -1,0 +1,68 @@
+you can't use special characters
+user registered successfully
+user logged in successfully
+user logged in successfully
+main menu
+main menu
+number of coins:300
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:TYXKhYKDJDff experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+username is incorrect
+username is incorrect
+username is incorrect
+card name is invalid
+shop menu
+card rowlet bought successfully
+you don't have this type of card for sell
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+user logged in successfully
+experience:0
+you don't have this type of card for sell
+you don't have this type of card for sell
+card yellow bought successfully
+card pineco bought successfully
+card ducklett bought successfully
+you don't have this type of card for sell
+card name is invalid
+card dragonite bought successfully
+you don't have this type of card for sell
+you don't have this type of card for sell
+card dragonite bought successfully
+card lugia bought successfully
+you don't have this type of card for sell
+main menu
+shop menu
+card tepig bought successfully
+card pineco bought successfully
+username format is invalid
+user registered successfully
+user logged in successfully
+dPUOEDiOIcTrokGKb has no 12 cards in deck
+dPUOEDiOIcTrokGKb has no 12 cards in deck
+dPUOEDiOIcTrokGKb has no 12 cards in deck
+card yellow bought successfully
+card yellow bought successfully
+card tepig bought successfully
+dPUOEDiOIcTrokGKb has no 12 cards in deck
+dPUOEDiOIcTrokGKb has no 12 cards in deck
+dPUOEDiOIcTrokGKb has no 12 cards in deck
+main menu

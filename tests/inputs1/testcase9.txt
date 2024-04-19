@@ -1,0 +1,46 @@
+register username dSOxRmxyqydO password rSa2xiEJ^!SfvyPp8Hf email ul+<!@sgky.com
+register username muITCMQ_SasytOlCPR password ZlpEc$&qd>bxO email @h+Gx.&*d9.com
+register username RTSCDdLQsOSKko password h.qf<mGCF!nmCqh>oE email TeOO82H.@ak%iP.com
+register username hLiMmSr password xjDe#GqpS email @.com
+register username eDzDEJ password HsbFWt&$CHzBni> email .6S@sdg.com
+login username pp-N7 59sq0K<rt+8 password 79<gpL&
+register username txXpEvktZnyNQul password f+@d#^V><^ email ^4'K_Dt-@.co
+register username mTjTRcssWefl__Q password bCp-ARBWn%paKuut email .df@cbhfjuqpt.com
+register username SFzdcxU_CrYjnQo_ password *<*h5gjb8AFd email KoxC.@S7'<8(.com
+register username NhWPaygEZfwEhvn password +ia0c2l8SRHZJeab .Wh email C.@uyashfwuc.com
+register username VyHhWoajlgXVC password p(Oa^AH^kD>$Hi email L.DJZ@qvatwv.com
+login username VyHhWoajlgXVC password p(Oa^AH^kD>$Hi
+show current menu
+go to profile menu
+show coins
+back
+go to profile menu
+show experience
+show storage
+show my rank
+show experience
+show my rank
+show storage
+equip card pineco to my deck
+equip card yellow to my deck
+equip card rowlet to my deck
+equip card pinEco to my deck
+equip card pink to my deck
+equip card lugia to my deck
+show my deck
+show ranking
+show my rank
+show storage
+unequip card dragonite from my deck
+unequip card lOugia from my deck
+unequip card pink from my deck
+show my rank
+show coins
+show coins
+show ranking
+back
+go to profile menu
+back
+show current menu
+logout
+exit

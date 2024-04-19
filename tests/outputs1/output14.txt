@@ -1,0 +1,6 @@
+user registered successfully
+username doesn't exist
+password is incorrect
+password is incorrect
+username doesn't exist
+user logged in successfully

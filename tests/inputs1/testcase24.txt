@@ -1,0 +1,33 @@
+register username OGzaCvjMGWthqBhBJ password b8iMG>N#EGIqkh email Wz.mKL5P@pmivdb.com
+login username OGzaCvjMGWthqBhBJ password b8iMG>N#EGIqkh
+go to shop menu
+show current menu
+buy card pink
+back
+start new game with sZcRLOZygCE_jDRs
+start new game with r
+start new game with AHnV_aMHIEOzlJOTfCb
+start new game with VxWzhdx
+go to profile menu
+show my rank
+show my deck
+show current menu
+show my deck
+back
+go to shop menu
+buy card lugia
+back
+go to shop menu
+buy card pineco
+buy card ducklett
+show current menu
+show current menu
+back
+logout
+register username CUnzR password EGxo$&YU email C.l@nh.com
+login username CUnzR password EGxo$&YU
+logout
+register username MpTveSxuSDlj password rK.'CClI<$!tSHrPc_ email I1CmEel@cgvblrije.com
+login username MpTveSxuSDlj password rK.'CClI<$!tSHrPc_
+logout
+exit

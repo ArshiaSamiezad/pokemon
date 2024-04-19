@@ -1,0 +1,410 @@
+username format is invalid
+password length too small or short
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+username doesn't exist
+username doesn't exist
+invalid command
+username doesn't exist
+username doesn't exist
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+your password must have at least one special character
+password length too small or short
+email format is invalid
+user registered successfully
+username doesn't exist
+invalid command
+username doesn't exist
+invalid command
+user logged in successfully
+main menu
+password is incorrect
+password is incorrect
+username doesn't exist
+password is incorrect
+user logged in successfully
+experience:0
+1.username:VmxfAuBmV experience:0
+1.username:VmxfAuBmV experience:0
+1.username:VmxfAuBmV experience:0
+experience:0
+experience:0
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+invalid command
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+experience:0
+number of coins:300
+your rank:1
+profile menu
+number of coins:300
+experience:0
+experience:0
+1.username:VmxfAuBmV experience:0
+experience:0
+experience:0
+experience:0
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:300
+your rank:1
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card yellow bought successfully
+card lugia bought successfully
+you don't have this type of card for sell
+you don't have this type of card for sell
+you don't have this type of card for sell
+you don't have this type of card for sell
+card ducklett bought successfully
+card pink bought successfully
+card name is invalid
+card name is invalid
+invalid command
+your rank:1
+profile menu
+1.energy yellow 5
+2.water lugia 11
+3.water ducklett 15
+4.energy pink 5
+card ducklett equipped to your deck successfully
+card name is invalid
+card pink equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.ducklett
+2.pink
+3.lugia
+1.energy yellow 5
+2.water lugia 11
+3.water ducklett 15
+4.energy pink 5
+1.energy yellow 5
+2.water lugia 11
+3.water ducklett 15
+4.energy pink 5
+1.energy yellow 5
+2.water lugia 11
+3.water ducklett 15
+4.energy pink 5
+card pink unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+invalid command
+you don't have this type of card in your deck
+invalid command
+card yellow equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card ducklett unequipped from your deck successfully
+you don't have this type of card in your deck
+1.lugia
+2.yellow
+you don't have this type of card
+card ducklett equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+experience:0
+number of coins:264
+you don't have this type of card
+invalid command
+you don't have this type of card
+card pink equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:264
+1.username:VmxfAuBmV experience:0
+1.username:VmxfAuBmV experience:0
+profile menu
+profile menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.energy yellow 5
+2.water lugia 11
+3.water ducklett 15
+4.energy pink 5
+1.lugia
+2.yellow
+3.ducklett
+4.pink
+1.username:VmxfAuBmV experience:0
+card yellow unequipped from your deck successfully
+you don't have this type of card in your deck
+card ducklett unequipped from your deck successfully
+number of coins:264
+experience:0
+1.username:VmxfAuBmV experience:0
+profile menu
+card lugia unequipped from your deck successfully
+card name is invalid
+you don't have this type of card in your deck
+your rank:1
+1.energy yellow 5
+2.water lugia 11
+3.water ducklett 15
+4.energy pink 5
+number of coins:264
+your rank:1
+number of coins:264
+1.pink
+main menu
+your rank:1
+your rank:1
+1.username:VmxfAuBmV experience:0
+your rank:1
+card ducklett bought successfully
+card tepig bought successfully
+shop menu
+main menu
+number of coins:236
+1.username:VmxfAuBmV experience:0
+1.energy yellow 5
+2.water lugia 11
+3.water ducklett 15
+4.energy pink 5
+5.water ducklett 15
+6.fire tepig 13
+card tepig equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+1.pink
+2.tepig
+number of coins:236
+you don't have this type of card
+card lugia equipped to your deck successfully
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+your rank:1
+card ducklett equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card name is invalid
+you don't have this type of card
+card yellow equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+card name is invalid
+you have already added this type of pokemon to your deck
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+profile menu
+1.energy yellow 5
+2.water lugia 11
+3.water ducklett 15
+4.energy pink 5
+5.water ducklett 15
+6.fire tepig 13
+number of coins:236
+1.energy yellow 5
+2.water lugia 11
+3.water ducklett 15
+4.energy pink 5
+5.water ducklett 15
+6.fire tepig 13
+1.pink
+2.tepig
+3.lugia
+4.ducklett
+5.yellow
+1.energy yellow 5
+2.water lugia 11
+3.water ducklett 15
+4.energy pink 5
+5.water ducklett 15
+6.fire tepig 13
+1.pink
+2.tepig
+3.lugia
+4.ducklett
+5.yellow
+profile menu
+experience:0
+1.username:VmxfAuBmV experience:0
+1.username:VmxfAuBmV experience:0
+1.username:VmxfAuBmV experience:0
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+1.username:VmxfAuBmV experience:0
+you don't have this type of card in your deck
+card tepig unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card yellow unequipped from your deck successfully
+you don't have this type of card in your deck
+number of coins:236
+1.username:VmxfAuBmV experience:0
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+profile menu
+invalid command
+experience:0
+you don't have this type of card in your deck
+card name is invalid
+card ducklett unequipped from your deck successfully
+you don't have this type of card in your deck
+experience:0
+username is incorrect
+username is incorrect
+username is incorrect
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card tepig equipped to your deck successfully
+you don't have this type of card
+1.username:VmxfAuBmV experience:0
+email format is invalid
+user registered successfully
+password is incorrect
+username doesn't exist
+username doesn't exist
+password is incorrect
+user logged in successfully
+card ducklett bought successfully
+card dragonite bought successfully
+card dragonite sold successfully
+card yellow bought successfully
+number of coins:278
+number of coins:278
+number of coins:278
+1.username:Dz experience:0
+2.username:VmxfAuBmV experience:0
+your rank:1
+profile menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+card ducklett equipped to your deck successfully
+you don't have this type of card
+experience:0
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect

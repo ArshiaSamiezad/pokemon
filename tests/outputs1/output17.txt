@@ -1,0 +1,536 @@
+password length too small or short
+username format is invalid
+invalid command
+user registered successfully
+user logged in successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:C experience:0
+main menu
+main menu
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:300
+1.username:C experience:0
+your rank:1
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:300
+card lugia bought successfully
+card dragonite bought successfully
+card dragonite bought successfully
+you don't have this type of card for sell
+card name is invalid
+card rowlet bought successfully
+you don't have this type of card for sell
+card lugia bought successfully
+your password must start with english letters
+email format is invalid
+invalid command
+user registered successfully
+user logged in successfully
+main menu
+you don't have this type of card for sell
+shop menu
+card pineco bought successfully
+1.plant pineco 9
+your rank:2
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+invalid command
+your rank:2
+experience:0
+1.plant pineco 9
+profile menu
+1.username:C experience:0
+2.username:ELvyhL experience:0
+1.username:C experience:0
+2.username:ELvyhL experience:0
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+invalid command
+number of coins:291
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:291
+1.plant pineco 9
+experience:0
+1.plant pineco 9
+1.plant pineco 9
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.plant pineco 9
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+card name is invalid
+1.plant pineco 9
+profile menu
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+your rank:2
+profile menu
+your rank:2
+card pineco equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.pineco
+main menu
+experience:0
+experience:0
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.plant pineco 9
+your rank:2
+1.pineco
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+your rank:2
+1.username:C experience:0
+2.username:ELvyhL experience:0
+1.pineco
+you don't have this type of card in your deck
+invalid command
+you don't have this type of card in your deck
+profile menu
+1.plant pineco 9
+your rank:2
+profile menu
+experience:0
+1.username:C experience:0
+2.username:ELvyhL experience:0
+1.username:C experience:0
+2.username:ELvyhL experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:291
+1.username:C experience:0
+2.username:ELvyhL experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:291
+your rank:2
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+your rank:2
+1.plant pineco 9
+number of coins:291
+your rank:2
+main menu
+profile menu
+1.username:C experience:0
+2.username:ELvyhL experience:0
+your rank:2
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+1.pineco
+number of coins:291
+your rank:2
+1.pineco
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+1.username:C experience:0
+2.username:ELvyhL experience:0
+profile menu
+profile menu
+1.username:C experience:0
+2.username:ELvyhL experience:0
+your rank:2
+1.pineco
+number of coins:291
+your rank:2
+experience:0
+1.username:C experience:0
+2.username:ELvyhL experience:0
+1.pineco
+number of coins:291
+card lugia bought successfully
+shop menu
+card rowlet bought successfully
+card rowlet sold successfully
+card name is invalid
+your rank:2
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:277
+1.plant pineco 9
+2.water lugia 11
+invalid command
+1.username:C experience:0
+2.username:ELvyhL experience:0
+1.username:C experience:0
+2.username:ELvyhL experience:0
+your rank:2
+your rank:2
+profile menu
+1.plant pineco 9
+2.water lugia 11
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+card pineco unequipped from your deck successfully
+profile menu
+1.username:C experience:0
+2.username:ELvyhL experience:0
+1.username:C experience:0
+2.username:ELvyhL experience:0
+number of coins:277
+card pineco equipped to your deck successfully
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+invalid command
+you don't have this type of card
+invalid command
+you don't have this type of card
+1.plant pineco 9
+2.water lugia 11
+invalid command
+1.plant pineco 9
+2.water lugia 11
+1.pineco
+1.plant pineco 9
+2.water lugia 11
+profile menu
+experience:0
+profile menu
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.pineco
+2.lugia
+invalid command
+1.pineco
+2.lugia
+you don't have this type of card in your deck
+card lugia unequipped from your deck successfully
+you don't have this type of card in your deck
+1.pineco
+profile menu
+1.plant pineco 9
+2.water lugia 11
+your rank:2
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card name is invalid
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.pineco
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+profile menu
+experience:0
+number of coins:277
+your rank:2
+number of coins:277
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card lugia equipped to your deck successfully
+main menu
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+1.pineco
+2.lugia
+1.username:C experience:0
+2.username:ELvyhL experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:C experience:0
+2.username:ELvyhL experience:0
+card lugia unequipped from your deck successfully
+you don't have this type of card in your deck
+card pineco unequipped from your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:C experience:0
+2.username:ELvyhL experience:0
+1.plant pineco 9
+2.water lugia 11
+experience:0
+number of coins:277
+number of coins:277
+profile menu
+card lugia equipped to your deck successfully
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+card pineco equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+invalid command
+your rank:2
+1.username:C experience:0
+2.username:ELvyhL experience:0
+1.lugia
+2.pineco
+profile menu
+your rank:2
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card lugia unequipped from your deck successfully
+your rank:2
+card pineco unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.plant pineco 9
+2.water lugia 11
+card pineco equipped to your deck successfully
+invalid command
+you don't have this type of card
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.pineco
+2.lugia
+username format is invalid
+invalid command
+your password must have at least one special character
+user registered successfully
+user logged in successfully
+shop menu
+card tepig bought successfully
+card name is invalid
+card tepig bought successfully
+invalid command
+you don't have this type of card for sell
+card tepig bought successfully
+you don't have this type of card for sell
+you don't have this type of card in your deck
+invalid command
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:261
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+card name is invalid
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.fire tepig 13
+2.fire tepig 13
+3.fire tepig 13
+1.username:C experience:0
+2.username:ELvyhL experience:0
+3.username:lLcUzLeHRKlr experience:0
+number of coins:261
+you don't have this type of card for sell
+1.username:C experience:0
+2.username:ELvyhL experience:0
+3.username:lLcUzLeHRKlr experience:0
+your rank:3
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+1.username:C experience:0
+2.username:ELvyhL experience:0
+3.username:lLcUzLeHRKlr experience:0
+1.username:C experience:0
+2.username:ELvyhL experience:0
+3.username:lLcUzLeHRKlr experience:0
+your rank:3
+1.fire tepig 13
+2.fire tepig 13
+3.fire tepig 13
+1.fire tepig 13
+2.fire tepig 13
+3.fire tepig 13
+1.username:C experience:0
+2.username:ELvyhL experience:0
+3.username:lLcUzLeHRKlr experience:0
+1.fire tepig 13
+2.fire tepig 13
+3.fire tepig 13
+main menu
+number of coins:261
+1.username:C experience:0
+2.username:ELvyhL experience:0
+3.username:lLcUzLeHRKlr experience:0
+experience:0
+profile menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+card tepig equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+invalid command
+profile menu
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:261
+1.fire tepig 13
+2.fire tepig 13
+3.fire tepig 13

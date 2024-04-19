@@ -1,0 +1,137 @@
+register username fkBrmLSqVwTKf password @nS06iH($P-_)GGPSh2c-^&TK#tX email w3y8.@suy.com
+register username FtnJPSz password o5Qom6Cip&'dXzsK6Q email .7g37Sp@SMd$.com
+register username njOVxJLHwRzcl password oNBsJC9^#_.a_57 email z@pJh.co
+register username PKDp# password HN)GPeURTwd9AZ9GMkA email W6-0Vr@a1Vl.com
+register username VMiOeMyOERj password tWW4jR@yrR8w email WtLQ.@l.com
+login username VMiOeMyOERj password SIWn@w@<G*R9^
+login username VMiOeMyOERj password tWW4jR@yrR8w
+go to shop menu
+back
+go to profile menu
+show my deck
+equip card rowlet to my deck
+equip card pi_nk to my deck
+equip card draGonite to my deck
+equip card yellow to my deck
+equip card dragonite to my deck
+equip card tepig to my deck
+show experience
+show ranking
+show experience
+equip card lOugia to my deck
+equip card tepig to my deck
+equip card lOugia to my deck
+equip card tepig to my deck
+equip card dragonite to my deck
+equip card lugia to my deck
+equip card lugia to my deck
+equip card rowlet to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card ducklett to my deck
+equip card ducklet to my deck
+equip card ducklett to my deck
+equip card rowl et to my deck
+equip card tepig to my deck
+equip card tepig to my deck
+equip card pinEco to my deck
+show current menu
+show current menu
+show ranking
+show ranking
+show my deck
+show experience
+show ranking
+show storage
+show storage
+show my rank
+back
+go to shop menu
+sell card yellow
+buy card tepig
+buy card pineco
+sell card yellow
+sell card pinEco
+buy card tepig
+sell card rowlet
+sell card dragonite
+buy card yellow
+sell card rowlet
+back
+go to profile menu
+show my deck
+show experience
+back
+go to profile menu
+equip card pink to my deck
+equip card ducklett to my deck
+equip card pinEco to my deck
+equip card yellow to my deck
+equip card drag nite to my deck
+equip card tepig to my deck
+equip card dragonite to my deck
+equip card yellow to my deck
+equip card tepi*g to my deck
+show my rank
+show my rank
+show my deck
+show experience
+show storage
+show coins
+show ranking
+equip card rowlet to my deck
+equip card pineco to my deck
+equip card pink to my deck
+equip card rowlet to my deck
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card pink to my deck
+show my rank
+unequip card dragonite from my deck
+unequip card rowlet from my deck
+unequip card rowlet from my deck
+show my deck
+show storage
+show experience
+show ranking
+show experience
+show coins
+unequip card draGonite from my deck
+unequip card pineco from my deck
+unequip card ducklett from my deck
+unequip card tepig from my deck
+unequip card p ink from my deck
+unequip card pi_nk from my deck
+unequip card pineco from my deck
+show my rank
+show storage
+show ranking
+show experience
+back
+logout
+login username RJXjKQ password tux+kNt#v'><EGn
+login username VMiOeMyOERj password tWW4jR@yrR8w
+show current menu
+go to profile menu
+back
+go to profile menu
+show experience
+show coins
+show storage
+show my rank
+back
+show current menu
+go to profile menu
+equip card tepig to my deck
+equip card pineco to my deck
+equip card ducklett to my deck
+equip card lugia to my deck
+equip card row@let to my deck
+equip card ducklett to my deck
+equip card pink to my deck
+equip card dragonite to my deck
+equip card pineco to my deck
+show coins
+back
+logout
+exit

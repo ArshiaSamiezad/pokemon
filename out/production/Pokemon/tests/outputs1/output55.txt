@@ -1,0 +1,359 @@
+email format is invalid
+username format is invalid
+username format is invalid
+password length too small or short
+user registered successfully
+password is incorrect
+user logged in successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+your rank:1
+number of coins:300
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+number of coins:300
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+1.username:WMvRn experience:0
+1.username:WMvRn experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:WMvRn experience:0
+1.username:WMvRn experience:0
+1.username:WMvRn experience:0
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+your rank:1
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+1.username:WMvRn experience:0
+number of coins:300
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+profile menu
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+your rank:1
+profile menu
+1.username:WMvRn experience:0
+1.username:WMvRn experience:0
+your rank:1
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:WMvRn experience:0
+experience:0
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+1.username:WMvRn experience:0
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:300
+card ducklett bought successfully
+card ducklett sold successfully
+you don't have this type of card for sell
+card lugia bought successfully
+card dragonite bought successfully
+card pink bought successfully
+card yellow bought successfully
+card dragonite bought successfully
+shop menu
+card pineco bought successfully
+card yellow sold successfully
+card yellow bought successfully
+card name is invalid
+card pineco bought successfully
+card yellow bought successfully
+card tepig bought successfully
+card yellow bought successfully
+shop menu
+shop menu
+card name is invalid
+card rowlet bought successfully
+you don't have this type of card for sell
+card tepig bought successfully
+card pineco bought successfully
+shop menu
+card yellow bought successfully
+card lugia bought successfully
+card pink sold successfully
+card pineco sold successfully
+main menu
+card yellow bought successfully
+shop menu
+card dragonite bought successfully
+card tepig bought successfully
+card pineco bought successfully
+card lugia sold successfully
+card rowlet sold successfully
+card dragonite bought successfully
+main menu
+main menu
+card tepig equipped to your deck successfully
+card yellow equipped to your deck successfully
+card pineco equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card yellow equipped to your deck successfully
+card lugia equipped to your deck successfully
+experience:0
+1.fire dragonite 10
+2.fire dragonite 10
+3.energy yellow 5
+4.plant pineco 9
+5.energy yellow 5
+6.fire tepig 13
+7.energy yellow 5
+8.fire tepig 13
+9.plant pineco 9
+10.energy yellow 5
+11.water lugia 11
+12.energy yellow 5
+13.fire dragonite 10
+14.fire tepig 13
+15.plant pineco 9
+16.fire dragonite 10
+password is incorrect
+user logged in successfully
+card yellow sold successfully
+shop menu
+you don't have this type of card for sell
+card tepig sold successfully
+card lugia bought successfully
+card name is invalid
+card yellow bought successfully
+card dragonite bought successfully
+main menu
+card rowlet bought successfully
+card dragonite bought successfully
+card rowlet sold successfully
+card lugia bought successfully
+card pineco bought successfully
+invalid command
+card lugia sold successfully
+shop menu
+card rowlet bought successfully
+card dragonite sold successfully
+shop menu
+card rowlet bought successfully
+card yellow bought successfully
+card pink bought successfully
+shop menu
+card pineco sold successfully
+card tepig bought successfully
+1.username:WMvRn experience:0
+card yellow equipped to your deck successfully
+you don't have this type of card
+card tepig equipped to your deck successfully
+card dragonite equipped to your deck successfully
+you have already added this type of pokemon to your deck
+card pineco equipped to your deck successfully
+card name is invalid
+card yellow equipped to your deck successfully
+invalid command
+you have already added this type of pokemon to your deck
+card rowlet equipped to your deck successfully
+card lugia equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+card yellow equipped to your deck successfully
+invalid command
+card yellow equipped to your deck successfully
+card pink equipped to your deck successfully
+experience:0
+card tepig unequipped from your deck successfully
+card dragonite unequipped from your deck successfully
+you don't have this type of card in your deck
+1.yellow
+2.yellow
+3.pineco
+4.yellow
+5.rowlet
+6.lugia
+7.yellow
+8.yellow
+9.pink
+1.username:WMvRn experience:0
+you have already added this type of pokemon to your deck
+card name is invalid
+card tepig equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card yellow equipped to your deck successfully
+you don't have this type of card
+your rank:1
+1.fire dragonite 10
+2.energy yellow 5
+3.energy yellow 5
+4.fire tepig 13
+5.plant pineco 9
+6.energy yellow 5
+7.energy yellow 5
+8.fire dragonite 10
+9.fire tepig 13
+10.plant pineco 9
+11.fire dragonite 10
+12.water lugia 11
+13.energy yellow 5
+14.fire dragonite 10
+15.fire dragonite 10
+16.water lugia 11
+17.plant pineco 9
+18.plant rowlet 12
+19.plant rowlet 12
+20.energy yellow 5
+21.energy pink 5
+22.fire tepig 13
+you don't have this type of card
+you have already added this type of pokemon to your deck
+card name is invalid
+you don't have this type of card
+you have already added this type of pokemon to your deck
+invalid command
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+card dragonite equipped to your deck successfully
+1.fire dragonite 10
+2.energy yellow 5
+3.energy yellow 5
+4.fire tepig 13
+5.plant pineco 9
+6.energy yellow 5
+7.energy yellow 5
+8.fire dragonite 10
+9.fire tepig 13
+10.plant pineco 9
+11.fire dragonite 10
+12.water lugia 11
+13.energy yellow 5
+14.fire dragonite 10
+15.fire dragonite 10
+16.water lugia 11
+17.plant pineco 9
+18.plant rowlet 12
+19.plant rowlet 12
+20.energy yellow 5
+21.energy pink 5
+22.fire tepig 13
+1.yellow
+2.yellow
+3.pineco
+4.yellow
+5.rowlet
+6.lugia
+7.yellow
+8.yellow
+9.pink
+10.tepig
+11.yellow
+12.dragonite
+your deck is already full
+your deck is already full
+your deck is already full
+card name is invalid
+your deck is already full
+card pink sold successfully
+card yellow sold successfully
+card lugia sold successfully
+main menu
+card yellow bought successfully
+card tepig sold successfully
+card dragonite sold successfully
+card lugia sold successfully
+card lugia bought successfully
+card tepig bought successfully
+you don't have this type of card for sell
+shop menu
+card lugia bought successfully
+card lugia bought successfully
+shop menu
+shop menu
+shop menu
+card yellow sold successfully
+you don't have this type of card for sell
+card yellow bought successfully
+card pink bought successfully
+card pink bought successfully
+card tepig bought successfully
+card rowlet bought successfully
+card yellow bought successfully
+shop menu
+card pineco bought successfully
+card pineco bought successfully
+you don't have this type of card for sell
+card pink bought successfully
+shop menu
+not enough coin to buy rowlet
+not enough coin to buy pineco
+not enough coin to buy ducklett
+not enough coin to buy yellow
+not enough coin to buy lugia
+card name is invalid
+invalid command
+main menu

@@ -1,0 +1,18 @@
+user registered successfully
+username doesn't exist
+username doesn't exist
+invalid command
+user logged in successfully
+experience:0
+1.username:LacD experience:0
+1.username:LacD experience:0
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+your rank:1
+experience:0

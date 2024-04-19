@@ -1,0 +1,121 @@
+register username Y'+yfo5EAU%I.JF-t password 4w0tiN_Lb< email Ia3CTZIEo@iCBxpo.com
+register username q6_sKf password -LdKHB_FKyX 2 email 9.i@D-hhg.com
+register username r_ password Xc5VI0X4g$wesTckOZS email y6pU@rylvbjp.com
+login username W-z0ODnO password O4@Yh5Zpd&Iur jJ!SD4AwQm5
+register username mJjEvQtDJLCiPhD password Lj.K4sf8ax!2%6HpPq'G email >@hndj.com
+register username r_ password -Ky#xvyJyB email .@'kg.com
+register username BNiUdqjLdLN password g6L!+d6&@8JEA2<ol email .u@zamwoe.com
+login username M password Vbk00DIT5sXbrL%@U97HOUaAhEdB
+login username pbCunZsA password v(CT2Twfl7$^3_l6uSz#
+login username voPpTD password n-to5@Q5y_+KHpGVEtNiEj#@D0
+login username BNiUdqjLdLN password g6L!+d6&@8JEA2<ol
+logout
+register username FX*5GnQCsvG67 password *MqVQ*u(lsq12L(0 email L>w2l @gd.com
+register username XJYNStWcEWdNCLJoTdj password TbL4^-P0 email WUX&@ey.com
+register username T_QPKGxNuGxQFzA password WXRrM5&t)4VV email @jycrkx.com
+login username _ygZGNUWXsYfOx password wcBRY(3LU@0nLZ$WNr9
+login username T_QPKGxNuGxQFzA password rl!@I.
+login username OXq password +QPzO4WI0e7y(3B
+login username eSRlKArNl_YGA_AQzgP password gBJWFU@&-qM8$
+login username T_QPKGxNuGxQFzA password WXRrM5&t)4VV
+start new game with r_
+start new game with r_
+start new game with r_
+show current menu
+go to shop menu
+back
+go to profile menu
+show my deck
+show coins
+show current menu
+show experience
+back
+go to shop menu
+buy card rowlet
+show current menu
+sell card tepig
+buy card pink
+back
+go to profile menu
+back
+start new game with r_
+start new game with BNiUdqjLdLN
+start new game with BNiUdqjLdLN
+go to profile menu
+equip card draGonite to my deck
+equip card ducklett to my deck
+equip card pink to my deck
+equip card tepig to my deck
+equip card yellow to my deck
+equip card pink to my deck
+equip card dragonite to my deck
+equip card rowlet to my deck
+equip card yellow to my deck
+back
+go to profile menu
+show ranking
+show coins
+show my rank
+show storage
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card pink to my deck
+equip card lugia to my deck
+equip card tepi*g to my deck
+equip card lugia to my deck
+show coins
+show ranking
+show my rank
+back
+go to shop menu
+show current menu
+sell card dragonite
+buy card pin co
+buy card rowlet
+sell card dragonite
+show current menu
+buy card ducklett
+buy card pinEco
+sell card lugia
+sell card yellow
+buy card tepig
+buy card rowlet
+show current menu
+back
+go to profile menu
+unequip card pink from my deck
+unequip card draGonite from my deck
+unequip card tepig from my deck
+back
+go to shop menu
+back
+show current menu
+go to shop menu
+buy card pineco
+show current menu
+sell card yellow
+buy card pineco
+sell card pineco
+show current menu
+buy card dragonite
+buy card lugia
+back
+start new game with BNiUdqjLdLN
+start new game with r_
+start new game with r_
+go to shop menu
+buy card ducklet
+buy card yellow
+sell card pink
+buy card lugia
+back
+go to shop menu
+buy card rowlet
+buy card ducklett
+sell card lug  a
+sell card lugia
+sell card pineco
+buy card pin co
+back
+logout
+exit

@@ -1,0 +1,97 @@
+username format is invalid
+user registered successfully
+user logged in successfully
+main menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:IhLGF experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+your rank:1
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+number of coins:300
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card lugia bought successfully
+number of coins:289
+you don't have this type of card
+card lugia equipped to your deck successfully
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card pineco bought successfully
+shop menu
+card name is invalid
+shop menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+1.lugia
+number of coins:280
+1.lugia
+your rank:1
+1.username:IhLGF experience:0
+your rank:1
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card pineco equipped to your deck successfully
+your rank:1
+1.username:IhLGF experience:0
+1.water lugia 11
+2.plant pineco 9
+experience:0
+main menu
+number of coins:280
+1.water lugia 11
+2.plant pineco 9
+1.username:IhLGF experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card

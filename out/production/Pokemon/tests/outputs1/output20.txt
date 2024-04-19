@@ -1,0 +1,62 @@
+username format is invalid
+email format is invalid
+email format is invalid
+email format is invalid
+email format is invalid
+password length too small or short
+username format is invalid
+email format is invalid
+email format is invalid
+user registered successfully
+password is incorrect
+user logged in successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+profile menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+experience:0
+experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+number of coins:300
+invalid command
+your rank:1
+your rank:1
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+experience:0
+1.username:ELbVKKOPyrwZijEi_ht experience:0
+number of coins:300
+1.username:ELbVKKOPyrwZijEi_ht experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+experience:0
+your rank:1
+your rank:1
+profile menu
+number of coins:300
+number of coins:300
+main menu

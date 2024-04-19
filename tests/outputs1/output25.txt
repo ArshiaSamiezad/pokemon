@@ -1,0 +1,10 @@
+invalid command
+invalid command
+password length too small or short
+user registered successfully
+password is incorrect
+password is incorrect
+password is incorrect
+user logged in successfully
+you don't have this type of card for sell
+invalid command

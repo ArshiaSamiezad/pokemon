@@ -1,0 +1,24 @@
+user registered successfully
+password is incorrect
+username doesn't exist
+username doesn't exist
+password is incorrect
+user logged in successfully
+shop menu
+card dragonite bought successfully
+card rowlet bought successfully
+invalid command
+card tepig bought successfully
+you don't have this type of card for sell
+experience:0
+card dragonite equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card tepig equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+1.username:jV_HfEy experience:0
+main menu

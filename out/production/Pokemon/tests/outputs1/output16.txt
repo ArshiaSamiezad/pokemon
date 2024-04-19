@@ -1,0 +1,77 @@
+your password must start with english letters
+invalid command
+email format is invalid
+username format is invalid
+user registered successfully
+user logged in successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:UdTSWQHKKQCgqFx experience:0
+1.username:UdTSWQHKKQCgqFx experience:0
+your rank:1
+number of coins:300
+you don't have this type of card in your deck
+invalid command
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+1.username:UdTSWQHKKQCgqFx experience:0
+1.username:UdTSWQHKKQCgqFx experience:0
+experience:0
+1.username:UdTSWQHKKQCgqFx experience:0
+profile menu
+your rank:1
+profile menu
+profile menu
+1.username:UdTSWQHKKQCgqFx experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+experience:0
+profile menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:300
+profile menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+invalid command
+invalid command
+user logged in successfully

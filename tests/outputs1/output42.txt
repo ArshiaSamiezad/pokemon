@@ -1,0 +1,128 @@
+password length too small or short
+email format is invalid
+email format is invalid
+username format is invalid
+user registered successfully
+password is incorrect
+user logged in successfully
+you don't have this type of card
+card name is invalid
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+1.username:VMiOeMyOERj experience:0
+experience:0
+card name is invalid
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+profile menu
+profile menu
+1.username:VMiOeMyOERj experience:0
+1.username:VMiOeMyOERj experience:0
+experience:0
+1.username:VMiOeMyOERj experience:0
+your rank:1
+you don't have this type of card for sell
+card tepig bought successfully
+card pineco bought successfully
+you don't have this type of card for sell
+card name is invalid
+card tepig bought successfully
+you don't have this type of card for sell
+you don't have this type of card for sell
+card yellow bought successfully
+you don't have this type of card for sell
+experience:0
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card yellow equipped to your deck successfully
+invalid command
+card tepig equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+your rank:1
+your rank:1
+1.yellow
+2.tepig
+experience:0
+1.fire tepig 13
+2.plant pineco 9
+3.fire tepig 13
+4.energy yellow 5
+number of coins:260
+1.username:VMiOeMyOERj experience:0
+you don't have this type of card
+card pineco equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.yellow
+2.tepig
+3.pineco
+1.fire tepig 13
+2.plant pineco 9
+3.fire tepig 13
+4.energy yellow 5
+experience:0
+1.username:VMiOeMyOERj experience:0
+experience:0
+number of coins:260
+card name is invalid
+card pineco unequipped from your deck successfully
+you don't have this type of card in your deck
+card tepig unequipped from your deck successfully
+invalid command
+card name is invalid
+you don't have this type of card in your deck
+your rank:1
+1.fire tepig 13
+2.plant pineco 9
+3.fire tepig 13
+4.energy yellow 5
+1.username:VMiOeMyOERj experience:0
+experience:0
+username doesn't exist
+user logged in successfully
+main menu
+experience:0
+number of coins:260
+1.fire tepig 13
+2.plant pineco 9
+3.fire tepig 13
+4.energy yellow 5
+your rank:1
+main menu
+card tepig equipped to your deck successfully
+card pineco equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:260

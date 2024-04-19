@@ -1,0 +1,16 @@
+register username mPBHERjwWvMs password !5+BN4<K*9@ ijT_0 email QQ3ZGlFab@ivn.com
+register username zwh.-3< password o4Xz^NO#$*.OY E3H&xT8&ZKajlw9 email fK@uS.y.com
+register username _rVhcKirgAiogE password djV32TgAsk$.Z-m9&698 email *_WXNq'!@tI<.4PKo..com
+register username R password so5g^FRam email C8osx@jimaxspl.com
+login username R password peta2Y!NXP^V
+login username R password vB(m#^lA&)_
+login username R password f(#^L>@@TNFq
+login username R password so5g^FRam
+go to shop menu
+sell card ducklett
+back
+go to profile menu
+back
+logout
+login username  password imgSCSYyY_UzPW
+exit

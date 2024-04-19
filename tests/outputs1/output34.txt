@@ -1,0 +1,106 @@
+your password must have at least one special character
+email format is invalid
+email format is invalid
+invalid command
+your password must have at least one special character
+user registered successfully
+user logged in successfully
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:300
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card name is invalid
+shop menu
+shop menu
+invalid command
+your rank:1
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+card yellow bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+card yellow equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.energy yellow 5
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+card dragonite bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card pineco bought successfully
+card lugia bought successfully
+card name is invalid
+invalid command
+card rowlet bought successfully
+username is incorrect
+username is incorrect
+username is incorrect

@@ -1,0 +1,1607 @@
+email format is invalid
+password length too small or short
+password length too small or short
+password length too small or short
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+login menu
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+username doesn't exist
+username doesn't exist
+invalid command
+username doesn't exist
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+email format is invalid
+username format is invalid
+password length too small or short
+user registered successfully
+username doesn't exist
+password is incorrect
+username doesn't exist
+user logged in successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:300
+your rank:1
+your rank:1
+1.username:AQ experience:0
+experience:0
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+card name is invalid
+you don't have this type of card for sell
+you don't have this type of card for sell
+card lugia bought successfully
+card tepig bought successfully
+card lugia sold successfully
+card lugia bought successfully
+shop menu
+you don't have this type of card for sell
+card tepig bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:AQ experience:0
+number of coins:261
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+invalid command
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.fire tepig 13
+2.water lugia 11
+3.fire tepig 13
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card lugia equipped to your deck successfully
+you don't have this type of card
+invalid command
+invalid command
+number of coins:261
+1.fire tepig 13
+2.water lugia 11
+3.fire tepig 13
+number of coins:261
+experience:0
+1.fire tepig 13
+2.water lugia 11
+3.fire tepig 13
+you don't have this type of card
+invalid command
+you don't have this type of card
+card tepig equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+1.fire tepig 13
+2.water lugia 11
+3.fire tepig 13
+your rank:1
+card pineco bought successfully
+main menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you have already added this type of pokemon to your deck
+card pineco equipped to your deck successfully
+number of coins:252
+1.username:AQ experience:0
+profile menu
+1.lugia
+2.tepig
+3.pineco
+1.username:AQ experience:0
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.lugia
+2.tepig
+3.pineco
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card tepig unequipped from your deck successfully
+1.lugia
+2.pineco
+1.username:AQ experience:0
+1.fire tepig 13
+2.water lugia 11
+3.fire tepig 13
+4.plant pineco 9
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.lugia
+2.pineco
+1.lugia
+2.pineco
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+1.lugia
+2.pineco
+experience:0
+1.lugia
+2.pineco
+card tepig equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+1.username:AQ experience:0
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+shop menu
+you don't have this type of card for sell
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card lugia bought successfully
+card name is invalid
+card tepig sold successfully
+card pink bought successfully
+card name is invalid
+profile menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+card pineco bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+card pink equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+1.username:AQ experience:0
+card tepig equipped to your deck successfully
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card name is invalid
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+1.username:AQ experience:0
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:AQ experience:0
+your rank:1
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+your rank:1
+shop menu
+card pink bought successfully
+shop menu
+card ducklett bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+card dragonite bought successfully
+you don't have this type of card for sell
+you don't have this type of card for sell
+username is incorrect
+username is incorrect
+username is incorrect
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+number of coins:207
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+your rank:1
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+card lugia unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+profile menu
+experience:0
+experience:0
+profile menu
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+1.pineco
+2.pink
+3.tepig
+1.pineco
+2.pink
+3.tepig
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card ducklett equipped to your deck successfully
+you don't have this type of card
+you have already added this type of pokemon to your deck
+card dragonite equipped to your deck successfully
+you don't have this type of card
+1.username:AQ experience:0
+profile menu
+card pink equipped to your deck successfully
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card lugia equipped to your deck successfully
+card name is invalid
+invalid command
+you don't have this type of card
+you don't have this type of card
+1.pineco
+2.pink
+3.tepig
+4.ducklett
+5.dragonite
+6.pink
+7.lugia
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:AQ experience:0
+1.pineco
+2.pink
+3.tepig
+4.ducklett
+5.dragonite
+6.pink
+7.lugia
+1.pineco
+2.pink
+3.tepig
+4.ducklett
+5.dragonite
+6.pink
+7.lugia
+1.username:AQ experience:0
+experience:0
+1.username:AQ experience:0
+number of coins:207
+1.pineco
+2.pink
+3.tepig
+4.ducklett
+5.dragonite
+6.pink
+7.lugia
+1.username:AQ experience:0
+card pineco unequipped from your deck successfully
+card ducklett unequipped from your deck successfully
+card pink unequipped from your deck successfully
+1.tepig
+2.dragonite
+3.pink
+4.lugia
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+1.tepig
+2.dragonite
+3.pink
+4.lugia
+card name is invalid
+card tepig unequipped from your deck successfully
+you don't have this type of card in your deck
+card lugia unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+card ducklett equipped to your deck successfully
+card pink equipped to your deck successfully
+card name is invalid
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:207
+experience:0
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+number of coins:207
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+card pineco equipped to your deck successfully
+card tepig equipped to your deck successfully
+experience:0
+card lugia unequipped from your deck successfully
+card ducklett unequipped from your deck successfully
+card tepig unequipped from your deck successfully
+profile menu
+your rank:1
+profile menu
+experience:0
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:207
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card pink unequipped from your deck successfully
+you don't have this type of card in your deck
+your rank:1
+card name is invalid
+card lugia equipped to your deck successfully
+card pink equipped to your deck successfully
+you don't have this type of card
+you have already added this type of pokemon to your deck
+1.dragonite
+2.pink
+3.pineco
+4.lugia
+5.pink
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+card pineco unequipped from your deck successfully
+card pink unequipped from your deck successfully
+card dragonite unequipped from your deck successfully
+experience:0
+your rank:1
+card pink equipped to your deck successfully
+you don't have this type of card
+card name is invalid
+invalid command
+card ducklett equipped to your deck successfully
+card tepig equipped to your deck successfully
+card pineco equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+1.username:AQ experience:0
+shop menu
+card yellow bought successfully
+1.username:AQ experience:0
+experience:0
+profile menu
+1.lugia
+2.pink
+3.pink
+4.ducklett
+5.tepig
+6.pineco
+experience:0
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+number of coins:202
+your rank:1
+1.lugia
+2.pink
+3.pink
+4.ducklett
+5.tepig
+6.pineco
+1.username:AQ experience:0
+you have already added this type of pokemon to your deck
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+invalid command
+you have already added this type of pokemon to your deck
+invalid command
+card yellow equipped to your deck successfully
+1.username:AQ experience:0
+your rank:1
+you don't have this type of card
+card dragonite equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card name is invalid
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+1.username:AQ experience:0
+invalid command
+card pink unequipped from your deck successfully
+invalid command
+card yellow unequipped from your deck successfully
+card pineco unequipped from your deck successfully
+card lugia unequipped from your deck successfully
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+card pineco equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card lugia equipped to your deck successfully
+card yellow equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+your rank:1
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you don't have this type of card
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+card yellow unequipped from your deck successfully
+card lugia unequipped from your deck successfully
+you don't have this type of card in your deck
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you have already added this type of pokemon to your deck
+card lugia equipped to your deck successfully
+you have already added this type of pokemon to your deck
+card pink equipped to your deck successfully
+you don't have this type of card
+card yellow equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card name is invalid
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:AQ experience:0
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+experience:0
+1.pink
+2.ducklett
+3.tepig
+4.dragonite
+5.pineco
+6.lugia
+7.pink
+8.yellow
+profile menu
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card tepig unequipped from your deck successfully
+card pineco unequipped from your deck successfully
+card name is invalid
+card lugia unequipped from your deck successfully
+1.pink
+2.ducklett
+3.dragonite
+4.pink
+5.yellow
+experience:0
+1.username:AQ experience:0
+1.pink
+2.ducklett
+3.dragonite
+4.pink
+5.yellow
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+1.pink
+2.ducklett
+3.dragonite
+4.pink
+5.yellow
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+card lugia equipped to your deck successfully
+card tepig equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+invalid command
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.pink
+2.ducklett
+3.dragonite
+4.pink
+5.yellow
+6.lugia
+7.tepig
+experience:0
+experience:0
+number of coins:202
+experience:0
+experience:0
+number of coins:202
+card dragonite unequipped from your deck successfully
+card ducklett unequipped from your deck successfully
+you don't have this type of card in your deck
+invalid command
+card lugia unequipped from your deck successfully
+card yellow unequipped from your deck successfully
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+1.username:AQ experience:0
+invalid command
+1.username:AQ experience:0
+shop menu
+card pink bought successfully
+card ducklett bought successfully
+shop menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+your rank:1
+your rank:1
+experience:0
+you don't have this type of card
+card pink equipped to your deck successfully
+you don't have this type of card
+card lugia equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card pineco equipped to your deck successfully
+card dragonite equipped to your deck successfully
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+card yellow equipped to your deck successfully
+invalid command
+you have already added this type of pokemon to your deck
+you don't have this type of card
+invalid command
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+your rank:1
+your rank:1
+experience:0
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+11.energy pink 5
+12.water ducklett 15
+card dragonite unequipped from your deck successfully
+card pineco unequipped from your deck successfully
+you don't have this type of card in your deck
+experience:0
+number of coins:182
+experience:0
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+11.energy pink 5
+12.water ducklett 15
+experience:0
+invalid command
+experience:0
+card pineco equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+card name is invalid
+you don't have this type of card
+card dragonite equipped to your deck successfully
+card tepig unequipped from your deck successfully
+card pink unequipped from your deck successfully
+you don't have this type of card in your deck
+experience:0
+your rank:1
+number of coins:182
+card pink equipped to your deck successfully
+invalid command
+card tepig equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you have already added this type of pokemon to your deck
+your rank:1
+1.pink
+2.pink
+3.lugia
+4.yellow
+5.pineco
+6.dragonite
+7.pink
+8.tepig
+1.pink
+2.pink
+3.lugia
+4.yellow
+5.pineco
+6.dragonite
+7.pink
+8.tepig
+1.username:AQ experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card ducklett equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+1.username:AQ experience:0
+experience:0
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+11.energy pink 5
+12.water ducklett 15
+1.pink
+2.pink
+3.lugia
+4.yellow
+5.pineco
+6.dragonite
+7.pink
+8.tepig
+9.ducklett
+experience:0
+1.pink
+2.pink
+3.lugia
+4.yellow
+5.pineco
+6.dragonite
+7.pink
+8.tepig
+9.ducklett
+card pink unequipped from your deck successfully
+card ducklett unequipped from your deck successfully
+card pineco unequipped from your deck successfully
+your rank:1
+1.username:AQ experience:0
+your rank:1
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+11.energy pink 5
+12.water ducklett 15
+card pink equipped to your deck successfully
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+card name is invalid
+you don't have this type of card
+card name is invalid
+your rank:1
+1.pink
+2.lugia
+3.yellow
+4.dragonite
+5.pink
+6.tepig
+7.pink
+you have already added this type of pokemon to your deck
+card ducklett equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card name is invalid
+you have already added this type of pokemon to your deck
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+number of coins:182
+experience:0
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+card pineco equipped to your deck successfully
+card name is invalid
+card lugia unequipped from your deck successfully
+card pineco unequipped from your deck successfully
+you don't have this type of card in your deck
+number of coins:182
+your rank:1
+username is incorrect
+username is incorrect
+username is incorrect
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+11.energy pink 5
+12.water ducklett 15
+your rank:1
+1.username:AQ experience:0
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+card pineco equipped to your deck successfully
+shop menu
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+11.energy pink 5
+12.water ducklett 15
+1.pink
+2.yellow
+3.dragonite
+4.pink
+5.tepig
+6.pink
+7.ducklett
+8.pineco
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+11.energy pink 5
+12.water ducklett 15
+1.username:AQ experience:0
+experience:0
+your rank:1
+you don't have this type of card
+card lugia equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card name is invalid
+experience:0
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+invalid command
+card name is invalid
+card name is invalid
+1.username:AQ experience:0
+1.username:AQ experience:0
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+11.energy pink 5
+12.water ducklett 15
+profile menu
+1.pink
+2.yellow
+3.dragonite
+4.pink
+5.tepig
+6.pink
+7.ducklett
+8.pineco
+9.lugia
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+11.energy pink 5
+12.water ducklett 15
+number of coins:182
+1.water lugia 11
+2.fire tepig 13
+3.plant pineco 9
+4.water lugia 11
+5.energy pink 5
+6.plant pineco 9
+7.energy pink 5
+8.water ducklett 15
+9.fire dragonite 10
+10.energy yellow 5
+11.energy pink 5
+12.water ducklett 15
+experience:0
+card pineco sold successfully
+password is incorrect
+username doesn't exist
+username doesn't exist
+user logged in successfully
+card lugia bought successfully
+number of coins:178
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you have already added this type of pokemon to your deck
+card pineco equipped to your deck successfully
+card name is invalid
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username format is invalid
+invalid command
+your password must have at least one special character
+user registered successfully
+password is incorrect
+username doesn't exist
+username doesn't exist
+user logged in successfully
+Guz has no 12 cards in deck
+Guz has no 12 cards in deck
+username is incorrect
+card lugia bought successfully
+card yellow bought successfully
+card lugia bought successfully
+card pineco bought successfully
+invalid command
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:AQ experience:0
+2.username:Guz experience:0
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+1.username:AQ experience:0
+2.username:Guz experience:0
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+card name is invalid
+number of coins:264
+number of coins:264
+experience:0
+1.water lugia 11
+2.energy yellow 5
+3.water lugia 11
+4.plant pineco 9
+experience:0
+1.water lugia 11
+2.energy yellow 5
+3.water lugia 11
+4.plant pineco 9
+number of coins:264
+number of coins:264
+card name is invalid
+card name is invalid
+you don't have this type of card
+invalid command
+you don't have this type of card
+card yellow equipped to your deck successfully
+card name is invalid
+card lugia equipped to your deck successfully
+you don't have this type of card in your deck
+card yellow unequipped from your deck successfully
+card name is invalid
+you don't have this type of card in your deck
+1.water lugia 11
+2.energy yellow 5
+3.water lugia 11
+4.plant pineco 9
+card ducklett bought successfully
+you don't have this type of card for sell
+card lugia sold successfully
+card yellow bought successfully
+card ducklett sold successfully
+card lugia sold successfully
+card pineco bought successfully
+username is incorrect
+username is incorrect
+Guz has no 12 cards in deck
+username is incorrect
+profile menu
+1.username:AQ experience:0
+2.username:Guz experience:0
+number of coins:264
+number of coins:264
+1.username:AQ experience:0
+2.username:Guz experience:0
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:AQ experience:0
+2.username:Guz experience:0
+card pineco equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card yellow equipped to your deck successfully
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+1.pineco
+2.yellow
+number of coins:264
+your rank:2
+number of coins:264
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card name is invalid
+you have already added this type of pokemon to your deck
+experience:0
+your rank:2
+your rank:2
+you don't have this type of card in your deck
+card pineco unequipped from your deck successfully
+invalid command
+your rank:2
+experience:0
+1.energy yellow 5
+2.plant pineco 9
+3.energy yellow 5
+4.plant pineco 9
+profile menu
+1.username:AQ experience:0
+2.username:Guz experience:0
+your rank:2
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card pineco equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+1.yellow
+2.pineco
+number of coins:264
+1.energy yellow 5
+2.plant pineco 9
+3.energy yellow 5
+4.plant pineco 9
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card pineco unequipped from your deck successfully
+profile menu
+profile menu
+experience:0
+card yellow equipped to your deck successfully
+invalid command
+card pineco equipped to your deck successfully
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:AQ experience:0
+2.username:Guz experience:0
+profile menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+your rank:2
+1.energy yellow 5
+2.plant pineco 9
+3.energy yellow 5
+4.plant pineco 9
+number of coins:264
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.energy yellow 5
+2.plant pineco 9
+3.energy yellow 5
+4.plant pineco 9
+1.username:AQ experience:0
+2.username:Guz experience:0
+number of coins:264
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.yellow
+2.yellow
+3.pineco
+1.yellow
+2.yellow
+3.pineco
+number of coins:264
+1.energy yellow 5
+2.plant pineco 9
+3.energy yellow 5
+4.plant pineco 9
+number of coins:264
+experience:0
+your rank:2
+number of coins:264
+experience:0
+card yellow unequipped from your deck successfully
+card pineco unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+experience:0
+profile menu
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+experience:0
+card yellow equipped to your deck successfully
+you don't have this type of card
+invalid command
+card pineco equipped to your deck successfully
+you don't have this type of card
+invalid command
+1.username:AQ experience:0
+2.username:Guz experience:0
+1.username:AQ experience:0
+2.username:Guz experience:0
+1.yellow
+2.yellow
+3.pineco
+your rank:2
+card yellow unequipped from your deck successfully
+invalid command
+card name is invalid
+password length too small or short
+username format is invalid
+your password must have at least one special character
+user registered successfully
+password is incorrect
+username doesn't exist
+password is incorrect
+user logged in successfully
+shop menu
+card pineco bought successfully
+you don't have this type of card for sell
+card lugia bought successfully
+invalid command
+number of coins:280
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.plant pineco 9
+2.water lugia 11
+number of coins:280
+number of coins:280
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:AQ experience:0
+2.username:Guz experience:0
+3.username:pixbGOzNmgygYq experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card pineco equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+invalid command
+you don't have this type of card
+1.plant pineco 9
+2.water lugia 11
+1.plant pineco 9
+2.water lugia 11
+number of coins:280
+number of coins:280
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+pixbGOzNmgygYq has no 12 cards in deck
+pixbGOzNmgygYq has no 12 cards in deck
+username is incorrect
+pixbGOzNmgygYq has no 12 cards in deck
+pixbGOzNmgygYq has no 12 cards in deck
+username is incorrect
+your rank:3
+main menu
+username is incorrect
+username is incorrect
+pixbGOzNmgygYq has no 12 cards in deck
+number of coins:280
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+1.pineco
+profile menu
+1.username:AQ experience:0
+2.username:Guz experience:0
+3.username:pixbGOzNmgygYq experience:0
+profile menu
+1.plant pineco 9
+2.water lugia 11
+invalid command
+your rank:3
+you don't have this type of card
+you don't have this type of card
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:280
+profile menu
+number of coins:280
+profile menu
+your rank:3
+1.pineco
+2.lugia
+1.username:AQ experience:0
+2.username:Guz experience:0
+3.username:pixbGOzNmgygYq experience:0
+experience:0
+experience:0
+number of coins:280
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+your rank:3
+1.plant pineco 9
+2.water lugia 11
+your rank:3
+1.plant pineco 9
+2.water lugia 11
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+1.username:AQ experience:0
+2.username:Guz experience:0
+3.username:pixbGOzNmgygYq experience:0
+1.username:AQ experience:0
+2.username:Guz experience:0
+3.username:pixbGOzNmgygYq experience:0
+1.username:AQ experience:0
+2.username:Guz experience:0
+3.username:pixbGOzNmgygYq experience:0
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card pineco unequipped from your deck successfully
+you don't have this type of card in your deck
+your rank:3
+pixbGOzNmgygYq has no 12 cards in deck
+pixbGOzNmgygYq has no 12 cards in deck
+pixbGOzNmgygYq has no 12 cards in deck
+pixbGOzNmgygYq has no 12 cards in deck

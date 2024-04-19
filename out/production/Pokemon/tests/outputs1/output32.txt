@@ -1,0 +1,92 @@
+username format is invalid
+username format is invalid
+user registered successfully
+username doesn't exist
+password is incorrect
+username doesn't exist
+invalid command
+user logged in successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+1.username:e experience:0
+1.username:e experience:0
+1.username:e experience:0
+experience:0
+1.username:e experience:0
+1.username:e experience:0
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+user logged in successfully
+password is incorrect
+username doesn't exist
+password is incorrect
+password is incorrect
+user logged in successfully
+username is incorrect
+username is incorrect
+username is incorrect
+shop menu
+card rowlet bought successfully
+1.username:e experience:0
+1.plant rowlet 12
+1.username:e experience:0
+experience:0
+1.plant rowlet 12
+profile menu
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.username:e experience:0
+number of coins:288
+your rank:1
+1.username:e experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card rowlet equipped to your deck successfully
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:288
+1.rowlet
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card rowlet unequipped from your deck successfully
+experience:0
+invalid command
+1.plant rowlet 12

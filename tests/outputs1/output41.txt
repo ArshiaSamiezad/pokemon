@@ -1,0 +1,92 @@
+invalid command
+email format is invalid
+you can't use special characters
+user registered successfully
+password is incorrect
+user logged in successfully
+experience:0
+1.username:ssbjHyiafdGnKYU experience:0
+number of coins:300
+card name is invalid
+card name is invalid
+card name is invalid
+1.username:ssbjHyiafdGnKYU experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+profile menu
+your rank:1
+number of coins:300
+experience:0
+your rank:1
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+experience:0
+experience:0
+your rank:1
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:300
+your rank:1
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+profile menu
+number of coins:300
+1.username:ssbjHyiafdGnKYU experience:0
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:ssbjHyiafdGnKYU experience:0
+1.username:ssbjHyiafdGnKYU experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+1.username:ssbjHyiafdGnKYU experience:0
+username is incorrect
+username is incorrect
+username is incorrect

@@ -1,0 +1,38 @@
+username format is invalid
+username format is invalid
+password length too small or short
+user registered successfully
+username doesn't exist
+user logged in successfully
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:300
+card name is invalid
+you don't have this type of card
+card name is invalid
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+main menu
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+number of coins:300
+number of coins:300
+number of coins:300
+1.username:gjPkxtNghKzaHv experience:0
+profile menu

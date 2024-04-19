@@ -1,0 +1,30 @@
+register username jV_HfEy password ifp!Ik> email o1fd@htrkmoy.com
+login username jV_HfEy password C3e$AG^H1pUJ
+login username 3Wt5phfh6N password WOR6Hj4pXB
+login username GCaTmJiOvUIrhZKZLAS password jKTAm)0!)4L5TE
+login username jV_HfEy password uFYqtt*6%#@KzrP+<E
+login username jV_HfEy password ifp!Ik>
+go to shop menu
+show current menu
+buy card dragonite
+buy card rowlet
+sell card drag nite
+buy card tepig
+sell card pineco
+back
+go to profile menu
+show experience
+equip card dragonite to my deck
+equip card rowlet to my deck
+equip card tepig to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card ducklett to my deck
+show experience
+show ranking
+back
+show current menu
+logout
+exit

@@ -1,0 +1,277 @@
+username format is invalid
+username format is invalid
+password length too small or short
+your password must start with english letters
+user registered successfully
+password is incorrect
+username doesn't exist
+password is incorrect
+user logged in successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+you don't have this type of card for sell
+invalid command
+card lugia bought successfully
+card ducklett bought successfully
+profile menu
+you don't have this type of card in your deck
+invalid command
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+1.username:xGelF experience:0
+you don't have this type of card
+you don't have this type of card
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.lugia
+1.water lugia 11
+2.water ducklett 15
+1.water lugia 11
+2.water ducklett 15
+profile menu
+you don't have this type of card
+card ducklett equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card lugia unequipped from your deck successfully
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:xGelF experience:0
+card lugia bought successfully
+card pineco bought successfully
+card ducklett sold successfully
+shop menu
+shop menu
+card dragonite bought successfully
+card lugia bought successfully
+card yellow bought successfully
+you don't have this type of card for sell
+you don't have this type of card for sell
+card pineco bought successfully
+card pineco equipped to your deck successfully
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+card dragonite equipped to your deck successfully
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+main menu
+you don't have this type of card in your deck
+card dragonite unequipped from your deck successfully
+card pineco unequipped from your deck successfully
+your rank:1
+card pineco equipped to your deck successfully
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you have already added this type of pokemon to your deck
+1.username:xGelF experience:0
+1.water lugia 11
+2.water lugia 11
+3.plant pineco 9
+4.fire dragonite 10
+5.water lugia 11
+6.energy yellow 5
+7.plant pineco 9
+1.water lugia 11
+2.water lugia 11
+3.plant pineco 9
+4.fire dragonite 10
+5.water lugia 11
+6.energy yellow 5
+7.plant pineco 9
+username is incorrect
+username is incorrect
+username is incorrect
+number of coins:230
+1.pineco
+1.water lugia 11
+2.water lugia 11
+3.plant pineco 9
+4.fire dragonite 10
+5.water lugia 11
+6.energy yellow 5
+7.plant pineco 9
+you don't have this type of card in your deck
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.username:xGelF experience:0
+1.username:xGelF experience:0
+1.pineco
+your rank:1
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+invalid command
+number of coins:230
+experience:0
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+1.water lugia 11
+2.water lugia 11
+3.plant pineco 9
+4.fire dragonite 10
+5.water lugia 11
+6.energy yellow 5
+7.plant pineco 9
+number of coins:230
+1.water lugia 11
+2.water lugia 11
+3.plant pineco 9
+4.fire dragonite 10
+5.water lugia 11
+6.energy yellow 5
+7.plant pineco 9
+number of coins:230
+number of coins:230
+1.water lugia 11
+2.water lugia 11
+3.plant pineco 9
+4.fire dragonite 10
+5.water lugia 11
+6.energy yellow 5
+7.plant pineco 9
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card dragonite equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card yellow equipped to your deck successfully
+you don't have this type of card
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+invalid command
+username is incorrect
+username is incorrect
+username is incorrect
+password is incorrect
+username doesn't exist
+password is incorrect
+user logged in successfully
+1.username:xGelF experience:0
+number of coins:230
+your rank:1
+1.water lugia 11
+2.water lugia 11
+3.plant pineco 9
+4.fire dragonite 10
+5.water lugia 11
+6.energy yellow 5
+7.plant pineco 9
+card yellow sold successfully
+shop menu
+card dragonite bought successfully
+card name is invalid
+invalid command
+card pink bought successfully
+card rowlet bought successfully
+card rowlet bought successfully
+card ducklett bought successfully
+username doesn't exist
+username doesn't exist
+password is incorrect
+user logged in successfully
+card name is invalid
+card dragonite bought successfully
+card ducklett bought successfully
+card yellow bought successfully
+card dragonite bought successfully
+shop menu
+card lugia bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+card ducklett equipped to your deck successfully
+card pink equipped to your deck successfully
+you don't have this type of card
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+card rowlet equipped to your deck successfully
+you have already added this type of pokemon to your deck
+main menu
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username doesn't exist
+password is incorrect
+password is incorrect
+user logged in successfully
+profile menu
+card pink unequipped from your deck successfully
+card name is invalid
+you don't have this type of card in your deck
+your rank:1
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+card name is invalid
+you don't have this type of card
+card pink equipped to your deck successfully
+invalid command
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+experience:0
+you have already added this type of pokemon to your deck
+invalid command
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you have already added this type of pokemon to your deck
+you don't have this type of card
+card pineco bought successfully
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+username is incorrect
+number of coins:119
+experience:0
+experience:0
+card dragonite bought successfully
+you don't have this type of card for sell

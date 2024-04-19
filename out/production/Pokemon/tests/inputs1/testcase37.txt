@@ -1,0 +1,37 @@
+register username hwVpKLgXipW_ password d*pbDBt@VBN3Dt- email .NSL@WyZ4'.com
+register username dL password eLO.0&LXshl email k4Hny3@*5_^.com
+register username >1*e@$CmVgjdTz+Ce6V password %%yhN%vJOfxO(j7P email .@.com
+register username LbDaxrAZSlYyCAaL_dg password Qo)@R^Fzi8k email d1.@jqayorw.com
+login username LbDaxrAZSlYyCAaL_dg password Qo)@R^Fzi8k
+go to profile menu
+show experience
+show experience
+back
+logout
+register username DRbrUpeRVtdVjcTAebX password 6ePezsFM8ap<gkFDSOrfDhyPpXt email Hd.j@.com
+register username  qhQMC73G1StOzkp^4k password l>6DJH(yK6>>tU)TI<nH email C@yajmvul.com
+register username Gsu_jDIXEzWUek password 409dwNn email @rz.com
+register username eyfC password yU&-H6A(m!THy0-L+e email p@cata.com
+login username eyfC password yU&-H6A(m!THy0-L+e
+go to shop menu
+sell card dragonite
+buy card pink
+back
+go to shop menu
+buy card pink
+back
+go to profile menu
+show coins
+show my deck
+show current menu
+back
+go to shop menu
+sell card pink
+sell card pink
+sell card yellow
+show current menu
+show current menu
+buy card lugia
+back
+logout
+exit
