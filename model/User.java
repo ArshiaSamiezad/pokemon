@@ -8,6 +8,7 @@ public class User {
     private String username;
     private String password;
     private String email;
+    String name;
     private int coins;
     private int experience;
     private ArrayList<Card> deckCards = new ArrayList<Card>();
