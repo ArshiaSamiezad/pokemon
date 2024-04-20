@@ -25,8 +25,13 @@ public class MainMenuController {
         }
 
         App.setCurrentMenu(Menu.GameMenu);
-        // TODO: start a game with username
+        startGame(new Player(App.getLoggedInUser()),new Player(user));
         return null;
+    }
+
+    private void startGame(Player player1, Player player2) {
+        Game game = new Game(player1,player2);
+        App.setCurrentGame(game);
     }
 
     public void logout(){

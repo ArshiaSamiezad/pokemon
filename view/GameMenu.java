@@ -16,7 +16,7 @@ public class GameMenu extends AppMenu{
         Matcher matcher;
 
         if(((matcher = GameMenuCommands.ShowTable.getMather(input)))!=null){
-
+            controller.showTable();
         }
         else if(((matcher = GameMenuCommands.ShowMyInfo.getMather(input)))!=null){
 
