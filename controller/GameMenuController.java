@@ -1,5 +1,6 @@
 package controller;
 
+import enums.PokemonConditions;
 import model.*;
 import model.Cards.*;
 
@@ -120,6 +121,52 @@ public class GameMenuController {
         System.out.print(energy.getName());
     }
 
+    private boolean cardNameExists(String cardName) {
+        for (enums.CardNames name : enums.CardNames.values()) {
+            if (name.name.equals(cardName)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    private boolean playerOwnsCard(Player player, String cardName) {
+        ArrayList<Card> cards = player.getDeckCards();
+        for (int i = 0; i < cards.size(); i++) {
+            if (cards.get(i).getName().equals(cardName)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    private void putCardPokemon(Player player, int placeNumber, Pokemon pokemon){
+        if (getPokemonByPlaceNumber(player, placeNumber) != null) {
+            System.out.println("a pokemon already exists there");
+            return;
+        }
+        setPokemonByPlaceNumber(player, placeNumber, pokemon);
+        player.removeFromDeck(pokemon);
+    }
+
+    private void putCardEnergy(Player player, int placeNumber, Energy energy){
+        if (getPokemonByPlaceNumber(player, placeNumber) == null) {
+            System.out.println("no pokemon in the selected place");
+            return;
+        }
+        if (player.getActiveCard().getEnergy1() != null && player.getActiveCard().getEnergy2() != null) {
+            System.out.println("pokemon already has 2 energies");
+            return;
+        }
+        if (player.isPlayedEnergyThisTurn()) {
+            System.out.println("you have already played an energy card in this turn");
+            return;
+        }
+        setEnergyByPlaceNumber(player, placeNumber, energy);
+        player.removeFromDeck(energy);
+        player.setPlayedEnergyThisTurn(true);
+    }
+
     public void startGame(Player player1, Player player2) {
         Game game = new Game(player1, player2);
         App.setCurrentGame(game);
@@ -211,38 +258,43 @@ public class GameMenuController {
             return;
         }
         boolean isPokemon = false;
-        if(card instanceof Pokemon){
+        if (card instanceof Pokemon) {
             isPokemon = true;
         }
-        if(isPokemon){
-            if(getPokemonByPlaceNumber(activePlayer,placeNumber)!=null){
-                System.out.println("a pokemon already exists there");
-                return;
-            }
-            setPokemonByPlaceNumber(activePlayer,placeNumber,(Pokemon) card);
-        }
-        else{
-
+        if (isPokemon) {
+            putCardPokemon(activePlayer,placeNumber,(Pokemon) card);
+        } else {
+            putCardEnergy(activePlayer,placeNumber,(Energy) card);
         }
         System.out.println("card put successful");
     }
 
-    private boolean cardNameExists(String cardName) {
-        for (enums.CardNames name : enums.CardNames.values()) {
-            if (name.name.equals(cardName)) {
-                return true;
-            }
+    public void substituteCard(String benchNumberString){
+        Game game = App.getCurrentGame();
+        Player activePlayer = game.getActivePlayer();
+        int benchNumber = Integer.valueOf(benchNumberString);
+        if (benchNumber < 1 || benchNumber > 3) {
+            System.out.println("invalid bench number");
+            return;
         }
-        return false;
+        Pokemon benchCard = getPokemonByPlaceNumber(activePlayer,benchNumber);
+
+        if(benchCard==null){
+            System.out.println("no pokemon in the selected place");
+            return;
+        }
+        Pokemon activeCard = getPokemonByPlaceNumber(activePlayer, 0);
+        if(activeCard.getCondition().equals(PokemonConditions.Sleeping.conidition)){
+            System.out.println("active pokemon is sleeping");
+            return;
+        }
+        Pokemon tempCard = activeCard;
+        setPokemonByPlaceNumber(activePlayer,0,benchCard);
+        setPokemonByPlaceNumber(activePlayer,benchNumber,tempCard);
+        System.out.println("substitution successful");
     }
 
-    private boolean playerOwnsCard(Player player, String cardName) {
-        ArrayList<Card> cards = player.getDeckCards();
-        for (int i = 0; i < cards.size(); i++) {
-            if (cards.get(i).getName().equals(cardName)) {
-                return true;
-            }
-        }
-        return false;
+    public void endTurn(){
+
     }
 }

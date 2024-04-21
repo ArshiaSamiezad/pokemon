@@ -9,12 +9,14 @@ public class Player extends User{
     private Pokemon benchCard1;
     private Pokemon benchCard2;
     private Pokemon benchCard3;
+    private boolean playedEnergyThisTurn;
     public Player(User user) {
         super(user.getUsername(), user.getPassword(), user.getEmail());
         this.activeCard=null;
         this.benchCard1=null;
         this.benchCard2=null;
         this.benchCard3=null;
+        this.playedEnergyThisTurn=false;
     }
 
     public Pokemon getActiveCard() {
@@ -47,5 +49,13 @@ public class Player extends User{
 
     public void setBenchCard3(Pokemon benchCard3) {
         this.benchCard3 = benchCard3;
+    }
+
+    public boolean isPlayedEnergyThisTurn() {
+        return playedEnergyThisTurn;
+    }
+
+    public void setPlayedEnergyThisTurn(boolean playedEnergyThisTurn) {
+        this.playedEnergyThisTurn = playedEnergyThisTurn;
     }
 }

@@ -25,13 +25,13 @@ public class GameMenu extends AppMenu{
             controller.showInfo(1,matcher.group("placeNumber"));
         }
         else if(((matcher = GameMenuCommands.PutCard.getMather(input)))!=null){
-
+            controller.putCard(matcher.group("cardName"), matcher.group("placeNumber"));
         }
         else if(((matcher = GameMenuCommands.SubstituteActiveCard.getMather(input)))!=null){
-
+            controller.substituteCard(matcher.group("benchNumber"));
         }
         else if(((matcher = GameMenuCommands.EndTurn.getMather(input)))!=null){
-
+            controller.endTurn();
         }
         else if(((matcher = GameMenuCommands.ExecuteActionWithTarget.getMather(input)))!=null){
 
