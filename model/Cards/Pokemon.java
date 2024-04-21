@@ -1,13 +1,22 @@
 package model.Cards;
 
-public class Pokemon extends Card{
+public class Pokemon extends Card {
 
     private Energy energy1;
     private Energy energy2;
-    public Pokemon(int buyValue, int sellValue, String name, String type) {
+    private String condition;
+    private int hitpoint;
+    private int maxHitpoint;
+    private int power;
+
+    public Pokemon(int buyValue, int sellValue, String name, String type, int maxHitpoint, int power) {
         super(buyValue, sellValue, name, type);
-        this.energy1=null;
-        this.energy2=null;
+        this.energy1 = null;
+        this.energy2 = null;
+        this.condition = null;
+        this.maxHitpoint = maxHitpoint;
+        this.hitpoint = maxHitpoint;
+        this.power = power;
     }
 
     public Energy getEnergy1() {
@@ -24,5 +33,29 @@ public class Pokemon extends Card{
 
     public void setEnergy2(Energy energy2) {
         this.energy2 = energy2;
+    }
+
+    public String getCondition() {
+        return condition;
+    }
+
+    public void setCondition(String condition) {
+        this.condition = condition;
+    }
+
+    public int getMaxHitpoint() {
+        return maxHitpoint;
+    }
+
+    public int getPower() {
+        return power;
+    }
+
+    public int getHitpoint() {
+        return hitpoint;
+    }
+
+    public void setHitpoint(int hitpoint) {
+        this.hitpoint = hitpoint;
     }
 }

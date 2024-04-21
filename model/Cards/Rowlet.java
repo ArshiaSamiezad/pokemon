@@ -6,6 +6,7 @@ import enums.CardSellPrices;
 
 public class Rowlet extends Pokemon{
     public Rowlet() {
-        super(CardBuyPrices.Rowlet.price, CardSellPrices.Rowlet.price, CardNames.Rowlet.name, "plant");
+        super(CardBuyPrices.Rowlet.price, CardSellPrices.Rowlet.price, CardNames.Rowlet.name, "plant",
+                180,40);
     }
 }

@@ -6,6 +6,7 @@ import enums.CardSellPrices;
 
 public class Ducklett extends Pokemon{
     public Ducklett() {
-        super(CardBuyPrices.Ducklett.price, CardSellPrices.Ducklett.price, CardNames.Ducklett.name, "water");
+        super(CardBuyPrices.Ducklett.price, CardSellPrices.Ducklett.price, CardNames.Ducklett.name, "water",
+                70,20);
     }
 }

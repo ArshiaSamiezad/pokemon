@@ -6,6 +6,7 @@ import enums.CardSellPrices;
 
 public class Tepig extends Pokemon{
     public Tepig() {
-        super(CardBuyPrices.Tepig.price, CardSellPrices.Tepig.price, CardNames.Tepig.name, "fire");
+        super(CardBuyPrices.Tepig.price, CardSellPrices.Tepig.price, CardNames.Tepig.name, "fire",
+                140,25);
     }
 }

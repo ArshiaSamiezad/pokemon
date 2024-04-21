@@ -19,10 +19,10 @@ public class GameMenu extends AppMenu{
             controller.showTable();
         }
         else if(((matcher = GameMenuCommands.ShowMyInfo.getMather(input)))!=null){
-
+            controller.showInfo(0,matcher.group("placeNumber"));
         }
         else if(((matcher = GameMenuCommands.ShowEnemyInfo.getMather(input)))!=null){
-
+            controller.showInfo(1,matcher.group("placeNumber"));
         }
         else if(((matcher = GameMenuCommands.PutCard.getMather(input)))!=null){
 

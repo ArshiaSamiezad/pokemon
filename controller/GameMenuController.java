@@ -60,6 +60,66 @@ public class GameMenuController {
         printPokemoneWithEnergy(player.getBenchCard3());
     }
 
+    private Pokemon getPokemonByPlaceNumber(Player player, int placeNumber) {
+        Pokemon pokemon = null;
+        switch (placeNumber) {
+            case 0:
+                pokemon = player.getActiveCard();
+                break;
+            case 1:
+                pokemon = player.getBenchCard1();
+                break;
+            case 2:
+                pokemon = player.getBenchCard2();
+                break;
+            case 3:
+                pokemon = player.getBenchCard3();
+                break;
+        }
+        return pokemon;
+    }
+
+    private void setPokemonByPlaceNumber(Player player, int placeNumber, Pokemon pokemon) {
+        switch (placeNumber) {
+            case 0:
+                player.setActiveCard(pokemon);
+                break;
+            case 1:
+                player.setBenchCard1(pokemon);
+                break;
+            case 2:
+                player.setBenchCard2(pokemon);
+                break;
+            case 3:
+                player.setBenchCard3(pokemon);
+                break;
+        }
+    }
+
+    private void setEnergyByPlaceNumber(Player player, int placeNumber, Energy energy) {
+        Pokemon pokemon = getPokemonByPlaceNumber(player, placeNumber);
+        if (pokemon.getEnergy1() == null) {
+            pokemon.setEnergy1(energy);
+            return;
+        }
+        pokemon.setEnergy2(energy);
+    }
+
+    private void printPokemonCondition(String condition) {
+        if (condition == null) {
+            System.out.println("");
+            return;
+        }
+        System.out.println(condition);
+    }
+
+    private void printEnergy(Energy energy) {
+        if (energy == null) {
+            return;
+        }
+        System.out.print(energy.getName());
+    }
+
     public void startGame(Player player1, Player player2) {
         Game game = new Game(player1, player2);
         App.setCurrentGame(game);
@@ -88,12 +148,7 @@ public class GameMenuController {
         printBench(activePlayer);
         System.out.println("");
 
-        Player enemy;
-        if (activePlayer.equals(game.getPlayer1())) {
-            enemy = game.getPlayer2();
-        } else {
-            enemy = game.getPlayer1();
-        }
+        Player enemy = game.getEnemy();
 
         System.out.println(enemy.getUsername() + "'s active card:");
         printActiveCard(enemy);
@@ -103,20 +158,91 @@ public class GameMenuController {
         printBench(enemy);
     }
 
-    public void showInfo(Player player, int placeNumber){
-        if(placeNumber<0 || placeNumber>3){
+    public void showInfo(int playerType, String placeNumberString) { // playerType 0 for activePlayer 1 for enemy
+        int placeNumber = Integer.valueOf(placeNumberString);
+        if (placeNumber < 0 || placeNumber > 3) {
             System.out.println("invalid place number");
             return;
         }
-        switch(placeNumber){
-            case 0:
-                break;
-            case 1:
-                break;
-            case 2:
-                break;
-            case 3:
-                break;
+        Game game = App.getCurrentGame();
+        Player player;
+        if (playerType == 0) {
+            player = game.getActivePlayer();
+        } else {
+            player = game.getEnemy();
         }
+        Pokemon pokemon = getPokemonByPlaceNumber(player, placeNumber);
+        if (pokemon == null) {
+            System.out.println(" no pokemon in the selected place");
+        }
+
+        System.out.println("pokemon: " + pokemon.getName());
+
+        System.out.print("special condition: ");
+        printPokemonCondition(pokemon.getCondition());
+
+        System.out.println("hitpoint: " + pokemon.getHitpoint() + "/" + pokemon.getPower());
+
+        System.out.print("energy 1: ");
+        printEnergy(pokemon.getEnergy1());
+        System.out.println("");
+
+        System.out.print("energy 2: ");
+        printEnergy(pokemon.getEnergy2());
+        System.out.println("");
+    }
+
+    public void putCard(String cardName, String placeNumberString) {
+        Game game = App.getCurrentGame();
+        Player activePlayer = game.getActivePlayer();
+        Card card = activePlayer.getDeckCardByName(cardName);
+        int placeNumber = Integer.valueOf(placeNumberString);
+
+        if (!cardNameExists(cardName)) {
+            System.out.println("card name is invalid");
+            return;
+        }
+        if (!playerOwnsCard(activePlayer, cardName)) {
+            System.out.println("you don't have the selected card");
+            return;
+        }
+        if (placeNumber < 0 || placeNumber > 3) {
+            System.out.println("invalid place number");
+            return;
+        }
+        boolean isPokemon = false;
+        if(card instanceof Pokemon){
+            isPokemon = true;
+        }
+        if(isPokemon){
+            if(getPokemonByPlaceNumber(activePlayer,placeNumber)!=null){
+                System.out.println("a pokemon already exists there");
+                return;
+            }
+            setPokemonByPlaceNumber(activePlayer,placeNumber,(Pokemon) card);
+        }
+        else{
+
+        }
+        System.out.println("card put successful");
+    }
+
+    private boolean cardNameExists(String cardName) {
+        for (enums.CardNames name : enums.CardNames.values()) {
+            if (name.name.equals(cardName)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    private boolean playerOwnsCard(Player player, String cardName) {
+        ArrayList<Card> cards = player.getDeckCards();
+        for (int i = 0; i < cards.size(); i++) {
+            if (cards.get(i).getName().equals(cardName)) {
+                return true;
+            }
+        }
+        return false;
     }
 }

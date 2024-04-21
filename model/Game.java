@@ -25,6 +25,13 @@ public class Game {
         return activePlayer;
     }
 
+    public Player getEnemy(){
+        if(activePlayer.equals(player1)){
+            return player2;
+        }
+        return player1;
+    }
+
     public void setActivePlayer(Player activePlayer) {
         this.activePlayer = activePlayer;
     }

@@ -6,6 +6,7 @@ import enums.CardSellPrices;
 
 public class Pineco extends Pokemon{
     public Pineco() {
-        super(CardBuyPrices.Pineco.price, CardSellPrices.Pineco.price, CardNames.Pineco.name, "plant");
+        super(CardBuyPrices.Pineco.price, CardSellPrices.Pineco.price, CardNames.Pineco.name, "plant",
+                110,25);
     }
 }
