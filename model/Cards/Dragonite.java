@@ -7,6 +7,6 @@ import enums.CardSellPrices;
 public class Dragonite extends Pokemon{
     public Dragonite() {
         super(CardBuyPrices.Dragonite.price, CardSellPrices.Dragonite.price, CardNames.Dragonite.name, "fire",
-                120,40);
+                120,40,0.7,1,1.2,1);
     }
 }

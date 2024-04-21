@@ -8,8 +8,13 @@ public class Pokemon extends Card {
     private int hitpoint;
     private int maxHitpoint;
     private int power;
+    private double Resistance;
+    private double fireEffect;
+    private double waterEffect;
+    private double plantEffect;
 
-    public Pokemon(int buyValue, int sellValue, String name, String type, int maxHitpoint, int power) {
+    public Pokemon(int buyValue, int sellValue, String name, String type, int maxHitpoint, int power, double Resistance,
+                   double fireEffect, double waterEffect, double plantEffect) {
         super(buyValue, sellValue, name, type);
         this.energy1 = null;
         this.energy2 = null;
@@ -17,7 +22,12 @@ public class Pokemon extends Card {
         this.maxHitpoint = maxHitpoint;
         this.hitpoint = maxHitpoint;
         this.power = power;
+        this.Resistance = Resistance;
+        this.fireEffect = fireEffect;
+        this.waterEffect = waterEffect;
+        this.plantEffect = plantEffect;
     }
+
 
     public Energy getEnergy1() {
         return energy1;
@@ -58,4 +68,5 @@ public class Pokemon extends Card {
     public void setHitpoint(int hitpoint) {
         this.hitpoint = hitpoint;
     }
+
 }
