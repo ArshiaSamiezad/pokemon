@@ -10,4 +10,16 @@ public class Energy extends Card{
         this.waterEffect=waterEffect;
         this.plantEffect=plantEffect;
     }
+
+    public double getFireEffect() {
+        return fireEffect;
+    }
+
+    public double getWaterEffect() {
+        return waterEffect;
+    }
+
+    public double getPlantEffect() {
+        return plantEffect;
+    }
 }

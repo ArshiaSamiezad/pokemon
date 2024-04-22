@@ -34,7 +34,7 @@ public class GameMenu extends AppMenu{
             controller.endTurn();
         }
         else if(((matcher = GameMenuCommands.ExecuteActionWithTarget.getMather(input)))!=null){
-
+            controller.executeActionWithTarget(matcher.group("target"));
         }
         else if(((matcher = GameMenuCommands.ExecuteActionNoTarget.getMather(input)))!=null){
 

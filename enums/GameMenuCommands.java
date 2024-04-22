@@ -11,7 +11,7 @@
         SubstituteActiveCard("substitute active card with bench (?<benchNumber>[0-9]+)"),
         EndTurn("end turn"),
         ExecuteActionWithTarget("execute action -t (?<target>\\S*)"),
-        ExecuteActionNoTarget("execute action -t");
+        ExecuteActionNoTarget("execute action");
 
         public final String pattern;
 

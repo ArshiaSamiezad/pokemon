@@ -140,7 +140,7 @@ public class GameMenuController {
         return false;
     }
 
-    private void putCardPokemon(Player player, int placeNumber, Pokemon pokemon){
+    private void putCardPokemon(Player player, int placeNumber, Pokemon pokemon) {
         if (getPokemonByPlaceNumber(player, placeNumber) != null) {
             System.out.println("a pokemon already exists there");
             return;
@@ -149,7 +149,7 @@ public class GameMenuController {
         player.removeFromDeck(pokemon);
     }
 
-    private void putCardEnergy(Player player, int placeNumber, Energy energy){
+    private void putCardEnergy(Player player, int placeNumber, Energy energy) {
         if (getPokemonByPlaceNumber(player, placeNumber) == null) {
             System.out.println("no pokemon in the selected place");
             return;
@@ -262,14 +262,14 @@ public class GameMenuController {
             isPokemon = true;
         }
         if (isPokemon) {
-            putCardPokemon(activePlayer,placeNumber,(Pokemon) card);
+            putCardPokemon(activePlayer, placeNumber, (Pokemon) card);
         } else {
-            putCardEnergy(activePlayer,placeNumber,(Energy) card);
+            putCardEnergy(activePlayer, placeNumber, (Energy) card);
         }
         System.out.println("card put successful");
     }
 
-    public void substituteCard(String benchNumberString){
+    public void substituteCard(String benchNumberString) {
         Game game = App.getCurrentGame();
         Player activePlayer = game.getActivePlayer();
         int benchNumber = Integer.valueOf(benchNumberString);
@@ -277,24 +277,74 @@ public class GameMenuController {
             System.out.println("invalid bench number");
             return;
         }
-        Pokemon benchCard = getPokemonByPlaceNumber(activePlayer,benchNumber);
+        Pokemon benchCard = getPokemonByPlaceNumber(activePlayer, benchNumber);
 
-        if(benchCard==null){
+        if (benchCard == null) {
             System.out.println("no pokemon in the selected place");
             return;
         }
         Pokemon activeCard = getPokemonByPlaceNumber(activePlayer, 0);
-        if(activeCard.getCondition().equals(PokemonConditions.Sleeping.conidition)){
+        if (activeCard.getCondition().equals(PokemonConditions.Sleeping.conidition)) {
             System.out.println("active pokemon is sleeping");
             return;
         }
         Pokemon tempCard = activeCard;
-        setPokemonByPlaceNumber(activePlayer,0,benchCard);
-        setPokemonByPlaceNumber(activePlayer,benchNumber,tempCard);
+        setPokemonByPlaceNumber(activePlayer, 0, benchCard);
+        setPokemonByPlaceNumber(activePlayer, benchNumber, tempCard);
         System.out.println("substitution successful");
     }
 
-    public void endTurn(){
+    public void endTurn() {
+        Game game = App.getCurrentGame();
+        Player currentActivePlayer = game.getActivePlayer();
+        currentActivePlayer.setPlayedEnergyThisTurn(false);
+        if (currentActivePlayer.equals(game.getPlayer2())) {
+            game.setRound(game.getRound() + 1);
+        }
+        // TODO: Do passive
+        // TODO: Win or lose
+    }
 
+    public void executeActionWithTarget(String target) {
+        Game game = App.getCurrentGame();
+        Player player = game.getActivePlayer();
+        Pokemon activePokemon = player.getActiveCard();
+        if (activePokemon == null) {
+            System.out.println("no active pokemon");
+            return;
+        }
+        Player enemy = game.getEnemy();
+        int placeNumber = Integer.valueOf(target);
+        Pokemon targetPokemon;
+        if (activePokemon instanceof Ducklett){
+            targetPokemon=getPokemonByPlaceNumber(enemy, placeNumber);
+        }
+        else if (activePokemon instanceof Rowlet){
+            targetPokemon=getPokemonByPlaceNumber(player, placeNumber);
+        }
+        else {
+            System.out.println("invalid action");
+            return;
+        }
+
+        if (((placeNumber < 0 || placeNumber > 3) && (activePokemon instanceof Ducklett)) ||
+                ((placeNumber < 1 || placeNumber > 3) && (activePokemon instanceof Rowlet))) {
+            System.out.println("invalid target number");
+            return;
+        }
+        if (targetPokemon == null) {
+            System.out.println("no pokemon in the selected place");
+            return;
+        }
+        if (activePokemon.getCondition().equals("sleeping")) {
+            System.out.println("active pokemon is sleeping");
+            return;
+        }
+        activePokemon.doAction(game, player, enemy, targetPokemon);
+        activePokemon.doPassive(game, player, enemy, targetPokemon);
+
+        System.out.println("action executed successfully");
+        System.out.println(enemy.getUsername() + "'s turn");
+        endTurn();
     }
 }
