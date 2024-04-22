@@ -98,6 +98,10 @@ public class Pokemon extends Card {
         this.shield = shield;
     }
 
+    public double getMaxShield() {
+        return maxShield;
+    }
+
     private double getEnergyValue(Energy energy) {
         if (this.getType().equals("fire")) {
             return energy.getFireEffect();
@@ -147,6 +151,10 @@ public class Pokemon extends Card {
     }
 
     public void doAction(Game game, Player player, Player enemy, Pokemon targetPokemon){
+
+    }
+
+    public void killEnemy(Player enemy, int placeNumber){
 
     }
 }

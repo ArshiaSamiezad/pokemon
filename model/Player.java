@@ -10,6 +10,8 @@ public class Player extends User{
     private Pokemon benchCard2;
     private Pokemon benchCard3;
     private boolean playedEnergyThisTurn;
+    private int kills;
+    private double reduce;
     public Player(User user) {
         super(user.getUsername(), user.getPassword(), user.getEmail());
         this.activeCard=null;
@@ -17,6 +19,8 @@ public class Player extends User{
         this.benchCard2=null;
         this.benchCard3=null;
         this.playedEnergyThisTurn=false;
+        this.kills=0;
+        this.reduce=0;
     }
 
     public Pokemon getActiveCard() {
@@ -57,5 +61,21 @@ public class Player extends User{
 
     public void setPlayedEnergyThisTurn(boolean playedEnergyThisTurn) {
         this.playedEnergyThisTurn = playedEnergyThisTurn;
+    }
+
+    public int getKills() {
+        return kills;
+    }
+
+    public void setKills(int kills) {
+        this.kills = kills;
+    }
+
+    public double getReduce() {
+        return reduce;
+    }
+
+    public void setReduce(double reduce) {
+        this.reduce = reduce;
     }
 }

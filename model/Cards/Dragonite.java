@@ -34,9 +34,12 @@ public class Dragonite extends Pokemon {
         }
 
         if (damage >= enemyPokemon.getHitpoint()) {
+            player.setReduce(player.getReduce()+enemyPokemon.getHitpoint());
             enemyPokemon.setHitpoint(0);
+            enemy.setActiveCard(null);
             return;
         } else {
+            player.setReduce(player.getReduce()+damage);
             enemyPokemon.setHitpoint(enemyPokemon.getHitpoint()-damage);
         }
 

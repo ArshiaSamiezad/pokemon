@@ -32,9 +32,11 @@ public class Lugia extends Pokemon{
         }
 
         if (damage >= enemyPokemon.getHitpoint()) {
+            player.setReduce(player.getReduce()+enemyPokemon.getHitpoint());
             enemyPokemon.setHitpoint(0);
             return;
         } else {
+            player.setReduce(player.getReduce()+damage);
             enemyPokemon.setHitpoint(enemyPokemon.getHitpoint()-damage);
         }
 

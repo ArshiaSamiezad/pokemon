@@ -12,7 +12,7 @@ public class Tepig extends Pokemon {
                 140, 25, 0.8, 1, 2, 1.3, 0);
     }
 
-    private void doDamage(Player enemy, Pokemon enemyPokemon, double damage) {
+    private void doDamage(Player player, Player enemy, Pokemon enemyPokemon, double damage) {
         if (enemyPokemon.getShield() > 0) {
             if (damage > enemyPokemon.getShield()) {
                 damage = damage - enemyPokemon.getShield();
@@ -24,9 +24,11 @@ public class Tepig extends Pokemon {
             }
         }
         if (damage >= enemyPokemon.getHitpoint()) {
+            player.setReduce(player.getReduce()+enemyPokemon.getHitpoint());
             enemyPokemon.setHitpoint(0);
             return;
         } else {
+            player.setReduce(player.getReduce()+damage);
             enemyPokemon.setHitpoint(enemyPokemon.getHitpoint() - damage);
         }
     }
@@ -54,9 +56,9 @@ public class Tepig extends Pokemon {
         int damage2 = (int) (0.2 * playerPokemon.getDamageToTarget(enemy.getBenchCard2()));
         int damage3 = (int) (0.2 * playerPokemon.getDamageToTarget(enemy.getBenchCard3()));
 
-        doDamage(enemy, enemy.getActiveCard(), damage);
-        doDamage(enemy, enemy.getBenchCard1(), damage1);
-        doDamage(enemy, enemy.getBenchCard2(), damage2);
-        doDamage(enemy, enemy.getBenchCard3(), damage3);
+        doDamage(player,enemy, enemy.getActiveCard(), damage);
+        doDamage(player,enemy, enemy.getBenchCard1(), damage1);
+        doDamage(player,enemy, enemy.getBenchCard2(), damage2);
+        doDamage(player,enemy, enemy.getBenchCard3(), damage3);
     }
 }

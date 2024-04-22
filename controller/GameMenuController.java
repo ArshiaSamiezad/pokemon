@@ -1,5 +1,6 @@
 package controller;
 
+import enums.Menu;
 import enums.PokemonConditions;
 import model.*;
 import model.Cards.*;
@@ -167,13 +168,101 @@ public class GameMenuController {
         player.setPlayedEnergyThisTurn(true);
     }
 
+    private void deleteDeadPokemons(Player player, Player opponet) {
+        int kills = 0;
+        if (player.getActiveCard().getHitpoint() <= 0) {
+            kills++;
+            if (player.getActiveCard().getEnergy1() != null)
+                kills++;
+            if (player.getActiveCard().getEnergy2() != null)
+                kills++;
+            player.setActiveCard(null);
+        }
+        if (player.getBenchCard1().getHitpoint() <= 0) {
+            kills++;
+            if (player.getBenchCard1().getEnergy1() != null)
+                kills++;
+            if (player.getBenchCard1().getEnergy2() != null)
+                kills++;
+            player.setBenchCard1(null);
+        }
+        if (player.getBenchCard2().getHitpoint() <= 0) {
+            kills++;
+            if (player.getBenchCard2().getEnergy1() != null)
+                kills++;
+            if (player.getBenchCard2().getEnergy2() != null)
+                kills++;
+            player.setBenchCard2(null);
+        }
+        if (player.getBenchCard3().getHitpoint() <= 0) {
+            kills++;
+            if (player.getBenchCard3().getEnergy1() != null)
+                kills++;
+            if (player.getBenchCard3().getEnergy2() != null)
+                kills++;
+            player.setBenchCard3(null);
+        }
+        opponet.setKills(opponet.getKills() + kills);
+    }
+
+    private void fixMaxHitpoints(Player player) {
+        if (player.getActiveCard().getHitpoint() > player.getActiveCard().getMaxHitpoint()) {
+            player.getActiveCard().setHitpoint(player.getActiveCard().getMaxHitpoint());
+        }
+        if (player.getBenchCard1().getHitpoint() > player.getBenchCard1().getMaxHitpoint()) {
+            player.getBenchCard1().setHitpoint(player.getBenchCard1().getMaxHitpoint());
+        }
+        if (player.getBenchCard2().getHitpoint() > player.getBenchCard2().getMaxHitpoint()) {
+            player.getBenchCard2().setHitpoint(player.getBenchCard2().getMaxHitpoint());
+        }
+        if (player.getBenchCard3().getHitpoint() > player.getBenchCard3().getMaxHitpoint()) {
+            player.getBenchCard3().setHitpoint(player.getBenchCard3().getMaxHitpoint());
+        }
+    }
+
+    private void burnPokemons(Player player) {
+        if (player.getActiveCard().getCondition().equals("burning") && player.getActiveCard().getType().equals("fire")) {
+            player.getActiveCard().setHitpoint(player.getActiveCard().getHitpoint() - 10);
+        }
+        if (player.getBenchCard1().getCondition().equals("burning") && player.getBenchCard1().getType().equals("fire")) {
+            player.getBenchCard1().setHitpoint(player.getBenchCard1().getHitpoint() - 10);
+        }
+        if (player.getBenchCard2().getCondition().equals("burning") && player.getBenchCard2().getType().equals("fire")) {
+            player.getBenchCard2().setHitpoint(player.getBenchCard2().getHitpoint() - 10);
+        }
+        if (player.getBenchCard3().getCondition().equals("burning") && player.getBenchCard3().getType().equals("fire")) {
+            player.getBenchCard3().setHitpoint(player.getBenchCard3().getHitpoint() - 10);
+        }
+    }
+
+    private void fillShields(Player player) {
+        player.getActiveCard().setShield(player.getActiveCard().getMaxShield());
+        player.getBenchCard1().setShield(player.getBenchCard1().getMaxShield());
+        player.getBenchCard2().setShield(player.getBenchCard2().getMaxShield());
+        player.getBenchCard3().setShield(player.getBenchCard3().getMaxShield());
+    }
+
+    private void setConditionsToOk(Player player) {
+        player.getActiveCard().setCondition("ok");
+        player.getBenchCard1().setCondition("ok");
+        player.getBenchCard2().setCondition("ok");
+        player.getBenchCard3().setCondition("ok");
+
+    }
+
     public void startGame(Player player1, Player player2) {
         Game game = new Game(player1, player2);
         App.setCurrentGame(game);
     }
 
-    public void endGame() {
+    public void endGame(Player winner, Player loser) {
+        winner.setCoins(winner.getCoins()+(int)(winner.getReduce()/10));
+        winner.setExperience(winner.getExperience()+winner.getKills()*10);
+        loser.setCoins(loser.getCoins()+(int)(loser.getReduce()/10));
+        loser.setExperience(loser.getExperience()+loser.getKills()*10);
+        System.out.println("Winner: "+winner.getUsername());
         App.setCurrentGame(null);
+        App.setCurrentMenu(Menu.MainMenu);
     }
 
 
@@ -228,7 +317,8 @@ public class GameMenuController {
         System.out.print("special condition: ");
         printPokemonCondition(pokemon.getCondition());
 
-        System.out.println("hitpoint: " + pokemon.getHitpoint() + "/" + pokemon.getPower());
+        System.out.println("hitpoint: " + String.format("%.2f",pokemon.getHitpoint()) + "/" +
+                String.format("%.2f",pokemon.getMaxHitpoint()));
 
         System.out.print("energy 1: ");
         printEnergy(pokemon.getEnergy1());
@@ -297,13 +387,27 @@ public class GameMenuController {
     public void endTurn() {
         Game game = App.getCurrentGame();
         Player currentActivePlayer = game.getActivePlayer();
+        Player enemy = game.getEnemy();
         currentActivePlayer.setPlayedEnergyThisTurn(false);
         if (currentActivePlayer.equals(game.getPlayer2())) {
             game.setRound(game.getRound() + 1);
         }
-        // TODO: Do passive
-        // TODO: Win or lose
+        burnPokemons(currentActivePlayer);
+        setConditionsToOk(currentActivePlayer);
+        fillShields(currentActivePlayer);
+        fillShields(enemy);
+
+        fixMaxHitpoints(currentActivePlayer);
+        fixMaxHitpoints(enemy);
+        deleteDeadPokemons(currentActivePlayer, enemy);
+        deleteDeadPokemons(enemy, currentActivePlayer);
+        if (currentActivePlayer.getActiveCard() == null) {
+            endGame(enemy, currentActivePlayer);
+        }
+        System.out.println(enemy.getUsername() + "'s turn");
+        game.setActivePlayer(enemy);
     }
+
 
     public void executeActionWithTarget(String target) {
         Game game = App.getCurrentGame();
@@ -316,13 +420,11 @@ public class GameMenuController {
         Player enemy = game.getEnemy();
         int placeNumber = Integer.valueOf(target);
         Pokemon targetPokemon;
-        if (activePokemon instanceof Ducklett){
-            targetPokemon=getPokemonByPlaceNumber(enemy, placeNumber);
-        }
-        else if (activePokemon instanceof Rowlet){
-            targetPokemon=getPokemonByPlaceNumber(player, placeNumber);
-        }
-        else {
+        if (activePokemon instanceof Ducklett) {
+            targetPokemon = getPokemonByPlaceNumber(enemy, placeNumber);
+        } else if (activePokemon instanceof Rowlet) {
+            targetPokemon = getPokemonByPlaceNumber(player, placeNumber);
+        } else {
             System.out.println("invalid action");
             return;
         }
@@ -347,4 +449,37 @@ public class GameMenuController {
         System.out.println(enemy.getUsername() + "'s turn");
         endTurn();
     }
+
+    public void executeActionWithoutTarget() {
+        Game game = App.getCurrentGame();
+        Player player = game.getActivePlayer();
+        Pokemon activePokemon = player.getActiveCard();
+        if (activePokemon == null) {
+            System.out.println("no active pokemon");
+            return;
+        }
+        Player enemy = game.getEnemy();
+        Pokemon targetPokemon = enemy.getActiveCard();
+        if (activePokemon instanceof Ducklett || activePokemon instanceof Rowlet) {
+            System.out.println("invalid action");
+            return;
+        }
+        if (targetPokemon == null) {
+            System.out.println("no pokemon in the selected place");
+            return;
+        }
+        if (activePokemon.getCondition().equals("sleeping")) {
+            System.out.println("active pokemon is sleeping");
+            return;
+        }
+        activePokemon.doAction(game, player, enemy, targetPokemon);
+        activePokemon.doPassive(game, player, enemy, targetPokemon);
+        deleteDeadPokemons(player, enemy);
+        deleteDeadPokemons(enemy, player);
+
+        System.out.println("action executed successfully");
+        endTurn();
+    }
+
+
 }
