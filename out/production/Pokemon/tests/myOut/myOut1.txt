@@ -1408,3 +1408,2043 @@ energy 2:
 ali's turn
 card put successful
 card put successful
+card put successful
+round 1
+your active card:
+
+
+your hand:
+1.lugia
+2.yellow
+3.pineco
+4.rowlet
+5.pink
+6.pink
+7.pink
+8.yellow
+9.yellow
+
+your bench:
+1.tepig||
+2.ducklett|pink|
+3.
+
+dutchman's active card:
+dragonite||
+
+dutchman's bench:
+1.
+2.
+3.
+no pokemon in the selected place
+pokemon: tepig
+special condition: 
+hitpoint: 140.00/140.00
+energy 1: 
+energy 2: 
+pokemon: ducklett
+special condition: 
+hitpoint: 70.00/70.00
+energy 1: pink
+energy 2: 
+pokemon: dragonite
+special condition: 
+hitpoint: 120.00/120.00
+energy 1: 
+energy 2: 
+Winner: dutchman
+dutchman's turn
+card yellow equipped to your deck successfully
+1.yellow
+2.pink
+3.pink
+4.pink
+5.yellow
+6.yellow
+7.pink
+8.pink
+9.tepig
+10.ducklett
+11.pineco
+12.yellow
+1.energy yellow 5
+2.energy pink 5
+3.energy yellow 5
+4.energy pink 5
+5.energy yellow 5
+6.energy yellow 5
+7.energy pink 5
+8.energy yellow 5
+9.energy pink 5
+10.energy yellow 5
+11.energy yellow 5
+12.energy pink 5
+13.energy yellow 5
+14.energy pink 5
+15.energy yellow 5
+16.energy yellow 5
+17.energy pink 5
+18.energy yellow 5
+19.energy pink 5
+20.energy yellow 5
+21.fire tepig 13
+22.water ducklett 15
+23.plant pineco 9
+24.fire dragonite 10
+1.username:ali experience:0
+2.username:amir experience:0
+3.username:amnam experience:0
+4.username:dutchman experience:0
+number of coins:153
+round 1
+your active card:
+
+
+your hand:
+1.yellow
+2.pink
+3.pink
+4.pink
+5.yellow
+6.yellow
+7.pink
+8.pink
+9.tepig
+10.ducklett
+11.pineco
+12.yellow
+
+your bench:
+1.
+2.
+3.
+
+amir's active card:
+
+
+amir's bench:
+1.
+2.
+3.
+card put successful
+card put successful
+card put successful
+card put successful
+amir's turn
+card put successful
+no pokemon in the selected place
+card put successful
+card put successful
+card put successful
+card put successful
+action executed successfully
+dutchman's turn
+round 2
+your active card:
+ducklett|yellow|
+
+your hand:
+1.pink
+2.pink
+3.pink
+4.yellow
+5.yellow
+6.pink
+7.pink
+8.yellow
+
+your bench:
+1.pineco||
+2.tepig||
+3.
+
+amir's active card:
+tepig||
+
+amir's bench:
+1.lugia|yellow|
+2.dragonite||
+3.rowlet||
+pokemon: ducklett
+special condition: 
+hitpoint: 55.00/70.00
+energy 1: yellow
+energy 2: 
+pokemon: pineco
+special condition: burning
+hitpoint: 110.00/110.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: burning
+hitpoint: 136.00/140.00
+energy 1: 
+energy 2: 
+no pokemon in the selected place
+pokemon: tepig
+special condition: 
+hitpoint: 140.00/140.00
+energy 1: 
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 90.00/90.00
+energy 1: yellow
+energy 2: 
+pokemon: dragonite
+special condition: 
+hitpoint: 120.00/120.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 180.00/180.00
+energy 1: 
+energy 2: 
+card put successful
+invalid target number
+action executed successfully
+amir's turn
+card put successful
+round 2
+your active card:
+tepig||
+
+your hand:
+1.ducklett
+2.yellow
+3.pink
+4.pineco
+5.pink
+6.pink
+
+your bench:
+1.lugia|yellow|pink
+2.dragonite||
+3.rowlet||
+
+dutchman's active card:
+ducklett|yellow|pink
+
+dutchman's bench:
+1.pineco||
+2.tepig||
+3.
+pokemon: tepig
+special condition: 
+hitpoint: 100.00/140.00
+energy 1: 
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 90.00/90.00
+energy 1: yellow
+energy 2: pink
+pokemon: dragonite
+special condition: 
+hitpoint: 120.00/120.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 180.00/180.00
+energy 1: 
+energy 2: 
+pokemon: ducklett
+special condition: 
+hitpoint: 55.00/70.00
+energy 1: yellow
+energy 2: pink
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 126.00/140.00
+energy 1: 
+energy 2: 
+no pokemon in the selected place
+action executed successfully
+dutchman's turn
+round 3
+your active card:
+ducklett|yellow|pink
+
+your hand:
+1.pink
+2.pink
+3.yellow
+4.yellow
+5.pink
+6.pink
+7.yellow
+
+your bench:
+1.pineco||
+2.tepig||
+3.
+
+amir's active card:
+tepig||
+
+amir's bench:
+1.lugia|yellow|pink
+2.dragonite||
+3.rowlet||
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+pokemon: pineco
+special condition: burning
+hitpoint: 110.00/110.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: burning
+hitpoint: 122.00/140.00
+energy 1: 
+energy 2: 
+no pokemon in the selected place
+pokemon: tepig
+special condition: 
+hitpoint: 100.00/140.00
+energy 1: 
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 90.00/90.00
+energy 1: yellow
+energy 2: pink
+pokemon: dragonite
+special condition: 
+hitpoint: 120.00/120.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 180.00/180.00
+energy 1: 
+energy 2: 
+card put successful
+action executed successfully
+amir's turn
+card put successful
+round 3
+your active card:
+tepig||
+
+your hand:
+1.ducklett
+2.yellow
+3.pineco
+4.pink
+5.pink
+
+your bench:
+1.lugia|pink|
+2.dragonite||
+3.rowlet||
+
+dutchman's active card:
+ducklett|yellow|pink
+
+dutchman's bench:
+1.pineco|yellow|
+2.tepig||
+3.
+pokemon: tepig
+special condition: 
+hitpoint: 100.00/140.00
+energy 1: 
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 73.00/90.00
+energy 1: pink
+energy 2: 
+pokemon: dragonite
+special condition: 
+hitpoint: 120.00/120.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 180.00/180.00
+energy 1: 
+energy 2: 
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 112.00/140.00
+energy 1: 
+energy 2: 
+no pokemon in the selected place
+substitution successful
+dutchman's turn
+round 4
+your active card:
+ducklett|yellow|pink
+
+your hand:
+1.pink
+2.pink
+3.yellow
+4.pink
+5.pink
+6.yellow
+
+your bench:
+1.pineco|yellow|
+2.tepig||
+3.
+
+amir's active card:
+lugia|pink|
+
+amir's bench:
+1.tepig||
+2.dragonite||
+3.rowlet||
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 112.00/140.00
+energy 1: 
+energy 2: 
+no pokemon in the selected place
+pokemon: lugia
+special condition: 
+hitpoint: 73.00/90.00
+energy 1: pink
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 100.00/140.00
+energy 1: 
+energy 2: 
+pokemon: dragonite
+special condition: 
+hitpoint: 120.00/120.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 180.00/180.00
+energy 1: 
+energy 2: 
+card put successful
+action executed successfully
+amir's turn
+card put successful
+dutchman's turn
+round 5
+your active card:
+ducklett|yellow|pink
+
+your hand:
+1.pink
+2.yellow
+3.pink
+4.pink
+5.yellow
+
+your bench:
+1.pineco|yellow|pink
+2.tepig||
+3.
+
+amir's active card:
+lugia|yellow|
+
+amir's bench:
+1.tepig||
+2.dragonite||
+3.rowlet||
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+pokemon: tepig
+special condition: 
+hitpoint: 112.00/140.00
+energy 1: 
+energy 2: 
+no pokemon in the selected place
+pokemon: lugia
+special condition: 
+hitpoint: 56.00/90.00
+energy 1: yellow
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 100.00/140.00
+energy 1: 
+energy 2: 
+pokemon: dragonite
+special condition: 
+hitpoint: 120.00/120.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 180.00/180.00
+energy 1: 
+energy 2: 
+substitution successful
+action executed successfully
+amir's turn
+round 5
+your active card:
+lugia|yellow|
+
+your hand:
+1.ducklett
+2.pineco
+3.pink
+4.pink
+
+your bench:
+1.tepig||
+2.dragonite||
+3.rowlet||
+
+dutchman's active card:
+tepig||
+
+dutchman's bench:
+1.pineco|yellow|pink
+2.ducklett|yellow|pink
+3.
+pokemon: lugia
+special condition: 
+hitpoint: 33.25/90.00
+energy 1: yellow
+energy 2: 
+pokemon: tepig
+special condition: burning
+hitpoint: 96.00/140.00
+energy 1: 
+energy 2: 
+pokemon: dragonite
+special condition: burning
+hitpoint: 116.50/120.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: burning
+hitpoint: 180.00/180.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 112.00/140.00
+energy 1: 
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+substitution successful
+action executed successfully
+dutchman's turn
+round 6
+your active card:
+tepig||
+
+your hand:
+1.pink
+2.yellow
+3.pink
+4.pink
+5.yellow
+
+your bench:
+1.pineco|yellow|pink
+2.ducklett|yellow|pink
+3.
+
+amir's active card:
+rowlet||
+
+amir's bench:
+1.tepig||
+2.dragonite||
+3.lugia|yellow|
+pokemon: tepig
+special condition: 
+hitpoint: 112.00/140.00
+energy 1: 
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: rowlet
+special condition: 
+hitpoint: 180.00/180.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 86.00/140.00
+energy 1: 
+energy 2: 
+pokemon: dragonite
+special condition: 
+hitpoint: 120.00/120.00
+energy 1: 
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 33.25/90.00
+energy 1: yellow
+energy 2: 
+card put successful
+action executed successfully
+amir's turn
+card put successful
+round 6
+your active card:
+rowlet|pink|
+
+your hand:
+1.ducklett
+2.pineco
+3.pink
+
+your bench:
+1.tepig||
+2.dragonite||
+3.lugia|yellow|
+
+dutchman's active card:
+tepig|pink|
+
+dutchman's bench:
+1.pineco|yellow|pink
+2.ducklett|yellow|pink
+3.
+pokemon: rowlet
+special condition: burning
+hitpoint: 178.75/180.00
+energy 1: pink
+energy 2: 
+pokemon: tepig
+special condition: burning
+hitpoint: 82.00/140.00
+energy 1: 
+energy 2: 
+pokemon: dragonite
+special condition: burning
+hitpoint: 116.50/120.00
+energy 1: 
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 28.70/90.00
+energy 1: yellow
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 112.00/140.00
+energy 1: pink
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+action executed successfully
+dutchman's turn
+round 7
+your active card:
+tepig|pink|
+
+your hand:
+1.yellow
+2.pink
+3.pink
+4.yellow
+
+your bench:
+1.pineco|yellow|pink
+2.ducklett|yellow|pink
+3.
+
+amir's active card:
+rowlet|pink|
+
+amir's bench:
+1.tepig||
+2.dragonite||
+3.lugia|yellow|
+pokemon: tepig
+special condition: 
+hitpoint: 112.00/140.00
+energy 1: pink
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: rowlet
+special condition: 
+hitpoint: 178.75/180.00
+energy 1: pink
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 92.00/140.00
+energy 1: 
+energy 2: 
+pokemon: dragonite
+special condition: 
+hitpoint: 106.50/120.00
+energy 1: 
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 28.70/90.00
+energy 1: yellow
+energy 2: 
+action executed successfully
+amir's turn
+substitution successful
+round 7
+your active card:
+dragonite||
+
+your hand:
+1.ducklett
+2.pineco
+3.pink
+
+your bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+
+dutchman's active card:
+tepig|pink|
+
+dutchman's bench:
+1.pineco|yellow|pink
+2.ducklett|yellow|pink
+3.
+pokemon: dragonite
+special condition: burning
+hitpoint: 103.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: burning
+hitpoint: 88.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: burning
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 24.15/90.00
+energy 1: yellow
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 112.00/140.00
+energy 1: pink
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+action executed successfully
+dutchman's turn
+round 8
+your active card:
+tepig|pink|
+
+your hand:
+1.yellow
+2.pink
+3.pink
+4.yellow
+
+your bench:
+1.pineco|yellow|pink
+2.ducklett|yellow|pink
+3.
+
+amir's active card:
+dragonite||
+
+amir's bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+pokemon: tepig
+special condition: burning
+hitpoint: 80.00/140.00
+energy 1: pink
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: dragonite
+special condition: 
+hitpoint: 93.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 78.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 24.15/90.00
+energy 1: yellow
+energy 2: 
+action executed successfully
+amir's turn
+round 8
+your active card:
+dragonite||
+
+your hand:
+1.ducklett
+2.pineco
+3.pink
+
+your bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+
+dutchman's active card:
+tepig|pink|
+
+dutchman's bench:
+1.pineco|yellow|pink
+2.ducklett|yellow|pink
+3.
+pokemon: dragonite
+special condition: burning
+hitpoint: 75.50/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: burning
+hitpoint: 74.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: burning
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 19.60/90.00
+energy 1: yellow
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 70.00/140.00
+energy 1: pink
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+action executed successfully
+dutchman's turn
+round 9
+your active card:
+tepig|pink|
+
+your hand:
+1.yellow
+2.pink
+3.pink
+4.yellow
+
+your bench:
+1.pineco|yellow|pink
+2.ducklett|yellow|pink
+3.
+
+amir's active card:
+dragonite||
+
+amir's bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+pokemon: tepig
+special condition: burning
+hitpoint: 38.00/140.00
+energy 1: pink
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: dragonite
+special condition: 
+hitpoint: 65.50/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 64.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 19.60/90.00
+energy 1: yellow
+energy 2: 
+action executed successfully
+amir's turn
+round 9
+your active card:
+dragonite||
+
+your hand:
+1.ducklett
+2.pineco
+3.pink
+
+your bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+
+dutchman's active card:
+tepig|pink|
+
+dutchman's bench:
+1.pineco|yellow|pink
+2.ducklett|yellow|pink
+3.
+pokemon: dragonite
+special condition: burning
+hitpoint: 48.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: burning
+hitpoint: 60.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: burning
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 15.05/90.00
+energy 1: yellow
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 28.00/140.00
+energy 1: pink
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+action executed successfully
+dutchman's turn
+round 10
+your active card:
+
+
+your hand:
+1.yellow
+2.pink
+3.pink
+4.yellow
+
+your bench:
+1.pineco|yellow|pink
+2.ducklett|yellow|pink
+3.
+
+amir's active card:
+dragonite||
+
+amir's bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+no pokemon in the selected place
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 15.05/90.00
+energy 1: yellow
+energy 2: 
+substitution successful
+amir's turn
+round 10
+your active card:
+dragonite||
+
+your hand:
+1.ducklett
+2.pineco
+3.pink
+
+your bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+
+dutchman's active card:
+pineco|yellow|pink
+
+dutchman's bench:
+1.
+2.ducklett|yellow|pink
+3.
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 15.05/90.00
+energy 1: yellow
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+shield detected
+action executed successfully
+dutchman's turn
+round 11
+your active card:
+pineco|yellow|pink
+
+your hand:
+1.yellow
+2.pink
+3.pink
+4.yellow
+
+your bench:
+1.
+2.ducklett|yellow|pink
+3.
+
+amir's active card:
+dragonite||
+
+amir's bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+pokemon: pineco
+special condition: burning
+hitpoint: 89.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 15.05/90.00
+energy 1: yellow
+energy 2: 
+amir's turn
+round 11
+your active card:
+dragonite||
+
+your hand:
+1.ducklett
+2.pineco
+3.pink
+
+your bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+
+dutchman's active card:
+pineco|yellow|pink
+
+dutchman's bench:
+1.
+2.ducklett|yellow|pink
+3.
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 15.05/90.00
+energy 1: yellow
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 89.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+shield detected
+action executed successfully
+dutchman's turn
+round 12
+your active card:
+pineco|yellow|pink
+
+your hand:
+1.yellow
+2.pink
+3.pink
+4.yellow
+
+your bench:
+1.
+2.ducklett|yellow|pink
+3.
+
+amir's active card:
+dragonite||
+
+amir's bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+pokemon: pineco
+special condition: burning
+hitpoint: 68.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 15.05/90.00
+energy 1: yellow
+energy 2: 
+action executed successfully
+amir's turn
+round 12
+your active card:
+dragonite||
+
+your hand:
+1.ducklett
+2.pineco
+3.pink
+
+your bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+
+dutchman's active card:
+pineco|yellow|pink
+
+dutchman's bench:
+1.
+2.ducklett|yellow|pink
+3.
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 15.05/90.00
+energy 1: yellow
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 99.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+dutchman's turn
+round 13
+your active card:
+pineco|yellow|pink
+
+your hand:
+1.yellow
+2.pink
+3.pink
+4.yellow
+
+your bench:
+1.
+2.ducklett|yellow|pink
+3.
+
+amir's active card:
+dragonite||
+
+amir's bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+pokemon: pineco
+special condition: 
+hitpoint: 99.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 15.05/90.00
+energy 1: yellow
+energy 2: 
+action executed successfully
+amir's turn
+round 13
+your active card:
+dragonite||
+
+your hand:
+1.ducklett
+2.pineco
+3.pink
+
+your bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+
+dutchman's active card:
+pineco|yellow|pink
+
+dutchman's bench:
+1.
+2.ducklett|yellow|pink
+3.
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 15.05/90.00
+energy 1: yellow
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+shield detected
+action executed successfully
+dutchman's turn
+round 14
+your active card:
+pineco|yellow|pink
+
+your hand:
+1.yellow
+2.pink
+3.pink
+4.yellow
+
+your bench:
+1.
+2.ducklett|yellow|pink
+3.
+
+amir's active card:
+dragonite||
+
+amir's bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+pokemon: pineco
+special condition: burning
+hitpoint: 89.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 15.05/90.00
+energy 1: yellow
+energy 2: 
+action executed successfully
+amir's turn
+round 14
+your active card:
+dragonite||
+
+your hand:
+1.ducklett
+2.pineco
+3.pink
+
+your bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+
+dutchman's active card:
+pineco|yellow|pink
+
+dutchman's bench:
+1.
+2.ducklett|yellow|pink
+3.
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 15.05/90.00
+energy 1: yellow
+energy 2: 
+pokemon: pineco
+special condition: 
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+shield detected
+action executed successfully
+dutchman's turn
+round 15
+your active card:
+pineco|yellow|pink
+
+your hand:
+1.yellow
+2.pink
+3.pink
+4.yellow
+
+your bench:
+1.
+2.ducklett|yellow|pink
+3.
+
+amir's active card:
+dragonite||
+
+amir's bench:
+1.tepig||
+2.rowlet|pink|
+3.lugia|yellow|
+pokemon: pineco
+special condition: burning
+hitpoint: 89.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+pokemon: lugia
+special condition: 
+hitpoint: 15.05/90.00
+energy 1: yellow
+energy 2: 
+substitution successful
+action executed successfully
+amir's turn
+round 15
+your active card:
+dragonite||
+
+your hand:
+1.ducklett
+2.pineco
+3.pink
+
+your bench:
+1.tepig||
+2.rowlet|pink|
+3.
+
+dutchman's active card:
+ducklett|yellow|pink
+
+dutchman's bench:
+1.
+2.pineco|yellow|pink
+3.
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: 
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: pineco
+special condition: 
+hitpoint: 89.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+card put successful
+substitution successful
+no pokemon in the selected place
+round 15
+your active card:
+rowlet|pink|pink
+
+your hand:
+1.ducklett
+2.pineco
+
+your bench:
+1.tepig||
+2.dragonite||
+3.
+
+dutchman's active card:
+ducklett|yellow|pink
+
+dutchman's bench:
+1.
+2.pineco|yellow|pink
+3.
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: pink
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: pineco
+special condition: 
+hitpoint: 89.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+invalid target number
+round 15
+your active card:
+rowlet|pink|pink
+
+your hand:
+1.ducklett
+2.pineco
+
+your bench:
+1.tepig||
+2.dragonite||
+3.
+
+dutchman's active card:
+ducklett|yellow|pink
+
+dutchman's bench:
+1.
+2.pineco|yellow|pink
+3.
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: pink
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 40.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: pineco
+special condition: 
+hitpoint: 89.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+substitution successful
+action executed successfully
+dutchman's turn
+round 16
+your active card:
+ducklett|yellow|pink
+
+your hand:
+1.yellow
+2.pink
+3.pink
+4.yellow
+
+your bench:
+1.
+2.pineco|yellow|pink
+3.
+
+amir's active card:
+dragonite||
+
+amir's bench:
+1.tepig||
+2.rowlet|pink|pink
+3.
+pokemon: ducklett
+special condition: 
+hitpoint: 16.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: pineco
+special condition: 
+hitpoint: 89.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 50.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: pink
+no pokemon in the selected place
+action executed successfully
+amir's turn
+round 16
+your active card:
+dragonite||
+
+your hand:
+1.ducklett
+2.pineco
+
+your bench:
+1.tepig||
+2.rowlet|pink|pink
+3.
+
+dutchman's active card:
+ducklett|yellow|pink
+
+dutchman's bench:
+1.
+2.pineco|yellow|pink
+3.
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 10.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: pink
+no pokemon in the selected place
+pokemon: ducklett
+special condition: 
+hitpoint: 16.00/70.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: pineco
+special condition: 
+hitpoint: 89.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+action executed successfully
+dutchman's turn
+round 17
+your active card:
+
+
+your hand:
+1.yellow
+2.pink
+3.pink
+4.yellow
+
+your bench:
+1.
+2.pineco|yellow|pink
+3.
+
+amir's active card:
+dragonite||
+
+amir's bench:
+1.tepig||
+2.rowlet|pink|pink
+3.
+no pokemon in the selected place
+no pokemon in the selected place
+pokemon: pineco
+special condition: 
+hitpoint: 89.00/110.00
+energy 1: yellow
+energy 2: pink
+no pokemon in the selected place
+pokemon: dragonite
+special condition: 
+hitpoint: 38.00/120.00
+energy 1: 
+energy 2: 
+pokemon: tepig
+special condition: 
+hitpoint: 10.00/140.00
+energy 1: 
+energy 2: 
+pokemon: rowlet
+special condition: 
+hitpoint: 177.50/180.00
+energy 1: pink
+energy 2: pink
+no pokemon in the selected place
+Winner: amir
+amir's turn
+number of coins:153
+experience:0
+1.energy yellow 5
+2.energy pink 5
+3.energy yellow 5
+4.energy pink 5
+5.energy yellow 5
+6.energy yellow 5
+7.energy pink 5
+8.energy yellow 5
+9.energy pink 5
+10.energy yellow 5
+11.energy yellow 5
+12.energy pink 5
+13.energy yellow 5
+14.energy pink 5
+15.energy yellow 5
+16.energy yellow 5
+17.energy pink 5
+18.energy yellow 5
+19.energy pink 5
+20.energy yellow 5
+21.fire tepig 13
+22.water ducklett 15
+23.plant pineco 9
+24.fire dragonite 10
+1.yellow
+2.pink
+3.pink
+4.yellow
+your rank:4
+1.username:ali experience:0
+2.username:amir experience:0
+3.username:amnam experience:0
+4.username:dutchman experience:0
+user logged in successfully
+number of coins:95
+experience:0
+1.fire dragonite 10
+2.fire tepig 13
+3.water lugia 11
+4.water ducklett 15
+5.plant pineco 9
+6.plant rowlet 12
+7.energy pink 5
+8.energy pink 5
+9.energy pink 5
+10.energy yellow 5
+11.energy yellow 5
+12.energy yellow 5
+13.fire dragonite 10
+14.fire tepig 13
+15.water lugia 11
+16.water ducklett 15
+17.plant pineco 9
+18.plant rowlet 12
+19.energy pink 5
+20.energy yellow 5
+21.energy pink 5
+22.energy yellow 5
+23.energy pink 5
+24.energy yellow 5
+25.energy yellow 5
+1.ducklett
+2.pineco
+your rank:2
+1.username:ali experience:0
+2.username:amir experience:0
+3.username:amnam experience:0
+4.username:dutchman experience:0
