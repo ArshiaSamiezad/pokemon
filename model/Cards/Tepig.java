@@ -34,15 +34,19 @@ public class Tepig extends Pokemon {
     }
 
     public void doPassive(Game game, Player player, Player enemy) {
+        if(enemy.getActiveCard()!=null)
         if (!enemy.getActiveCard().getType().equals("water")) {
             enemy.getActiveCard().setCondition("burning");
         }
+        if(enemy.getBenchCard1()!=null)
         if (!enemy.getBenchCard1().getType().equals("water")) {
             enemy.getBenchCard1().setCondition("burning");
         }
+        if(enemy.getBenchCard2()!=null)
         if (!enemy.getBenchCard2().getType().equals("water")) {
             enemy.getBenchCard2().setCondition("burning");
         }
+        if(enemy.getBenchCard3()!=null)
         if (!enemy.getBenchCard3().getType().equals("water")) {
             enemy.getBenchCard3().setCondition("burning");
         }
@@ -50,15 +54,26 @@ public class Tepig extends Pokemon {
 
     public void doAction(Game game, Player player, Player enemy) {
         Pokemon playerPokemon = player.getActiveCard();
+        double damage;
+        double damage1;
+        double damage2;
+        double damage3;
 
-        int damage = (int) playerPokemon.getDamageToTarget(enemy.getActiveCard());
-        int damage1 = (int) (0.2 * playerPokemon.getDamageToTarget(enemy.getBenchCard1()));
-        int damage2 = (int) (0.2 * playerPokemon.getDamageToTarget(enemy.getBenchCard2()));
-        int damage3 = (int) (0.2 * playerPokemon.getDamageToTarget(enemy.getBenchCard3()));
+        if(enemy.getActiveCard()!=null){
+            damage = playerPokemon.getDamageToTarget(enemy.getActiveCard());
+            doDamage(player,enemy, enemy.getActiveCard(), damage);
+        }
+        if(enemy.getBenchCard1()!=null){
+            damage1 = 0.2* playerPokemon.getDamageToTarget(enemy.getBenchCard1());
+            doDamage(player,enemy, enemy.getBenchCard1(), damage1);
+        }
+        if(enemy.getBenchCard2()!=null){
+            damage2 = 0.2* playerPokemon.getDamageToTarget(enemy.getBenchCard2());
+            doDamage(player,enemy, enemy.getBenchCard2(), damage2);
+        }if(enemy.getBenchCard3()!=null){
+            damage3 = 0.2* playerPokemon.getDamageToTarget(enemy.getBenchCard3());
+            doDamage(player,enemy, enemy.getBenchCard3(), damage3);
+        }
 
-        doDamage(player,enemy, enemy.getActiveCard(), damage);
-        doDamage(player,enemy, enemy.getBenchCard1(), damage1);
-        doDamage(player,enemy, enemy.getBenchCard2(), damage2);
-        doDamage(player,enemy, enemy.getBenchCard3(), damage3);
     }
 }

@@ -135,7 +135,7 @@ public class Pokemon extends Card {
         if((energy = getEnergy2())!=null){
             energy2 = getEnergyValue(energy);
         }
-        return power*energy1*energy2*resistance*getTargetResistance(pokemon)*getTargetWeakness(pokemon);
+        return power*energy1*energy2*getTargetResistance(pokemon)*getTargetWeakness(pokemon);
     }
 
     public void doPassive(Game game, Player player, Player enemy){

@@ -23,6 +23,7 @@ public class Dragonite extends Pokemon {
         Pokemon enemyPokemon = enemy.getActiveCard();
         double damage = playerPokemon.getDamageToTarget(enemyPokemon);
         if (enemyPokemon.getShield() > 0) {
+            System.out.println("shield detected");
             if (damage > enemyPokemon.getShield()) {
                 damage = damage - enemyPokemon.getShield();
                 enemyPokemon.setShield(0);

@@ -10,7 +10,7 @@ public class Main {
                     "outputs1\\outputDasti.txt",
                     "myOut\\myOut1.txt");
         } catch (Exception e) {
-            throw e;
+            // throw e;
             // This occurs when code is judging in quera
             // Therefore, There is no need to remove or comment this section of code when uploading.
         }
