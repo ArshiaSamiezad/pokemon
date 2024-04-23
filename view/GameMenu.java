@@ -37,7 +37,10 @@ public class GameMenu extends AppMenu{
             controller.executeActionWithTarget(matcher.group("target"));
         }
         else if(((matcher = GameMenuCommands.ExecuteActionNoTarget.getMather(input)))!=null){
-
+            controller.executeActionWithoutTarget();
+        }
+        else if(((matcher = GameMenuCommands.ShowMenu.getMather(input)))!=null){
+            System.out.println("game menu");
         }
         else{
             System.out.println("invalid command");

@@ -22,7 +22,7 @@ public class Pokemon extends Card {
         super(buyValue, sellValue, name, type);
         this.energy1 = null;
         this.energy2 = null;
-        this.condition = null;
+        this.condition = "ok";
         this.maxHitpoint = maxHitpoint;
         this.hitpoint = maxHitpoint;
         this.power = power;

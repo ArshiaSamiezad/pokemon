@@ -8,7 +8,6 @@ public class User {
     private String username;
     private String password;
     private String email;
-    String name;
     private int coins;
     private int experience;
     private ArrayList<Card> deckCards = new ArrayList<Card>();
@@ -94,8 +93,21 @@ public class User {
     public ArrayList<Card> getStorageCards() {
         return storageCards;
     }
+
     public ArrayList<Card> getUnequippedCards() {
         return unequippedCards;
+    }
+
+    public void setDeckCards(ArrayList<Card> deckCards) {
+        this.deckCards = deckCards;
+    }
+
+    public void setUnequippedCards(ArrayList<Card> unequippedCards) {
+        this.unequippedCards = unequippedCards;
+    }
+
+    public void setStorageCards(ArrayList<Card> storageCards) {
+        this.storageCards = storageCards;
     }
 
     public int getDeckCardsCount(){

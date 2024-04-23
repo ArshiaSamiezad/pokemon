@@ -14,6 +14,11 @@ public class Player extends User{
     private double reduce;
     public Player(User user) {
         super(user.getUsername(), user.getPassword(), user.getEmail());
+        this.setCoins(user.getCoins());
+        this.setExperience(user.getExperience());
+        this.setDeckCards(user.getDeckCards());
+        this.setStorageCards(user.getStorageCards());
+        this.setUnequippedCards(user.getUnequippedCards());
         this.activeCard=null;
         this.benchCard1=null;
         this.benchCard2=null;

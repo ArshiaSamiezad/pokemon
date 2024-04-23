@@ -9,22 +9,11 @@ import java.util.ArrayList;
 import java.util.regex.Matcher;
 
 public class GameMenuController {
-    Matcher matcher;
-
-    private void changeActivePlayer() {
-        Game game = App.getCurrentGame();
-        Player player1 = game.getPlayer1();
-        Player player2 = game.getPlayer2();
-        if (player1.equals(game.getActivePlayer())) {
-            game.setActivePlayer(player2);
-            return;
-        }
-        game.setActivePlayer(player1);
-    }
 
     private void printPokemoneWithEnergy(Pokemon pokemon) {
         if (pokemon == null) {
             System.out.println("");
+            return;
         } else {
             System.out.print(pokemon.getName() + "|");
             if (pokemon.getEnergy1() == null) { // Assuming that energy1 cant be empty when we have energy2
@@ -108,7 +97,7 @@ public class GameMenuController {
     }
 
     private void printPokemonCondition(String condition) {
-        if (condition == null) {
+        if (condition.equals("ok")) {
             System.out.println("");
             return;
         }
@@ -155,6 +144,7 @@ public class GameMenuController {
             System.out.println("no pokemon in the selected place");
             return;
         }
+        if (player.getActiveCard().getEnergy1() != null)
         if (player.getActiveCard().getEnergy1() != null && player.getActiveCard().getEnergy2() != null) {
             System.out.println("pokemon already has 2 energies");
             return;
@@ -170,83 +160,103 @@ public class GameMenuController {
 
     private void deleteDeadPokemons(Player player, Player opponet) {
         int kills = 0;
-        if (player.getActiveCard().getHitpoint() <= 0) {
-            kills++;
-            if (player.getActiveCard().getEnergy1() != null)
+        if (player.getActiveCard() != null)
+            if (player.getActiveCard().getHitpoint() <= 0) {
                 kills++;
-            if (player.getActiveCard().getEnergy2() != null)
+                if (player.getActiveCard().getEnergy1() != null)
+                    kills++;
+                if (player.getActiveCard().getEnergy2() != null)
+                    kills++;
+                player.setActiveCard(null);
+            }
+        if (player.getBenchCard1() != null)
+            if (player.getBenchCard1().getHitpoint() <= 0) {
                 kills++;
-            player.setActiveCard(null);
-        }
-        if (player.getBenchCard1().getHitpoint() <= 0) {
-            kills++;
-            if (player.getBenchCard1().getEnergy1() != null)
+                if (player.getBenchCard1().getEnergy1() != null)
+                    kills++;
+                if (player.getBenchCard1().getEnergy2() != null)
+                    kills++;
+                player.setBenchCard1(null);
+            }
+        if (player.getBenchCard2() != null)
+            if (player.getBenchCard2().getHitpoint() <= 0) {
                 kills++;
-            if (player.getBenchCard1().getEnergy2() != null)
+                if (player.getBenchCard2().getEnergy1() != null)
+                    kills++;
+                if (player.getBenchCard2().getEnergy2() != null)
+                    kills++;
+                player.setBenchCard2(null);
+            }
+        if (player.getBenchCard3() != null)
+            if (player.getBenchCard3().getHitpoint() <= 0) {
                 kills++;
-            player.setBenchCard1(null);
-        }
-        if (player.getBenchCard2().getHitpoint() <= 0) {
-            kills++;
-            if (player.getBenchCard2().getEnergy1() != null)
-                kills++;
-            if (player.getBenchCard2().getEnergy2() != null)
-                kills++;
-            player.setBenchCard2(null);
-        }
-        if (player.getBenchCard3().getHitpoint() <= 0) {
-            kills++;
-            if (player.getBenchCard3().getEnergy1() != null)
-                kills++;
-            if (player.getBenchCard3().getEnergy2() != null)
-                kills++;
-            player.setBenchCard3(null);
-        }
+                if (player.getBenchCard3().getEnergy1() != null)
+                    kills++;
+                if (player.getBenchCard3().getEnergy2() != null)
+                    kills++;
+                player.setBenchCard3(null);
+            }
         opponet.setKills(opponet.getKills() + kills);
     }
 
     private void fixMaxHitpoints(Player player) {
-        if (player.getActiveCard().getHitpoint() > player.getActiveCard().getMaxHitpoint()) {
-            player.getActiveCard().setHitpoint(player.getActiveCard().getMaxHitpoint());
-        }
-        if (player.getBenchCard1().getHitpoint() > player.getBenchCard1().getMaxHitpoint()) {
-            player.getBenchCard1().setHitpoint(player.getBenchCard1().getMaxHitpoint());
-        }
-        if (player.getBenchCard2().getHitpoint() > player.getBenchCard2().getMaxHitpoint()) {
-            player.getBenchCard2().setHitpoint(player.getBenchCard2().getMaxHitpoint());
-        }
-        if (player.getBenchCard3().getHitpoint() > player.getBenchCard3().getMaxHitpoint()) {
-            player.getBenchCard3().setHitpoint(player.getBenchCard3().getMaxHitpoint());
-        }
+        if (player.getActiveCard() != null)
+            if (player.getActiveCard().getHitpoint() > player.getActiveCard().getMaxHitpoint()) {
+                player.getActiveCard().setHitpoint(player.getActiveCard().getMaxHitpoint());
+            }
+        if (player.getBenchCard1() != null)
+            if (player.getBenchCard1().getHitpoint() > player.getBenchCard1().getMaxHitpoint()) {
+                player.getBenchCard1().setHitpoint(player.getBenchCard1().getMaxHitpoint());
+            }
+        if (player.getBenchCard2() != null)
+            if (player.getBenchCard2().getHitpoint() > player.getBenchCard2().getMaxHitpoint()) {
+                player.getBenchCard2().setHitpoint(player.getBenchCard2().getMaxHitpoint());
+            }
+        if (player.getBenchCard3() != null)
+            if (player.getBenchCard3().getHitpoint() > player.getBenchCard3().getMaxHitpoint()) {
+                player.getBenchCard3().setHitpoint(player.getBenchCard3().getMaxHitpoint());
+            }
     }
 
     private void burnPokemons(Player player) {
-        if (player.getActiveCard().getCondition().equals("burning") && player.getActiveCard().getType().equals("fire")) {
-            player.getActiveCard().setHitpoint(player.getActiveCard().getHitpoint() - 10);
-        }
-        if (player.getBenchCard1().getCondition().equals("burning") && player.getBenchCard1().getType().equals("fire")) {
-            player.getBenchCard1().setHitpoint(player.getBenchCard1().getHitpoint() - 10);
-        }
-        if (player.getBenchCard2().getCondition().equals("burning") && player.getBenchCard2().getType().equals("fire")) {
-            player.getBenchCard2().setHitpoint(player.getBenchCard2().getHitpoint() - 10);
-        }
-        if (player.getBenchCard3().getCondition().equals("burning") && player.getBenchCard3().getType().equals("fire")) {
-            player.getBenchCard3().setHitpoint(player.getBenchCard3().getHitpoint() - 10);
-        }
+        if (player.getActiveCard() != null)
+            if (player.getActiveCard().getCondition().equals("burning") && player.getActiveCard().getType().equals("fire")) {
+                player.getActiveCard().setHitpoint(player.getActiveCard().getHitpoint() - 10);
+            }
+        if (player.getBenchCard1() != null)
+            if (player.getBenchCard1().getCondition().equals("burning") && player.getBenchCard1().getType().equals("fire")) {
+                player.getBenchCard1().setHitpoint(player.getBenchCard1().getHitpoint() - 10);
+            }
+        if (player.getBenchCard2() != null)
+            if (player.getBenchCard2().getCondition().equals("burning") && player.getBenchCard2().getType().equals("fire")) {
+                player.getBenchCard2().setHitpoint(player.getBenchCard2().getHitpoint() - 10);
+            }
+        if (player.getBenchCard3() != null)
+            if (player.getBenchCard3().getCondition().equals("burning") && player.getBenchCard3().getType().equals("fire")) {
+                player.getBenchCard3().setHitpoint(player.getBenchCard3().getHitpoint() - 10);
+            }
     }
 
     private void fillShields(Player player) {
-        player.getActiveCard().setShield(player.getActiveCard().getMaxShield());
-        player.getBenchCard1().setShield(player.getBenchCard1().getMaxShield());
-        player.getBenchCard2().setShield(player.getBenchCard2().getMaxShield());
-        player.getBenchCard3().setShield(player.getBenchCard3().getMaxShield());
+        if (player.getActiveCard() != null)
+            player.getActiveCard().setShield(player.getActiveCard().getMaxShield());
+        if (player.getBenchCard1() != null)
+            player.getBenchCard1().setShield(player.getBenchCard1().getMaxShield());
+        if (player.getBenchCard2() != null)
+            player.getBenchCard2().setShield(player.getBenchCard2().getMaxShield());
+        if (player.getBenchCard3() != null)
+            player.getBenchCard3().setShield(player.getBenchCard3().getMaxShield());
     }
 
     private void setConditionsToOk(Player player) {
-        player.getActiveCard().setCondition("ok");
-        player.getBenchCard1().setCondition("ok");
-        player.getBenchCard2().setCondition("ok");
-        player.getBenchCard3().setCondition("ok");
+        if (player.getActiveCard() != null)
+            player.getActiveCard().setCondition("ok");
+        if (player.getBenchCard1() != null)
+            player.getBenchCard1().setCondition("ok");
+        if (player.getBenchCard2() != null)
+            player.getBenchCard2().setCondition("ok");
+        if (player.getBenchCard3() != null)
+            player.getBenchCard3().setCondition("ok");
 
     }
 
@@ -256,11 +266,11 @@ public class GameMenuController {
     }
 
     public void endGame(Player winner, Player loser) {
-        winner.setCoins(winner.getCoins()+(int)(winner.getReduce()/10));
-        winner.setExperience(winner.getExperience()+winner.getKills()*10);
-        loser.setCoins(loser.getCoins()+(int)(loser.getReduce()/10));
-        loser.setExperience(loser.getExperience()+loser.getKills()*10);
-        System.out.println("Winner: "+winner.getUsername());
+        winner.setCoins(winner.getCoins() + (int) (winner.getReduce() / 10));
+        winner.setExperience(winner.getExperience() + winner.getKills() * 10);
+        loser.setCoins(loser.getCoins() + (int) (loser.getReduce() / 10));
+        loser.setExperience(loser.getExperience() + loser.getKills() * 10);
+        System.out.println("Winner: " + winner.getUsername());
         App.setCurrentGame(null);
         App.setCurrentMenu(Menu.MainMenu);
     }
@@ -309,7 +319,8 @@ public class GameMenuController {
         }
         Pokemon pokemon = getPokemonByPlaceNumber(player, placeNumber);
         if (pokemon == null) {
-            System.out.println(" no pokemon in the selected place");
+            System.out.println("no pokemon in the selected place");
+            return;
         }
 
         System.out.println("pokemon: " + pokemon.getName());
@@ -317,8 +328,8 @@ public class GameMenuController {
         System.out.print("special condition: ");
         printPokemonCondition(pokemon.getCondition());
 
-        System.out.println("hitpoint: " + String.format("%.2f",pokemon.getHitpoint()) + "/" +
-                String.format("%.2f",pokemon.getMaxHitpoint()));
+        System.out.println("hitpoint: " + String.format("%.2f", pokemon.getHitpoint()) + "/" +
+                String.format("%.2f", pokemon.getMaxHitpoint()));
 
         System.out.print("energy 1: ");
         printEnergy(pokemon.getEnergy1());

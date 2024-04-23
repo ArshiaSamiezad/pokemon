@@ -6,8 +6,8 @@ public class Main {
         // Usage 1: For Testing Code with a testcase
         try {
             MTester.initTestcaseConsumer("C:\\Users\\Sam\\IdeaProjects\\pokemon-master\\tests\\",
-                    "inputs1\\testcase29.txt",
-                    "outputs1\\output29.txt",
+                    "inputs1\\inputDasti.txt",
+                    "outputs1\\outputDasti.txt",
                     "myOut\\myOut1.txt");
         } catch (Exception e) {
             throw e;
