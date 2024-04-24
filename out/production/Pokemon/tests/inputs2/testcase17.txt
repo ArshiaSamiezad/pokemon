@@ -1,0 +1,134 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+put card lugia to 3
+show my info 0
+put card dragonite to 2
+put card rowl et to 1
+put card rowlet to 2
+show enemy info 1
+show table
+substitute active card with bench 1
+show table
+put card pi_nk to 2
+execute action -t 3
+put card rowlet to 2
+substitute active card with bench 0
+substitute active card with bench 2
+substitute active card with bench 3
+substitute active card with bench 1
+put card pineco to 0
+put card rowlet to 23
+execute action
+end turn
+show table
+show enemy info 1
+show my info 1
+substitute active card with bench 3
+put card pi_nk to 3
+put card rowlet to 3
+show enemy info 3
+show table
+put card tepig to 14
+end turn
+logout
+register username bWNJFeyFdq password YrA$Yn1 email bvwjZ@d_Wu.com
+register username nIpvWHxViAZdeE password N9zby#BC9&Z email 0(_<G1@M$4.com
+register username gRYzlyfHFOrSsE password fT+$%'@1R&bEP@ciLl( email @gdfokwf.com
+login username reza password q<Gm^Q^CPP7)Y
+login username reza password v@Lym&A8Jc
+login username reza password f&3t!b+YM
+login username reza password Abc^123
+go to shop menu
+buy card ducklet
+sell card du  klett
+buy card ducklett
+buy card pi_nk
+buy card rowlet
+buy card ducklett
+back
+logout
+register username aabDrMnKGX password MS!2nQ5!Z.8Gees email 6ax6.@7.com
+register username BjUgHniwnYKFSHLCndO password FmuJ!S)Kz email .@.com
+register username Zg password u%+9$R#Vgugys email Pf.@x>&-4SA.com
+register username kXzomNGWLiFsNi password FN)V6 email 1eRkswxu@kwyov.com
+register username BAZEVfutuUsYUJIw password t4iB!1mua email .4Y4pg@_G)CV&s.com
+register username POZADVvwp password d'73@COU email jcR.hl@B#pb.com
+register username cFlVJkEx password zwBq976r5!tb1(nEzG email y.@.com
+register username iJ password auvM^os) email .x0@.com
+register username oBYYMCZQCdptYsNkT password G@4cvwtCfK.0 9%agF+13aqeSd7 email %8@vjllnw.com
+register username MdgRmVhaSKEgsh password R(afh!paGQP email hPOYz3z@TDp.co
+register username WNY4 password y5f_@Bj8e email STTxOI33@xdrlgzckd.com
+register username mXJRJTpVDAhkIgy password l&Aviz@c8ph8 email i.nJb@.com
+register username s_F password @c7)TN email WLsW39Ct@c.com
+register username CIeb password gOab%(&vOc0b email 8)ke@sxeszm.com
+register username zxXrdtdGi password GlOimp47 email @.com
+register username zfOSrvkDxyzH password lUZfM0WJ09QoNh6(M email aZwiet@vf.com
+register username fCkk password M$SmTyB&bil0L0 email c93v9@rky.com
+login username iqyKoNnUsrdntIRU_Gf password ihlQ'lp#v_xshS1
+login username fCkk password j7W_Y.lfuS#yR%7uTR$d
+login username fCkk password q1#R!K^bR!o(!z.zU(
+login username fCkk password M$SmTyB&bil0L0
+logout
+exit

@@ -1,0 +1,130 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+substitute active card with bench 3
+substitute active card with bench 3
+show enemy info 0
+put card lugia to 2
+put card ducklett to -5
+show enemy info 1
+execute action
+show table
+show enemy info 12
+show table
+show my info 0
+substitute active card with bench 2
+substitute active card with bench 0
+put card pineco to 0
+substitute active card with bench 1
+put card tepig to 2
+show table
+show my info 2
+substitute active card with bench 1
+execute action
+end turn
+show table
+substitute active card with bench 0
+show enemy info 3
+show enemy info 20
+show my info 1
+put card pink to 3
+show enemy info 2
+put card pineco to 24
+show table
+show table
+execute action
+end turn
+go to profile menu
+show storage
+equip card tepig to my deck
+equip card rowlet to my deck
+equip card rowlet to my deck
+equip card lugia to my deck
+equip card tepig to my deck
+equip card yellow to my deck
+equip card tepig to my deck
+equip card dragonite to my deck
+back
+logout
+register username EgpLBjEQ password Q<z*Ev#JJ+4q email .1RH2qD@g%$_r.com
+register username VYBWVzGbqDOdxGoKzT password kt26w!Ub#J email VUYB@V3KAa#!..com
+register username Af6(NG)ONGJC+5+nN3 password PgL(zxW9'P3 qoDJsy email O>* @9k$v.com
+register username SYUY password mlGekNjOcd53GNhfL email DmE@b7y.com
+register username aJrzCUnAfoTkObZey password xI$*kAdW*G!vx&)lkH%h email IN6UwT@.com
+register username juvPzbUSseeTcnGuAFc password 'so9YSzF.1!VFWY)^c'0 email G.ei@xkpje.com
+register username YQnwEqJTSCkYGKq password VtXIg'1WuUsy+_ email CB2.k.D@+dW<+90.com
+register username ad)Yf  password C)H-)CKPk)hGTy+q*G%( email L4o@do93X.com
+register username wjeQNhC password XGiq^F^O email @K'W8v(!4w.com
+register username frTjhfSdptQjPVcA password t$h!Pt#m@&Q3MwXMhc6 email hbxXU@ybs.com
+login username zoM(ehgz ac*s<q_% password )
+register username (z>i(0sY*L2UX. UH& password #d8#^UggA %zqy1WzBGc365tETh)@ email OfDqFc.@L6foPN.com
+register username $ t0ZL)oHax.rv password y*IB*#8R@- email ^<j3*@.com
+register username ZdoNcS_PglWbc password LV email 94F@.com
+register username H$L7^5mczf password 7 email syeu9Xx.@taazt.com
+register username sMcEMZUuyYVMWYPPn_ password A8uLW#&486e- email Lth3pBs@chieucatw.com
+login username sMcEMZUuyYVMWYPPn_ password A8uLW#&486e-
+go to profile menu
+back
+logout
+exit

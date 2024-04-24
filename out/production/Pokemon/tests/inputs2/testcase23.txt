@@ -1,0 +1,188 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+put card lugia to 0
+put card pink to 2
+put card lugia to 15
+end turn
+put card pink to 1
+put card pineco to 3
+show table
+substitute active card with bench -5
+show table
+put card dragonite to 14
+show enemy info 2
+end turn
+go to profile menu
+show my rank
+show my rank
+unequip card pineco from my deck
+unequip card ducklet from my deck
+unequip card lugia from my deck
+unequip card pink from my deck
+show ranking
+show ranking
+show my rank
+equip card pink to my deck
+equip card ducklett to my deck
+equip card yellow to my deck
+equip card pink to my deck
+equip card t pig to my deck
+equip card pink to my deck
+equip card dragonite to my deck
+equip card dragonite to my deck
+equip card du  klett to my deck
+show ranking
+show current menu
+equip card lugia to my deck
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card pink to my deck
+equip card pineco to my deck
+equip card pink to my deck
+show ranking
+show current menu
+back
+go to profile menu
+show my rank
+show experience
+show coins
+show experience
+show my rank
+unequip card pineco from my deck
+unequip card rowlet from my deck
+unequip card pink from my deck
+show experience
+show coins
+equip card pinEco to my deck
+equip card yellow to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card pink to my deck
+equip card lugia to my deck
+equip card pink to my deck
+equip card pineco to my deck
+equip card yellow to my deck
+equip card ducklett to my deck
+equip card tepig to my deck
+equip card dragonite to my deck
+back
+go to shop menu
+buy card tepig
+buy card lugia
+show current menu
+show current menu
+buy card yellow
+sell card pink
+sell card rowlet
+back
+go to shop menu
+show current menu
+sell card pineco
+buy card yellow
+buy card dragonite
+buy card tepig
+buy card ducklett
+buy card rowlet
+buy card yellow
+buy card yellow
+back
+go to profile menu
+show coins
+show my rank
+show experience
+back
+go to profile menu
+show my rank
+show coins
+show my rank
+unequip card yellow from my deck
+unequip card rowlet from my deck
+unequip card lugia from my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card ducklett to my deck
+equip card p ink to my deck
+equip card pineco to my deck
+equip card ducklett to my deck
+equip card lOugia to my deck
+back
+go to shop menu
+sell card yellow
+sell card p ink
+sell card yellow
+back
+go to profile menu
+show experience
+show coins
+show experience
+show experience
+show coins
+show ranking
+show my deck
+show ranking
+show coins
+back
+logout
+exit

@@ -1,0 +1,98 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+put card pineco to 3
+substitute active card with bench 3
+substitute active card with bench 0
+end turn
+show table
+substitute active card with bench 2
+show table
+substitute active card with bench 2
+substitute active card with bench 1
+substitute active card with bench 0
+end turn
+go to profile menu
+show my deck
+show ranking
+back
+logout
+register username Ea0upGDZ! password S#V^JJ email Cjw.M6W@ihzjawsh.com
+register username 46@CfJ+ik$RNpB password SUP 9L1Zw6 B)InQwY email -L>%&@.com
+register username z'vZMNPpvGPmP)Mx3 password mSJxzO-e2@Y.pKEcRw email syw6.@jsebc.com
+register username pqVkCCliMeg password BbFXV+j$>qsU0WU email XbheX3kx@fbebac.com
+login username pqVkCCliMeg password KjVw&@1ayL
+login username DqxBlOBwMvvRm password aBB$im
+login username pqVkCCliMeg password lsQRN#nm9.(
+login username pqVkCCliMeg password BbFXV+j$>qsU0WU
+logout
+login username pqVkCCliMeg password V7_G!Ulp
+login username ktjD_bXSChtwVylu password dKEI@ra-
+login username A password a<G_lmb^qh!$hH6
+login username pqVkCCliMeg password BbFXV+j$>qsU0WU
+go to profile menu
+show storage
+back
+logout
+exit

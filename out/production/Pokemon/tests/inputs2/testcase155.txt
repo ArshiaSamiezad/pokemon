@@ -1,0 +1,94 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+put card pink to 0
+substitute active card with bench 2
+show table
+substitute active card with bench 2
+show enemy info 0
+show table
+put card rowlet to 2
+substitute active card with bench 1
+show table
+show my info 3
+put card yellow to 0
+show my info 23
+substitute active card with bench 3
+end turn
+logout
+login username reza password p6#tZQi@5aw.G1
+login username reza password Abc^123
+logout
+register username IqsFVLFVVWpf password mj69$>$dx email Jw6vS@L.co
+register username fTVYIpNORRlVYZiC password tX.jLAw@9mtNz%0 email sk+_a--&@>9(O!.com
+register username rXs0)2. password 8O)(BRS0d email 8@.com
+register username qqvPTiaUZlZWG password KXC.zXC^n$aC042Vkq email 5%Q-oS*y@.com
+register username h password nf$9'&01AM email .9U@h.com
+login username QquzMhlOfUZP password U9bZBLSc#q74..mOq
+login username h password nf$9'&01AM
+logout
+login username reza password N9qFeJ(vn#0B_!cI2ha
+login username h password nf$9'&01AM
+logout
+exit

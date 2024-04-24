@@ -1,7 +1,6 @@
 package controller;
 
 import enums.Menu;
-import enums.PokemonConditions;
 import model.*;
 import model.Cards.*;
 
@@ -137,6 +136,7 @@ public class GameMenuController {
         }
         setPokemonByPlaceNumber(player, placeNumber, pokemon);
         player.removeFromDeck(pokemon);
+        player.removeFromStorage(pokemon);
         return true;
     }
 
@@ -157,49 +157,28 @@ public class GameMenuController {
         }
         setEnergyByPlaceNumber(player, placeNumber, energy);
         player.removeFromDeck(energy);
+        player.removeFromStorage(energy);
         player.setPlayedEnergyThisTurn(true);
         return true;
     }
 
     private void deleteDeadPokemons(Player player, Player opponet) {
-        int kills = 0;
         if (player.getActiveCard() != null)
             if (player.getActiveCard().getHitpoint() <= 0) {
-                kills++;
-                if (player.getActiveCard().getEnergy1() != null)
-                    kills++;
-                if (player.getActiveCard().getEnergy2() != null)
-                    kills++;
                 player.setActiveCard(null);
             }
         if (player.getBenchCard1() != null)
             if (player.getBenchCard1().getHitpoint() <= 0) {
-                kills++;
-                if (player.getBenchCard1().getEnergy1() != null)
-                    kills++;
-                if (player.getBenchCard1().getEnergy2() != null)
-                    kills++;
                 player.setBenchCard1(null);
             }
         if (player.getBenchCard2() != null)
             if (player.getBenchCard2().getHitpoint() <= 0) {
-                kills++;
-                if (player.getBenchCard2().getEnergy1() != null)
-                    kills++;
-                if (player.getBenchCard2().getEnergy2() != null)
-                    kills++;
                 player.setBenchCard2(null);
             }
         if (player.getBenchCard3() != null)
             if (player.getBenchCard3().getHitpoint() <= 0) {
-                kills++;
-                if (player.getBenchCard3().getEnergy1() != null)
-                    kills++;
-                if (player.getBenchCard3().getEnergy2() != null)
-                    kills++;
                 player.setBenchCard3(null);
             }
-        opponet.setKills(opponet.getKills() + kills);
     }
 
     private void fixMaxHitpoints(Player player) {
@@ -260,24 +239,95 @@ public class GameMenuController {
             player.getBenchCard2().setCondition("ok");
         if (player.getBenchCard3() != null)
             player.getBenchCard3().setCondition("ok");
-
     }
 
-    public void startGame(Player player1, Player player2) {
-        Game game = new Game(player1, player2);
-        App.setCurrentGame(game);
+
+    private void doAction(Pokemon activePokemon, Game game, Player player, Player enemy) {
+        if (activePokemon instanceof Dragonite)
+            ((Dragonite) activePokemon).doAction(game, player, enemy);
+        else if (activePokemon instanceof Lugia)
+            ((Lugia) activePokemon).doAction(game, player, enemy);
+        else if (activePokemon instanceof Pineco)
+            ((Pineco) activePokemon).doAction(game, player, enemy);
+        else if (activePokemon instanceof Tepig)
+            ((Tepig) activePokemon).doAction(game, player, enemy);
+        else
+            System.out.println(1 / 0);
+    }
+
+    private void doAction(Pokemon activePokemon, Game game, Player player, Player enemy, Pokemon targetPokemon) {
+        if (activePokemon instanceof Ducklett)
+            ((Ducklett) activePokemon).doAction(game, player, enemy, targetPokemon);
+        else if (activePokemon instanceof Rowlet)
+            ((Rowlet) activePokemon).doAction(game, player, enemy, targetPokemon);
+        else
+            System.out.println(1 / 0);
+    }
+
+    private void doPassive(Pokemon activePokemon, Game game, Player player, Player enemy) {
+        if (activePokemon instanceof Dragonite)
+            ((Dragonite) activePokemon).doPassive(game, player, enemy);
+        else if (activePokemon instanceof Lugia)
+            ((Lugia) activePokemon).doPassive(game, player, enemy);
+        else if (activePokemon instanceof Pineco)
+            ((Pineco) activePokemon).doPassive(game, player, enemy);
+        else if (activePokemon instanceof Tepig)
+            ((Tepig) activePokemon).doPassive(game, player, enemy);
+        else
+            System.out.println(1 / 0);
+    }
+
+    private void doPassive(Pokemon activePokemon, Game game, Player player, Player enemy, Pokemon targetPokemon) {
+        if (activePokemon instanceof Ducklett)
+            ((Ducklett) activePokemon).doPassive(game, player, enemy, targetPokemon);
+        else if (activePokemon instanceof Rowlet)
+            ((Rowlet) activePokemon).doPassive(game, player, enemy, targetPokemon);
+        else
+            System.out.println(1 / 0);
+    }
+
+    private void deleteUsedEnergy(Pokemon activePokemon, Player player) {
+        if (activePokemon.getEnergy1() != null) {
+            if (activePokemon.getEnergy2() != null) {
+                activePokemon.setEnergy1(activePokemon.getEnergy2());
+                activePokemon.setEnergy2(null);
+            } else {
+                activePokemon.setEnergy1(null);
+            }
+        }
     }
 
     public void endGame(Player winner, Player loser) {
-        winner.setCoins(winner.getCoins() + (int) (winner.getReduce() / 10));
-        winner.setExperience(winner.getExperience() + winner.getKills() * 10);
-        loser.setCoins(loser.getCoins() + (int) (loser.getReduce() / 10));
-        loser.setExperience(loser.getExperience() + loser.getKills() * 10);
+        Game game = App.getCurrentGame();
+        User userWinner = null;
+        User userLoser = null;
+        if (winner.equals(game.getPlayer1())) {
+            userWinner = game.getUser1();
+            userLoser = game.getUser2();
+            winner.setReduce(game.getAllHitpoints2() - game.getAllHitpoints(loser));
+            loser.setReduce(game.getAllHitpoints1() - game.getAllHitpoints(winner));
+        } else {
+            userWinner = game.getUser2();
+            userLoser = game.getUser1();
+            winner.setReduce(game.getAllHitpoints1() - game.getAllHitpoints(loser));
+            loser.setReduce(game.getAllHitpoints2() - game.getAllHitpoints(winner));
+        }
+        userWinner.setCoins(userWinner.getCoins() + (int) (winner.getReduce() / 10));
+        userWinner.setExperience(userWinner.getExperience() + loser.getDead() * 10);
+        userLoser.setCoins(userLoser.getCoins() + (int) (loser.getReduce() / 10));
+        userLoser.setExperience(userLoser.getExperience() + winner.getDead() * 10);
         System.out.println("Winner: " + winner.getUsername());
         App.setCurrentGame(null);
         App.setCurrentMenu(Menu.MainMenu);
     }
 
+    private void transferFromPlayerToUser(User user, Player player) {
+        user.setExperience(player.getExperience());
+        user.setCoins(player.getCoins());
+        user.setDeckCards(player.getDeckCards());
+        user.setStorageCards(player.getStorageCards());
+        user.setUnequippedCards(player.getUnequippedCards());
+    }
 
     public void showTable() {
         Game game = App.getCurrentGame();
@@ -394,7 +444,7 @@ public class GameMenuController {
         }
         Pokemon activeCard = getPokemonByPlaceNumber(activePlayer, 0);
         if (activeCard != null)
-            if (activeCard.getCondition().equals(PokemonConditions.Sleeping.conidition)) {
+            if (activeCard.getCondition().equals("sleep")) {
                 System.out.println("active pokemon is sleeping");
                 return;
             }
@@ -423,6 +473,7 @@ public class GameMenuController {
         deleteDeadPokemons(enemy, currentActivePlayer);
         if (currentActivePlayer.getActiveCard() == null) {
             endGame(enemy, currentActivePlayer);
+            return;
         }
         System.out.println(enemy.getUsername() + "'s turn");
         game.setActivePlayer(enemy);
@@ -458,12 +509,13 @@ public class GameMenuController {
             System.out.println("no pokemon in the selected place");
             return;
         }
-        if (activePokemon.getCondition().equals("sleeping")) {
+        if (activePokemon.getCondition().equals("sleep")) {
             System.out.println("active pokemon is sleeping");
             return;
         }
         doAction(activePokemon, game, player, enemy, targetPokemon);
         doPassive(activePokemon, game, player, enemy, targetPokemon);
+        deleteUsedEnergy(activePokemon, player);
 
         System.out.println("action executed successfully");
         endTurn();
@@ -487,54 +539,19 @@ public class GameMenuController {
             System.out.println("no pokemon in the selected place");
             return;
         }
-        if (activePokemon.getCondition().equals("sleeping")) {
+        if (activePokemon.getCondition().equals("sleep")) {
             System.out.println("active pokemon is sleeping");
             return;
         }
         doAction(activePokemon, game, player, enemy);
         if (enemy.getActiveCard() != null)
             doPassive(activePokemon, game, player, enemy);
+        deleteUsedEnergy(activePokemon, player);
         deleteDeadPokemons(player, enemy);
         deleteDeadPokemons(enemy, player);
 
         System.out.println("action executed successfully");
         endTurn();
-    }
-
-    private void doAction(Pokemon activePokemon, Game game, Player player, Player enemy) {
-        if (activePokemon instanceof Dragonite)
-            ((Dragonite) activePokemon).doAction(game, player, enemy);
-        else if (activePokemon instanceof Lugia)
-            ((Lugia) activePokemon).doAction(game, player, enemy);
-        else if (activePokemon instanceof Pineco)
-            ((Pineco) activePokemon).doAction(game, player, enemy);
-        else if (activePokemon instanceof Tepig)
-            ((Tepig) activePokemon).doAction(game, player, enemy);
-    }
-
-    private void doAction(Pokemon activePokemon, Game game, Player player, Player enemy, Pokemon targetPokemon) {
-        if (activePokemon instanceof Ducklett)
-            ((Ducklett) activePokemon).doAction(game, player, enemy, targetPokemon);
-        else if (activePokemon instanceof Rowlet)
-            ((Rowlet) activePokemon).doAction(game, player, enemy, targetPokemon);
-    }
-
-    private void doPassive(Pokemon activePokemon, Game game, Player player, Player enemy) {
-        if (activePokemon instanceof Dragonite)
-            ((Dragonite) activePokemon).doPassive(game, player, enemy);
-        else if (activePokemon instanceof Lugia)
-            ((Lugia) activePokemon).doPassive(game, player, enemy);
-        else if (activePokemon instanceof Pineco)
-            ((Pineco) activePokemon).doPassive(game, player, enemy);
-        else if (activePokemon instanceof Tepig)
-            ((Tepig) activePokemon).doPassive(game, player, enemy);
-    }
-
-    private void doPassive(Pokemon activePokemon, Game game, Player player, Player enemy, Pokemon targetPokemon) {
-        if (activePokemon instanceof Ducklett)
-            ((Ducklett) activePokemon).doPassive(game, player, enemy, targetPokemon);
-        else if (activePokemon instanceof Rowlet)
-            ((Rowlet) activePokemon).doPassive(game, player, enemy, targetPokemon);
     }
 
 

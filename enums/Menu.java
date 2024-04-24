@@ -15,11 +15,11 @@ public enum Menu {
 
     private final AppMenu menu;
 
-    Menu(AppMenu menu){
+    Menu(AppMenu menu) {
         this.menu = menu;
     }
 
-    public void checkCommand(Scanner scanner){
+    public void checkCommand(Scanner scanner) {
         this.menu.check(scanner);
     }
 }

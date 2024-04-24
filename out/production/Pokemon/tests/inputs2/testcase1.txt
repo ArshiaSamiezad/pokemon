@@ -1,0 +1,127 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+substitute active card with bench 2
+put card ducklett to 2
+show my info 1
+put card lugia to 1
+substitute active card with bench 0
+put card rowlet to 1
+put card yellow to 0
+end turn
+logout
+register username zXiRe password VSg'7qp&NNd#x&+ email S_@>.com
+register username rIoZu password 'S*bW)3e9Fh+ha)& email 1C8@xjbzpqbr.com
+register username ClCXt password uL4<GaUsGI@gbK<5bfqq email v9jCmdb@e.com
+login username ClCXt password bQ!m*hT@Ah->REa
+login username GrYDpBjitLgFVzhdNr password alPivYg!gAgA1DE
+login username ClCXt password i-.Ex7$%zosx
+login username ClCXt password uL4<GaUsGI@gbK<5bfqq
+go to profile menu
+unequip card ducklet from my deck
+unequip card pineco from my deck
+unequip card dragonite from my deck
+unequip card lugia from my deck
+unequip card pink from my deck
+unequip card pink from my deck
+show storage
+back
+go to shop menu
+sell card tepig
+sell card pink
+buy card dragonite
+buy card rowlet
+buy card yellow
+show current menu
+buy card pineco
+back
+go to shop menu
+show current menu
+buy card pink
+buy card tepig
+sell card tepig
+buy card tepig
+sell card rowlet
+back
+logout
+register username ogFsU password D!QrCBqnJL#M_qt#GF1i email Z@<ejP9&>1!.com
+register username qoTDarxUShHmWA password Gn_DZ2fF6Q#Km^@c6p_A email ->%X-_3'@jiht.com
+register username CtTbDjOIeQAehOTEJ password sJ0m75$Q0mi8 email WCxMEpt2K@lomkngzx.com
+login username CtTbDjOIeQAehOTEJ password +52e2FD-
+login username CtTbDjOIeQAehOTEJ password OB6j!HWU
+login username daAXWaRLsQKTRXVcPpO password S#uBc!@YkpIE
+login username CtTbDjOIeQAehOTEJ password sJ0m75$Q0mi8
+logout
+register username ydN password C7k74<g&G$TRAFF email eiMQk1@O7)'2dG.com
+register username GqDrWdAiZySZR password -N)*9uq47nF5OY+c mC email t56@int.com
+register username bsFfxIusaLysGQqodQ password Um6O(Q&0F9ryH email fpDpj@.com
+register username >oxbqYV7ODS password g_h7%OnGeABZK email I@uE%R%9lx#.com
+register username r password &GeP^+HAXCdb#<lEJUVXF() U email Z@gumnkwor.com
+register username gYkBjXrb password yuxNt+$&uEk@i email y6ooX.@rjscs.com
+login username sAll password gmGi#z>x
+login username gYkBjXrb password Tewf8Zd>!xyz>-(ka
+login username snIcV_UqEMIw password tK!a9iuI#u6wZY62
+login username gYkBjXrb password yuxNt+$&uEk@i
+logout
+exit

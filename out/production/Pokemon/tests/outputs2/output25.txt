@@ -1,0 +1,238 @@
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+user logged in successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+no pokemon in the selected place
+no pokemon in the selected place
+invalid bench number
+invalid place number
+round 1
+your active card:
+
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.ducklett
+5.pineco
+6.rowlet
+7.pink
+8.pink
+9.pink
+10.yellow
+11.yellow
+12.yellow
+
+your bench:
+1.
+2.
+3.
+
+reza's active card:
+
+
+reza's bench:
+1.
+2.
+3.
+no pokemon in the selected place
+round 1
+your active card:
+
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.ducklett
+5.pineco
+6.rowlet
+7.pink
+8.pink
+9.pink
+10.yellow
+11.yellow
+12.yellow
+
+your bench:
+1.
+2.
+3.
+
+reza's active card:
+
+
+reza's bench:
+1.
+2.
+3.
+no pokemon in the selected place
+no pokemon in the selected place
+card name is invalid
+no pokemon in the selected place
+no pokemon in the selected place
+no active pokemon
+round 1
+your active card:
+
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.ducklett
+5.pineco
+6.rowlet
+7.pink
+8.pink
+9.pink
+10.yellow
+11.yellow
+12.yellow
+
+your bench:
+1.
+2.
+3.
+
+reza's active card:
+
+
+reza's bench:
+1.
+2.
+3.
+no pokemon in the selected place
+card put successful
+card put successful
+invalid command
+pokemon: dragonite
+special condition:
+hitpoint: 120.00/120.00
+energy 1:
+energy 2:
+round 1
+your active card:
+
+
+your hand:
+1.tepig
+2.ducklett
+3.pineco
+4.rowlet
+5.pink
+6.pink
+7.pink
+8.yellow
+9.yellow
+10.yellow
+
+your bench:
+1.lugia||
+2.
+3.dragonite||
+
+reza's active card:
+
+
+reza's bench:
+1.
+2.
+3.
+you don't have the selected card
+card put successful
+reza's turn
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1:
+energy 2:
+pokemon: dragonite
+special condition:
+hitpoint: 120.00/120.00
+energy 1:
+energy 2:
+round 1
+your active card:
+
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.ducklett
+5.pineco
+6.rowlet
+7.pink
+8.pink
+9.pink
+10.yellow
+11.yellow
+12.yellow
+
+your bench:
+1.
+2.
+3.
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.lugia||
+2.
+3.dragonite||
+invalid command
+no pokemon in the selected place
+invalid bench number
+Winner: ali_reza

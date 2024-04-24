@@ -1,0 +1,162 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+substitute active card with bench 2
+put card pinEco to 2
+show enemy info 3
+put card rowlet to 1
+show enemy info 12
+execute action -t 3
+put card pineco to 0
+show table
+substitute active card with bench 13
+show my info 3
+show table
+put card pineco to 2
+show my info 0
+put card dragonite to 10
+show my info 3
+put card pi_nk to -3
+execute action -t 0
+put card ducklett to 0
+put card rowlet to 3
+put card pink to 1
+put card lugia to -1
+substitute active card with bench 2
+substitute active card with bench 3
+put card rowlet to 23
+execute action -t 19
+end turn
+put card ducklett to 1
+substitute active card with bench 2
+substitute active card with bench 3
+execute action
+end turn
+start new game with reza
+start new game with reza
+start new game with reza
+go to profile menu
+show coins
+show my deck
+show current menu
+show ranking
+back
+go to profile menu
+equip card yellow to my deck
+equip card tepig to my deck
+equip card dragonite to my deck
+equip card pinEco to my deck
+equip card pineco to my deck
+equip card pineco to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+show storage
+show coins
+equip card pink to my deck
+equip card rowlet to my deck
+equip card p ink to my deck
+equip card pineco to my deck
+equip card pi_nk to my deck
+equip card draGonite to my deck
+equip card dragonite to my deck
+equip card dragonite to my deck
+equip card yellow to my deck
+equip card dragonite to my deck
+equip card dragonite to my deck
+equip card pineco to my deck
+equip card dragonite to my deck
+equip card ducklett to my deck
+equip card yellow to my deck
+show coins
+unequip card pink from my deck
+unequip card pink from my deck
+unequip card dragonite from my deck
+show experience
+show storage
+show experience
+show storage
+show storage
+equip card pineco to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card lOugia to my deck
+equip card p ink to my deck
+equip card ducklet to my deck
+equip card lugia to my deck
+show coins
+show storage
+show my deck
+show coins
+show coins
+unequip card tepig from my deck
+unequip card pink from my deck
+unequip card yellow from my deck
+back
+logout
+register username 94CM7dD#v password r9&im'i@YJZyq6w email @cresjag.com
+register username K password CYlYWD^.6_@$ email 85)m*OQ@cbyjiigeq.com
+register username jxBeN password Xlkv'@-aaUB email wYLPv7tzO@zuz.com
+login username jxBeN password Xlkv'@-aaUB
+logout
+exit

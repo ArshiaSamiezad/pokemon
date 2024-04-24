@@ -1,0 +1,197 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+substitute active card with bench 1
+substitute active card with bench 0
+show enemy info 3
+show table
+substitute active card with bench 7
+show table
+substitute active card with bench 0
+show enemy info 0
+end turn
+go to profile menu
+show storage
+equip card pink to my deck
+equip card lugia to my deck
+equip card rowlet to my deck
+equip card dragonite to my deck
+equip card dragonite to my deck
+equip card yellow to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card ducklett to my deck
+show ranking
+show coins
+show coins
+show current menu
+back
+go to shop menu
+buy card tepig
+buy card lugia
+buy card yellow
+buy card ducklett
+sell card tepig
+show current menu
+buy card lugia
+back
+go to shop menu
+sell card rowlet
+buy card draGonite
+buy card tepig
+back
+go to profile menu
+back
+go to profile menu
+show ranking
+show my deck
+show storage
+unequip card dragonite from my deck
+unequip card ducklett from my deck
+unequip card pink from my deck
+unequip card tepig from my deck
+show my rank
+show experience
+show experience
+back
+start new game with reza
+start new game with DmUfuMTwcivxLII
+start new game with aeGM_
+start new game with reza
+start new game with reza
+start new game with reza
+start new game with reza
+start new game with reza
+go to profile menu
+show coins
+show experience
+unequip card dragonite from my deck
+unequip card y+ellow from my deck
+unequip card lugia from my deck
+unequip card dragonite from my deck
+back
+go to profile menu
+show my deck
+show my deck
+show coins
+equip card dragonite to my deck
+equip card lugia to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card pi_nk to my deck
+equip card tepig to my deck
+equip card pineco to my deck
+equip card ducklett to my deck
+equip card dragonite to my deck
+unequip card pineco from my deck
+unequip card pin co from my deck
+unequip card tepig from my deck
+show experience
+show experience
+show coins
+show my deck
+show my deck
+back
+go to profile menu
+show experience
+unequip card ducklett from my deck
+unequip card pin co from my deck
+unequip card pink from my deck
+show storage
+equip card tepig to my deck
+equip card lugia to my deck
+equip card yellow to my deck
+equip card rowlet to my deck
+equip card dragonite to my deck
+equip card pink to my deck
+show ranking
+show my deck
+show ranking
+show experience
+show my deck
+show my rank
+show experience
+show ranking
+back
+go to profile menu
+show experience
+equip card tepig to my deck
+equip card lugia to my deck
+equip card rowlet to my deck
+equip card lug  a to my deck
+equip card tepi*g to my deck
+show experience
+show ranking
+equip card pink to my deck
+equip card pinEco to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card pink to my deck
+equip card dragonite to my deck
+equip card pink to my deck
+show coins
+show my rank
+back
+logout
+exit

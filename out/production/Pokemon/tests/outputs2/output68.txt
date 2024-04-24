@@ -1,0 +1,238 @@
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+user logged in successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+invalid bench number
+invalid bench number
+card put successful
+invalid action
+no pokemon in the selected place
+round 1
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+3.ducklett
+4.pineco
+5.rowlet
+6.pink
+7.pink
+8.pink
+9.yellow
+10.yellow
+11.yellow
+
+your bench:
+1.
+2.
+3.
+
+reza's active card:
+
+
+reza's bench:
+1.
+2.
+3.
+card put successful
+no pokemon in the selected place
+substitution successful
+no pokemon in the selected place
+substitution successful
+invalid place number
+no pokemon in the selected place
+no pokemon in the selected place
+reza's turn
+no pokemon in the selected place
+invalid bench number
+card name is invalid
+card put successful
+round 1
+your active card:
+
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.ducklett
+5.pineco
+6.pink
+7.pink
+8.pink
+9.yellow
+10.yellow
+11.yellow
+
+your bench:
+1.
+2.rowlet||
+3.
+
+ali_reza's active card:
+tepig||
+
+ali_reza's bench:
+1.dragonite||
+2.
+3.
+card put successful
+card put successful
+no active pokemon
+Winner: ali_reza
+card rowlet sold successfully
+card lugia sold successfully
+card name is invalid
+card name is invalid
+card pineco sold successfully
+number of coins:225
+profile menu
+invalid command
+invalid command
+experience:0
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.water ducklett 15
+2.energy pink 5
+3.energy pink 5
+4.energy pink 5
+5.energy yellow 5
+6.energy yellow 5
+7.energy yellow 5
+1.ducklett
+2.pink
+3.pink
+4.pink
+5.yellow
+6.yellow
+7.yellow
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card for sell
+you can't use special characters
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+user registered successfully
+username doesn't exist
+username doesn't exist
+password is incorrect
+user logged in successfully

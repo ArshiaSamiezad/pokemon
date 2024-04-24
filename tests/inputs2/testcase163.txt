@@ -1,0 +1,153 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+substitute active card with bench 2
+show my info 3
+show my info 13
+show table
+put card lugia to -4
+put card pineco to 3
+put card yellow to 18
+show table
+execute action -t 3
+substitute active card with bench 1
+put card du  klett to 1
+substitute active card with bench 3
+show my info 2
+put card pink to 1
+show enemy info 3
+substitute active card with bench 3
+execute action -t 0
+end turn
+put card pin co to 3
+show my info 0
+substitute active card with bench -1
+substitute active card with bench 0
+put card pink to 1
+show my info 1
+put card pineco to 21
+execute action
+end turn
+go to profile menu
+show experience
+show experience
+equip card lugia to my deck
+equip card lugia to my deck
+equip card rowlet to my deck
+equip card ducklett to my deck
+equip card yellow to my deck
+show ranking
+back
+logout
+register username ^6_o._!@L6pnZ&H. password $BWyXw email 5<r!4<v@eowd.com
+register username tqaUMDwhjlz password 4n_b) email WofKYyoo.@ij.com
+register username SRUf($hv password AK%M$xCnw email @fvxwtdqe.com
+register username zImyOmifmYAzLxo password FazFc&uN&u>7KjH&& email Ano2r@iyuvprkd.com
+login username zImyOmifmYAzLxo password h4_#yBugJ&Bi6'CLwd
+login username idtHZyzAQLDaNNiDqf password UAuz^Ef@#bghDbX
+login username zImyOmifmYAzLxo password FazFc&uN&u>7KjH&&
+go to profile menu
+show ranking
+show ranking
+show experience
+show my rank
+show my deck
+show coins
+show storage
+equip card lugia to my deck
+equip card pink to my deck
+equip card rowlet to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pinEco to my deck
+equip card tepig to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card dragonite to my deck
+equip card dragonite to my deck
+equip card lugia to my deck
+equip card tepig to my deck
+equip card dragonite to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card t pig to my deck
+equip card drag nite to my deck
+equip card yellow to my deck
+equip card tepig to my deck
+equip card pi_nk to my deck
+show my rank
+show experience
+unequip card drag nite from my deck
+show ranking
+back
+logout
+register username r'*mWx-t8d7N( password 0KmRXq> email #@kbpxw.com
+register username krP password rSs(4vCmRQ&rr-V*Mk0y email cUbBr2eX@.com
+register username M password Mcq->ci&U^9zht!N(b email 79j@azIFJVNuD.co
+register username OQ password et9@F@6Pk< email MQUkZweb@qrhpgd.com
+login username LxuShsHmJS password sSWU2D$HIee_c
+login username OQ password dTfrdyK@eaBGLUY
+login username OQ password et9@F@6Pk<
+logout
+exit

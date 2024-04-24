@@ -1,0 +1,281 @@
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+user logged in successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card put successful
+you don't have the selected card
+round 1
+your active card:
+
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.pineco
+5.rowlet
+6.pink
+7.pink
+8.pink
+9.yellow
+10.yellow
+11.yellow
+
+your bench:
+1.
+2.ducklett||
+3.
+
+reza's active card:
+
+
+reza's bench:
+1.
+2.
+3.
+round 1
+your active card:
+
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.pineco
+5.rowlet
+6.pink
+7.pink
+8.pink
+9.yellow
+10.yellow
+11.yellow
+
+your bench:
+1.
+2.ducklett||
+3.
+
+reza's active card:
+
+
+reza's bench:
+1.
+2.
+3.
+invalid bench number
+no pokemon in the selected place
+card name is invalid
+no pokemon in the selected place
+no pokemon in the selected place
+invalid bench number
+no active pokemon
+invalid place number
+no pokemon in the selected place
+invalid command
+Winner: reza
+password is incorrect
+password is incorrect
+password is incorrect
+user logged in successfully
+you can't use special characters
+user registered successfully
+username doesn't exist
+password is incorrect
+password is incorrect
+user logged in successfully
+password is incorrect
+username doesn't exist
+username doesn't exist
+user logged in successfully
+password length too small or short
+user registered successfully
+password is incorrect
+username doesn't exist
+username doesn't exist
+user logged in successfully
+username doesn't exist
+password is incorrect
+password is incorrect
+user logged in successfully
+profile menu
+your rank:3
+shop menu
+card yellow bought successfully
+1.energy yellow 5
+1.energy yellow 5
+number of coins:295
+you can't use special characters
+user registered successfully
+username doesn't exist
+username doesn't exist
+username doesn't exist
+user logged in successfully
+shop menu
+shop menu
+shop menu
+card ducklett bought successfully
+you don't have this type of card for sell
+username is incorrect
+dCRZyE has no 12 cards in deck
+username is incorrect
+your password must have at least one special character
+user registered successfully
+username doesn't exist
+username doesn't exist
+username doesn't exist
+user logged in successfully
+card lugia bought successfully
+card ducklett bought successfully
+username doesn't exist
+invalid command
+username doesn't exist
+user logged in successfully
+card pink bought successfully
+card rowlet bought successfully
+card rowlet bought successfully
+card name is invalid
+shop menu
+card yellow bought successfully
+shop menu
+card pineco bought successfully
+you don't have this type of card for sell
+shop menu
+card rowlet sold successfully
+card rowlet sold successfully
+card lugia sold successfully
+shop menu
+card name is invalid
+card name is invalid
+card rowlet bought successfully
+you don't have this type of card for sell
+you don't have this type of card for sell
+card name is invalid
+card name is invalid
+you don't have this type of card in your deck
+invalid command
+you don't have this type of card in your deck
+1.username:RlNWUNd_bTbrMa experience:0
+2.username:ali_reza experience:0
+3.username:dCRZyE experience:0
+4.username:gdDjUZtG experience:0
+5.username:maNNzvjSoT experience:0
+6.username:reza experience:0
+1.water ducklett 15
+2.energy pink 5
+3.energy yellow 5
+4.plant pineco 9
+5.plant rowlet 12
+1.water ducklett 15
+2.energy pink 5
+3.energy yellow 5
+4.plant pineco 9
+5.plant rowlet 12
+card pink equipped to your deck successfully
+card rowlet equipped to your deck successfully
+you don't have this type of card
+card name is invalid
+card yellow equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+1.pink
+2.rowlet
+3.yellow
+1.username:RlNWUNd_bTbrMa experience:0
+2.username:ali_reza experience:0
+3.username:dCRZyE experience:0
+4.username:gdDjUZtG experience:0
+5.username:maNNzvjSoT experience:0
+6.username:reza experience:0
+number of coins:246
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.pink
+2.rowlet
+3.yellow
+card ducklett equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card pineco equipped to your deck successfully
+you don't have this type of card
+1.water ducklett 15
+2.energy pink 5
+3.energy yellow 5
+4.plant pineco 9
+5.plant rowlet 12
+1.pink
+2.rowlet
+3.yellow
+4.ducklett
+5.pineco
+1.pink
+2.rowlet
+3.yellow
+4.ducklett
+5.pineco
+1.pink
+2.rowlet
+3.yellow
+4.ducklett
+5.pineco
+invalid command
+number of coins:246
+1.pink
+2.rowlet
+3.yellow
+4.ducklett
+5.pineco

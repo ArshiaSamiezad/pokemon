@@ -1,0 +1,135 @@
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+user logged in successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+no pokemon in the selected place
+invalid bench number
+no pokemon in the selected place
+invalid bench number
+no pokemon in the selected place
+invalid bench number
+card put successful
+no pokemon in the selected place
+no pokemon in the selected place
+card put successful
+invalid place number
+a pokemon already exists there
+invalid command
+substitution successful
+invalid bench number
+no pokemon in the selected place
+card put successful
+no pokemon in the selected place
+no pokemon in the selected place
+reza's turn
+card put successful
+no pokemon in the selected place
+invalid bench number
+invalid command
+Winner: ali_reza
+card ducklett unequipped from your deck successfully
+card name is invalid
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+your rank:1
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.fire tepig 13
+2.water ducklett 15
+3.plant pineco 9
+4.plant rowlet 12
+5.energy pink 5
+6.energy pink 5
+7.energy pink 5
+8.energy yellow 5
+9.energy yellow 5
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+invalid command
+card ducklett equipped to your deck successfully
+you don't have this type of card
+your rank:1
+card tepig unequipped from your deck successfully
+card pineco unequipped from your deck successfully
+card pink unequipped from your deck successfully
+1.rowlet
+2.pink
+3.pink
+4.yellow
+5.yellow
+6.ducklett
+card pink equipped to your deck successfully
+card pineco equipped to your deck successfully
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card pink unequipped from your deck successfully
+you don't have this type of card in your deck
+card rowlet unequipped from your deck successfully
+number of coins:200

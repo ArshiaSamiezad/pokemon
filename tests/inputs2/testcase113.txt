@@ -1,0 +1,92 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+substitute active card with bench 2
+substitute active card with bench 2
+show table
+substitute active card with bench 3
+end turn
+logout
+register username SWFjNuRgIjEzflz password DW6JxEWk6@QmUL#mkq email @G&VJ.com
+register username KaMwBwameP password R7g'P4E)@I8k-D@v6 email @lxrro.com
+login username reza password AoZIM*7i8LS Mff8
+register username mHDevPe_tmAvA password JEjY#4VVo!n0zq*^$2 email e3pRcvds@Op2<n.com
+register username dOgChw password c'j^v+ email .@qgxoqj.com
+login username fqUZXNTJqokr password t78x@FNh
+login username kr%D&'E-4b password xJZCd-bqlV
+login username cBkwF password ph0bty7&1<#Q'n
+login username dOgChw password c'j^v+
+go to shop menu
+buy card rowlet
+buy card lugia
+sell card pineco
+sell card tepig
+buy card dragonite
+buy card pink
+sell card ducklett
+show current menu
+sell card pink
+back
+logout
+exit

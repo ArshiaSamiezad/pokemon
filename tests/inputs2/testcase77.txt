@@ -1,0 +1,104 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+substitute active card with bench 1
+substitute active card with bench 0
+substitute active card with bench 18
+substitute active card with bench 2
+put card rowlet to 0
+put card pineco to 13
+execute action
+show enemy info 10
+show enemy info 0
+show my info 3
+substitute active card with bench 1
+substitute active card with bench 2
+show enemy info -1
+substitute active card with bench 2
+end turn
+substitute active card with bench 2
+substitute active card with bench 21
+substitute active card with bench 1
+end turn
+go to profile menu
+show ranking
+show my deck
+equip card rowlet to my deck
+equip card tepi*g to my deck
+equip card pineco to my deck
+equip card yellow to my deck
+equip card rowlet to my deck
+equip card dragonite to my deck
+equip card rowlet to my deck
+equip card dragonite to my deck
+equip card dragonite to my deck
+back
+go to shop menu
+show current menu
+sell card pink
+sell card dragonite
+buy card ducklett
+back
+logout
+exit

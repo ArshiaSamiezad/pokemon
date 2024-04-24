@@ -56,13 +56,13 @@ public class ShopMenuController {
         card = null;
 
         card = user.getStorageCardByName(cardName);
-        if(card == null){
+        if (card == null) {
             return "you don't have this type of card for sell";
         }
 
-        user.removeFromStorage(card);
         user.removeFromUnequipped(card);
         user.removeFromDeck(card);
+        user.removeFromStorage(card);
         user.setCoins(balance + card.getSellValue());
         return "card " + cardName + " sold successfully";
     }

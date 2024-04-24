@@ -1,0 +1,158 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+substitute active card with bench 1
+show table
+put card rowlet to 3
+substitute active card with bench 1
+show my info 0
+substitute active card with bench 2
+show enemy info 2
+execute action -t 3
+put card rowlet to 0
+substitute active card with bench 3
+put card yellow to 0
+put card pink to 0
+put card dragonite to 0
+put card p ink to 3
+put card tepig to 14
+show enemy info 2
+execute action -t 2
+substitute active card with bench 3
+substitute active card with bench 18
+put card rowlet to 2
+substitute active card with bench 3
+end turn
+show my info 2
+substitute active card with bench 19
+show table
+put card lugia to 1
+substitute active card with bench 0
+substitute active card with bench 0
+show my info 1
+show table
+show enemy info 1
+show my info 3
+put card pineco to 3
+substitute active card with bench 24
+show my info 14
+substitute active card with bench 0
+show table
+end turn
+go to shop menu
+back
+go to profile menu
+back
+go to profile menu
+back
+logout
+register username lUUkhkeKOMzat password cwZL5oGBR^V>Xv8Z(m email @O0&e6_bM.com
+register username ujdjNcAtnMl password a3(!A@q3@rn email H(!@gwe.com
+register username G_caLp password b&%!gD email Am2G8G5V1@8$J.com
+register username R6m0e3D#. password cTp4i!<uXv_ email N8uPG28Jh@xkxectyy.com
+register username awcTiFOj password S@QMyE)T!^0w(V7X#k( email tl.04@li.com
+login username ASlg password Q8
+login username awcTiFOj password W0w$*Iq
+login username vtJEKdNtQCyoj password YmF4q_YW
+login username gTbJpSnvlgs password ^1pgR!25wz#tAiML4
+login username awcTiFOj password S@QMyE)T!^0w(V7X#k(
+logout
+login username VnJXSLgYKhNRDqyWe password E83O9a*>@mO69jIH@
+login username iIZadzQnk_JLtCmJ password fgJ_Lyj!CD4)oc
+login username uhE password gvY&Py%
+login username ali_reza password fOe3oMfT$em_q+*IC
+login username awcTiFOj password S@QMyE)T!^0w(V7X#k(
+go to profile menu
+show my deck
+show current menu
+show storage
+equip card lugia to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card y+ellow to my deck
+equip card lug  a to my deck
+equip card dragonite to my deck
+unequip card tepi*g from my deck
+unequip card pineco from my deck
+unequip card rowlet from my deck
+unequip card pi_nk from my deck
+show my deck
+show ranking
+show coins
+show ranking
+show storage
+show ranking
+show current menu
+show experience
+show coins
+show coins
+back
+logout
+login username qGibeCCjHJO password Xhk#U(z
+login username awcTiFOj password G8Z#s1>59.!%sWAZqlq@
+login username awcTiFOj password GJ<!2bd
+login username lHeBBSMXDKR_hQr_wn password AKlATlL!4SvqZH
+login username awcTiFOj password S@QMyE)T!^0w(V7X#k(
+logout
+exit

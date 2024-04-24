@@ -1,0 +1,949 @@
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+user logged in successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+no pokemon in the selected place
+no pokemon in the selected place
+no pokemon in the selected place
+invalid bench number
+no pokemon in the selected place
+invalid place number
+invalid bench number
+card put successful
+no pokemon in the selected place
+no pokemon in the selected place
+no active pokemon
+card name is invalid
+card put successful
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+invalid place number
+no pokemon in the selected place
+reza's turn
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid place number
+no pokemon in the selected place
+no pokemon in the selected place
+card put successful
+invalid place number
+you don't have the selected card
+no pokemon in the selected place
+round 1
+your active card:
+
+
+your hand:
+1.tepig
+2.lugia
+3.ducklett
+4.pineco
+5.rowlet
+6.pink
+7.pink
+8.pink
+9.yellow
+10.yellow
+11.yellow
+
+your bench:
+1.dragonite||
+2.
+3.
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.
+2.
+3.ducklett||
+invalid place number
+invalid bench number
+no active pokemon
+Winner: ali_reza
+you don't have this type of card for sell
+card yellow sold successfully
+card yellow bought successfully
+card pink sold successfully
+shop menu
+username doesn't exist
+password is incorrect
+user logged in successfully
+card rowlet bought successfully
+card tepig bought successfully
+invalid command
+card lugia sold successfully
+main menu
+reza has no 12 cards in deck
+reza has no 12 cards in deck
+reza has no 12 cards in deck
+email format is invalid
+username format is invalid
+password length too small or short
+you can't use special characters
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+invalid command
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+invalid command
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+invalid command
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+invalid command
+invalid command
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+username doesn't exist
+user logged in successfully
+main menu
+email format is invalid
+password length too small or short
+invalid command
+username format is invalid
+you can't use special characters
+username doesn't exist
+username doesn't exist
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+username doesn't exist
+username doesn't exist
+username doesn't exist
+login menu
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+login menu
+invalid command
+invalid command
+email format is invalid
+invalid command
+password length too small or short
+user registered successfully
+username doesn't exist
+password is incorrect
+user logged in successfully
+number of coins:300
+1.username:KuL_vGkMTRKZc experience:0
+2.username:ali_reza experience:0
+3.username:reza experience:0
+1.username:KuL_vGkMTRKZc experience:0
+2.username:ali_reza experience:0
+3.username:reza experience:0
+1.username:KuL_vGkMTRKZc experience:0
+2.username:ali_reza experience:0
+3.username:reza experience:0
+number of coins:300
+1.username:KuL_vGkMTRKZc experience:0
+2.username:ali_reza experience:0
+3.username:reza experience:0
+your rank:1
+experience:0
+your rank:1
+experience:0
+your rank:1
+1.username:KuL_vGkMTRKZc experience:0
+2.username:ali_reza experience:0
+3.username:reza experience:0
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+card name is invalid
+experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+profile menu
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+you don't have this type of card in your deck
+your rank:1
+number of coins:300
+your rank:1
+card name is invalid
+invalid command
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card name is invalid
+your rank:1
+profile menu
+1.username:KuL_vGkMTRKZc experience:0
+2.username:ali_reza experience:0
+3.username:reza experience:0
+card dragonite bought successfully
+you don't have this type of card for sell
+card tepig bought successfully
+password is incorrect
+password is incorrect
+user logged in successfully
+you don't have this type of card for sell

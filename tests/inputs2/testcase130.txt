@@ -1,0 +1,93 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+show table
+substitute active card with bench 3
+put card lugia to 1
+substitute active card with bench 3
+substitute active card with bench 0
+substitute active card with bench 0
+substitute active card with bench 2
+execute action
+put card dragonite to 0
+put card dragonite to 23
+put card lugia to 3
+show table
+put card lOugia to 2
+end turn
+substitute active card with bench 0
+substitute active card with bench 4
+show my info 2
+show enemy info 2
+show table
+substitute active card with bench 1
+show my info 2
+end turn
+logout
+register username wDLpy_GSQLTnKVhmk password Q'(K-M#L^%Gd> email N>t @#gfOPRKWP.com
+login username reza password FEI)Pv_&ya94PB
+login username CfbnivOl password Xjr!Hy)
+login username reza password Abc^123
+logout
+exit

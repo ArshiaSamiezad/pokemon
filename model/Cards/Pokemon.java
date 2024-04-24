@@ -111,7 +111,8 @@ public class Pokemon extends Card {
             return energy.getPlantEffect();
         }
     }
-    private double getTargetWeakness(Pokemon pokemon){
+
+    private double getTargetWeakness(Pokemon pokemon) {
         if (this.getType().equals("fire")) {
             return pokemon.getFireEffect();
         } else if (this.getType().equals("water")) {
@@ -121,7 +122,7 @@ public class Pokemon extends Card {
         }
     }
 
-    private double getTargetResistance(Pokemon pokemon){
+    private double getTargetResistance(Pokemon pokemon) {
         return pokemon.getResistance();
     }
 
@@ -129,32 +130,13 @@ public class Pokemon extends Card {
         double energy1 = 1;
         double energy2 = 1;
         Energy energy;
-        if((energy = getEnergy1())!=null){
+        if ((energy = getEnergy1()) != null) {
             energy1 = getEnergyValue(energy);
         }
-        if((energy = getEnergy2())!=null){
+        if ((energy = getEnergy2()) != null) {
             energy2 = getEnergyValue(energy);
         }
-        return power*energy1*energy2*getTargetResistance(pokemon)*getTargetWeakness(pokemon);
+        return power * energy1 * energy2 * getTargetResistance(pokemon) * getTargetWeakness(pokemon);
     }
 
-    public void doPassive(Game game, Player player, Player enemy){
-
-    }
-
-    public void doPassive(Game game, Player player, Player enemy, Pokemon targetPokemon){
-
-    }
-
-    public void doAction(Game game, Player player, Player enemy){
-
-    }
-
-    public void doAction(Game game, Player player, Player enemy, Pokemon targetPokemon){
-
-    }
-
-    public void killEnemy(Player enemy, int placeNumber){
-
-    }
 }

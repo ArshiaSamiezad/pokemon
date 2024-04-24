@@ -1,0 +1,741 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+show my info 1
+substitute active card with bench 0
+substitute active card with bench 1
+substitute active card with bench 0
+show my info 1
+put card lOugia to 2
+substitute active card with bench 0
+substitute active card with bench 0
+substitute active card with bench 3
+show table
+execute action
+put card lugia to 0
+put card lugia to 2
+substitute active card with bench 3
+substitute active card with bench 3
+put card pineco to 3
+execute action -t 1
+put card tepi*g to 22
+put card tepig to -5
+substitute active card with bench 1
+execute action
+end turn
+show table
+show my info 1
+substitute active card with bench 1
+put card rowlet to 0
+show my info 0
+substitute active card with bench 1
+substitute active card with bench 2
+put card pink to 3
+execute action
+end turn
+show enemy info 1
+show enemy info 4
+substitute active card with bench -2
+substitute active card with bench 0
+substitute active card with bench 0
+substitute active card with bench 2
+substitute active card with bench 1
+show table
+substitute active card with bench 23
+show table
+show table
+end turn
+substitute active card with bench 0
+put card pink to 0
+put card ducklett to 3
+show table
+show table
+put card dragonite to 2
+put card pink to 2
+show enemy info 1
+put card lugia to -3
+end turn
+substitute active card with bench 0
+substitute active card with bench 0
+put card yellow to 2
+put card dragonite to 1
+end turn
+substitute active card with bench 3
+show my info 24
+show enemy info 21
+substitute active card with bench 8
+show my info 0
+put card lugia to 0
+put card yellow to -4
+show my info 1
+show table
+put card pink to 0
+show enemy info 1
+show enemy info 3
+show enemy info 3
+show enemy info 3
+show my info 2
+put card yellow to 3
+execute action
+end turn
+substitute active card with bench 0
+substitute active card with bench 1
+substitute active card with bench 1
+put card tepig to 0
+put card ducklett to 3
+substitute active card with bench 3
+end turn
+show table
+show table
+put card lugia to 0
+show table
+put card yellow to 0
+put card yellow to 3
+show my info 1
+put card yellow to 1
+show enemy info 0
+show table
+show my info 3
+show my info -1
+substitute active card with bench 2
+end turn
+substitute active card with bench -4
+substitute active card with bench 3
+put card dragonite to 0
+put card dragonite to 11
+put card rowlet to 2
+put card pink to 2
+substitute active card with bench 1
+show table
+execute action
+substitute active card with bench 21
+substitute active card with bench 1
+substitute active card with bench 0
+show enemy info 1
+show table
+put card pinEco to 0
+substitute active card with bench 0
+show table
+substitute active card with bench 1
+show enemy info 3
+show my info 2
+show enemy info 1
+end turn
+substitute active card with bench -3
+show table
+substitute active card with bench 0
+show my info 0
+show table
+show my info 1
+substitute active card with bench 0
+put card pi_nk to 3
+show table
+show table
+put card dragonite to 3
+show my info 2
+substitute active card with bench 2
+show table
+substitute active card with bench 1
+execute action -t 2
+end turn
+put card lugia to 0
+substitute active card with bench 19
+show my info 2
+put card dragonite to 0
+put card ducklett to -3
+show my info 0
+put card pineco to 0
+end turn
+put card yellow to 3
+show table
+substitute active card with bench 15
+substitute active card with bench 2
+end turn
+put card dragonite to 1
+substitute active card with bench 2
+put card ducklett to 0
+put card pineco to -2
+put card yellow to 3
+put card ducklett to 0
+show table
+execute action
+end turn
+show my info 1
+put card lOugia to 2
+put card ducklett to 1
+put card lugia to 2
+put card ducklet to 0
+show table
+end turn
+show table
+put card lugia to 2
+show enemy info 2
+put card tepig to 0
+substitute active card with bench 3
+put card tepig to 21
+show enemy info 13
+show enemy info 3
+substitute active card with bench 2
+show enemy info 24
+show my info 0
+show table
+show enemy info 0
+execute action
+substitute active card with bench -2
+put card dragonite to 1
+substitute active card with bench 23
+substitute active card with bench 3
+end turn
+substitute active card with bench 3
+put card pink to 2
+substitute active card with bench 0
+put card dragonite to 1
+show my info 2
+substitute active card with bench 2
+execute action
+end turn
+put card tepig to 3
+show table
+put card rowlet to 9
+show enemy info 7
+put card lug  a to 0
+put card pineco to 2
+execute action -t 0
+end turn
+show table
+substitute active card with bench 3
+substitute active card with bench 1
+substitute active card with bench 3
+show table
+substitute active card with bench 15
+show enemy info 17
+substitute active card with bench 3
+show table
+put card pink to 2
+substitute active card with bench 3
+show enemy info 3
+execute action
+end turn
+substitute active card with bench 2
+show table
+put card rowlet to 3
+put card tepig to -4
+put card yellow to 2
+put card dragonite to 0
+substitute active card with bench 1
+put card lugia to 0
+execute action -t 1
+put card pink to 1
+substitute active card with bench -3
+show table
+show enemy info 2
+show my info 2
+substitute active card with bench 0
+show table
+show my info 0
+show table
+show table
+substitute active card with bench 0
+substitute active card with bench 1
+put card lugia to 3
+execute action
+end turn
+put card yellow to 0
+put card pineco to 3
+substitute active card with bench 2
+substitute active card with bench 2
+execute action -t 0
+end turn
+put card tepig to 1
+put card lugia to 1
+put card dragonite to 2
+put card draGonite to 1
+end turn
+put card rowlet to 0
+show my info 1
+put card yellow to 2
+put card pink to 0
+put card pineco to 0
+show my info 1
+show enemy info 3
+put card lOugia to 3
+end turn
+put card ducklett to 1
+show table
+put card ducklett to 1
+substitute active card with bench 1
+show my info 2
+end turn
+show enemy info 0
+put card tepig to 13
+substitute active card with bench 1
+put card tepig to 2
+show table
+put card dragonite to 3
+show my info 2
+show my info 0
+end turn
+show enemy info 1
+substitute active card with bench 1
+put card ducklett to 0
+show my info 2
+put card pinEco to 20
+execute action
+end turn
+show table
+put card tepig to 1
+put card yellow to -1
+put card rowlet to 3
+show enemy info 2
+show table
+substitute active card with bench 1
+show enemy info 3
+put card pi_nk to 3
+show enemy info 0
+show my info 3
+end turn
+substitute active card with bench 23
+show enemy info 22
+put card rowlet to -3
+substitute active card with bench 3
+put card yellow to 1
+show table
+substitute active card with bench 0
+execute action -t 3
+end turn
+show table
+show enemy info 5
+substitute active card with bench 2
+put card lugia to 12
+show my info 22
+show my info 2
+show enemy info 1
+substitute active card with bench 2
+show enemy info 1
+show table
+end turn
+show enemy info 3
+substitute active card with bench 2
+put card rowlet to 1
+show enemy info 3
+show my info 3
+show table
+substitute active card with bench 2
+put card pink to 4
+substitute active card with bench 0
+put card y+ellow to 0
+substitute active card with bench 0
+end turn
+show enemy info 0
+substitute active card with bench 1
+put card lugia to -5
+show table
+put card yellow to 2
+substitute active card with bench 3
+put card dragonite to 0
+end turn
+show table
+put card yellow to 3
+substitute active card with bench 3
+substitute active card with bench 1
+substitute active card with bench 3
+execute action
+substitute active card with bench 3
+substitute active card with bench 8
+substitute active card with bench 1
+show my info 6
+end turn
+substitute active card with bench 3
+put card lugia to 8
+substitute active card with bench 2
+substitute active card with bench 0
+substitute active card with bench 3
+end turn
+substitute active card with bench 0
+put card du  klett to 2
+show table
+show table
+show table
+substitute active card with bench 3
+put card lugia to 3
+show table
+put card y+ellow to 0
+end turn
+substitute active card with bench 24
+substitute active card with bench -2
+show table
+put card dragonite to 2
+substitute active card with bench 1
+show table
+substitute active card with bench 7
+substitute active card with bench 1
+execute action -t 1
+end turn
+show enemy info 3
+substitute active card with bench 1
+substitute active card with bench 0
+put card rowlet to -1
+substitute active card with bench 3
+substitute active card with bench 2
+put card lOugia to 2
+show table
+execute action -t 19
+end turn
+substitute active card with bench 1
+show table
+show enemy info 0
+show enemy info 24
+substitute active card with bench 3
+show enemy info 3
+put card yellow to -3
+put card pineco to 1
+substitute active card with bench 2
+show enemy info 3
+put card tepig to 3
+end turn
+show table
+show enemy info -4
+show enemy info 20
+show enemy info 1
+substitute active card with bench 3
+substitute active card with bench 0
+put card pineco to 0
+execute action
+substitute active card with bench 4
+substitute active card with bench 1
+substitute active card with bench 1
+execute action -t 22
+end turn
+put card lugia to 3
+show table
+show my info -2
+show my info 2
+show my info 1
+put card pink to 2
+show my info 3
+substitute active card with bench 3
+show my info 1
+show my info 2
+substitute active card with bench 2
+put card tepig to 0
+end turn
+put card pink to 3
+substitute active card with bench 1
+substitute active card with bench 3
+show table
+show enemy info 2
+end turn
+substitute active card with bench 11
+substitute active card with bench 24
+put card dragonite to 2
+put card tepi*g to -2
+substitute active card with bench 3
+substitute active card with bench 3
+end turn
+show enemy info 0
+show enemy info 2
+put card pink to 3
+put card lugia to 1
+put card tepig to 2
+show my info 8
+show my info 1
+substitute active card with bench 3
+substitute active card with bench 1
+show enemy info -3
+substitute active card with bench 2
+show my info 2
+execute action
+end turn
+show table
+show table
+show enemy info 1
+show my info 2
+substitute active card with bench 2
+put card draGonite to 3
+show my info 1
+show table
+put card tepig to 2
+end turn
+put card ducklett to 1
+put card pineco to 2
+substitute active card with bench 0
+substitute active card with bench 1
+put card pink to 1
+execute action -t 0
+end turn
+put card row@let to 3
+show table
+substitute active card with bench 3
+put card ducklett to 15
+put card pinEco to 2
+substitute active card with bench 3
+substitute active card with bench 1
+substitute active card with bench 1
+end turn
+show my info 2
+put card p ink to 1
+put card lugia to 0
+substitute active card with bench 2
+substitute active card with bench 3
+show my info 2
+put card y+ellow to 1
+end turn
+substitute active card with bench 0
+put card ducklett to 1
+put card tepig to 2
+execute action -t 1
+end turn
+put card rowlet to 2
+substitute active card with bench 6
+put card tepig to 0
+execute action
+end turn
+put card pink to 0
+show my info 2
+show my info 2
+substitute active card with bench 1
+put card yellow to 3
+put card yellow to 2
+substitute active card with bench -2
+put card pink to 16
+put card pin co to 3
+end turn
+put card pineco to 2
+put card yellow to 0
+substitute active card with bench 0
+show my info 1
+show table
+show enemy info 0
+substitute active card with bench 16
+execute action -t 1
+put card dragonite to 2
+show my info 0
+put card dragonite to 0
+show table
+substitute active card with bench 2
+put card yel  low to 3
+substitute active card with bench 1
+substitute active card with bench 0
+show enemy info 2
+end turn
+put card pink to 2
+substitute active card with bench 1
+show my info 3
+substitute active card with bench 0
+put card dragonite to 2
+execute action -t 3
+put card ducklett to 2
+substitute active card with bench 2
+put card lugia to 1
+put card tepig to 0
+put card rowlet to -2
+show enemy info 2
+show enemy info 3
+substitute active card with bench 2
+show enemy info 6
+substitute active card with bench 3
+end turn
+put card pineco to 0
+put card ducklett to 0
+substitute active card with bench 5
+substitute active card with bench 2
+substitute active card with bench 3
+execute action
+show table
+substitute active card with bench 21
+substitute active card with bench 0
+put card yellow to 3
+execute action
+put card pink to 22
+put card lugia to 4
+put card lugia to 2
+execute action -t -5
+end turn
+substitute active card with bench 0
+show my info 3
+put card yellow to 0
+show table
+show table
+put card tepig to 3
+substitute active card with bench 0
+substitute active card with bench 0
+substitute active card with bench 24
+show table
+put card yellow to 2
+execute action -t 1
+end turn
+put card drag nite to 0
+show my info 3
+substitute active card with bench 3
+put card pinEco to 1
+substitute active card with bench 3
+show my info 2
+substitute active card with bench 1
+show table
+substitute active card with bench 0
+substitute active card with bench 1
+show enemy info 3
+end turn
+substitute active card with bench 3
+substitute active card with bench 13
+put card lugia to 2
+substitute active card with bench 0
+show my info 0
+substitute active card with bench 0
+put card ducklett to 1
+show enemy info 7
+show my info 1
+execute action
+substitute active card with bench 0
+substitute active card with bench 2
+substitute active card with bench 2
+end turn
+put card pineco to 3
+substitute active card with bench 3
+show my info 3
+put card pink to -4
+put card rowlet to 3
+show table
+put card rowlet to 0
+substitute active card with bench 1
+substitute active card with bench 2
+execute action -t 0
+end turn
+put card ducklett to 5
+put card tepig to 0
+show table
+put card rowlet to -5
+put card yellow to 0
+show table
+show my info -1
+show enemy info 2
+execute action -t 1
+end turn
+put card rowlet to 0
+put card lugia to 6
+put card tepig to 2
+show enemy info 0
+put card yellow to 3
+execute action
+substitute active card with bench 0
+put card lugia to 1
+put card yellow to 0
+put card rowlet to 2
+put card ducklett to 3
+substitute active card with bench 3
+substitute active card with bench 3
+end turn
+put card tepig to 1
+show enemy info 22
+substitute active card with bench 1
+put card pink to 0
+execute action
+substitute active card with bench 2
+put card dragonite to 2
+show enemy info 1
+show table
+put card lugia to 3
+show my info 2
+substitute active card with bench 2
+show enemy info 11
+put card tepi*g to 2
+substitute active card with bench 3
+show enemy info 3
+show my info 0
+put card lugia to 1
+show table
+end turn
+substitute active card with bench 3
+put card tepig to 3
+show enemy info 3
+put card lugia to 12
+substitute active card with bench 3
+put card pineco to 2
+put card rowlet to 0
+end turn
+show enemy info 2
+put card dragonite to 3
+substitute active card with bench 0
+substitute active card with bench 3
+substitute active card with bench 0
+substitute active card with bench 3
+show my info 2
+show table
+execute action
+substitute active card with bench 0
+put card dragonite to 8
+put card ducklett to 2
+put card y+ellow to 0
+substitute active card with bench 1
+put card tepi*g to 3
+show my info 3
+execute action
+put card ducklett to 6
+show my info 0
+substitute active card with bench 14
+put card pink to 2
+put card dragonite to 2
+end turn
+logout
+exit

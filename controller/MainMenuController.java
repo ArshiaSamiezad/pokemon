@@ -25,16 +25,19 @@ public class MainMenuController {
         }
 
         App.setCurrentMenu(Menu.GameMenu);
-        startGame(new Player(App.getLoggedInUser()),new Player(user));
+        Player player1 = new Player(App.getLoggedInUser());
+        Player player2 = new Player(user);
+        startGame(player1, player2, App.getLoggedInUser(), user);
         return null;
     }
 
-    private void startGame(Player player1, Player player2) {
-        Game game = new Game(player1,player2);
+
+    private void startGame(Player player1, Player player2, User user1, User user2) {
+        Game game = new Game(player1, player2, user1, user2);
         App.setCurrentGame(game);
     }
 
-    public void logout(){
+    public void logout() {
         App.setCurrentMenu(Menu.LoginMenu);
     }
 }

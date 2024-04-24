@@ -1,0 +1,94 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+substitute active card with bench 22
+show table
+show enemy info 1
+show enemy info 1
+substitute active card with bench 1
+show my info 0
+substitute active card with bench 2
+show my info 1
+put card yellow to 0
+substitute active card with bench 2
+substitute active card with bench 2
+substitute active card with bench 2
+show enemy info 0
+end turn
+go to profile menu
+back
+logout
+register username Wtmx password ly$Uy98H$vqk+%QOY email >&^@s.com
+register username aZUZGpERsZYjSFfLIj password vXG$vQJo#Rs(%I@8R email .CG@xmjyf.com
+login username aZUZGpERsZYjSFfLIj password ZqU!M_k
+login username reza password 0WI )h@4*eU
+login username aZUZGpERsZYjSFfLIj password I.L0G2i$aIn.4Qx
+login username GJTt password D2'hP.l+&oCpZlsd
+login username aZUZGpERsZYjSFfLIj password vXG$vQJo#Rs(%I@8R
+go to shop menu
+show current menu
+buy card yel  low
+back
+logout
+exit

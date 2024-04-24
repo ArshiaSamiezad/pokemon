@@ -1,0 +1,206 @@
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+user logged in successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+no pokemon in the selected place
+no pokemon in the selected place
+no pokemon in the selected place
+Winner: reza
+1.username:ali_reza experience:0
+2.username:reza experience:0
+1.dragonite
+2.tepig
+3.lugia
+4.ducklett
+5.pineco
+6.rowlet
+7.pink
+8.pink
+9.pink
+10.yellow
+11.yellow
+12.yellow
+your rank:1
+1.dragonite
+2.tepig
+3.lugia
+4.ducklett
+5.pineco
+6.rowlet
+7.pink
+8.pink
+9.pink
+10.yellow
+11.yellow
+12.yellow
+1.dragonite
+2.tepig
+3.lugia
+4.ducklett
+5.pineco
+6.rowlet
+7.pink
+8.pink
+9.pink
+10.yellow
+11.yellow
+12.yellow
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+experience:0
+number of coins:200
+1.username:ali_reza experience:0
+2.username:reza experience:0
+card pineco unequipped from your deck successfully
+card lugia unequipped from your deck successfully
+card tepig unequipped from your deck successfully
+1.fire dragonite 10
+2.fire tepig 13
+3.water lugia 11
+4.water ducklett 15
+5.plant pineco 9
+6.plant rowlet 12
+7.energy pink 5
+8.energy pink 5
+9.energy pink 5
+10.energy yellow 5
+11.energy yellow 5
+12.energy yellow 5
+experience:0
+1.dragonite
+2.ducklett
+3.rowlet
+4.pink
+5.pink
+6.pink
+7.yellow
+8.yellow
+9.yellow
+you don't have this type of card
+card lugia equipped to your deck successfully
+card pineco equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card tepig equipped to your deck successfully
+card name is invalid
+invalid command
+you don't have this type of card
+card tepig unequipped from your deck successfully
+card rowlet unequipped from your deck successfully
+card ducklett unequipped from your deck successfully
+experience:0
+you don't have this type of card in your deck
+card lugia unequipped from your deck successfully
+card pineco unequipped from your deck successfully
+card yellow unequipped from your deck successfully
+you don't have this type of card
+card yellow equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+card pineco equipped to your deck successfully
+card ducklett equipped to your deck successfully
+you don't have this type of card
+card rowlet equipped to your deck successfully
+number of coins:200
+card lugia equipped to your deck successfully
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+1.fire dragonite 10
+2.fire tepig 13
+3.water lugia 11
+4.water ducklett 15
+5.plant pineco 9
+6.plant rowlet 12
+7.energy pink 5
+8.energy pink 5
+9.energy pink 5
+10.energy yellow 5
+11.energy yellow 5
+12.energy yellow 5
+your rank:1
+1.username:ali_reza experience:0
+2.username:reza experience:0
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+card tepig equipped to your deck successfully
+you don't have this type of card
+number of coins:200
+card dragonite unequipped from your deck successfully
+card pineco unequipped from your deck successfully
+card ducklett unequipped from your deck successfully
+number of coins:200
+1.username:ali_reza experience:0
+2.username:reza experience:0
+1.pink
+2.pink
+3.pink
+4.yellow
+5.yellow
+6.yellow
+7.rowlet
+8.lugia
+9.tepig
+password is incorrect
+user logged in successfully
+username doesn't exist
+user logged in successfully

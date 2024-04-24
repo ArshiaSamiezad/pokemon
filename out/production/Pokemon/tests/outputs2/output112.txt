@@ -1,0 +1,166 @@
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+user logged in successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+no pokemon in the selected place
+no pokemon in the selected place
+no pokemon in the selected place
+no pokemon in the selected place
+card put successful
+invalid bench number
+card put successful
+round 1
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.rowlet
+5.pink
+6.pink
+7.pink
+8.yellow
+9.yellow
+10.yellow
+
+your bench:
+1.
+2.
+3.pineco||
+
+reza's active card:
+
+
+reza's bench:
+1.
+2.
+3.
+no pokemon in the selected place
+reza's turn
+card put successful
+round 1
+your active card:
+
+
+your hand:
+1.tepig
+2.lugia
+3.ducklett
+4.pineco
+5.rowlet
+6.pink
+7.pink
+8.pink
+9.yellow
+10.yellow
+11.yellow
+
+your bench:
+1.
+2.dragonite||
+3.
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.
+2.
+3.pineco||
+round 1
+your active card:
+
+
+your hand:
+1.tepig
+2.lugia
+3.ducklett
+4.pineco
+5.rowlet
+6.pink
+7.pink
+8.pink
+9.yellow
+10.yellow
+11.yellow
+
+your bench:
+1.
+2.dragonite||
+3.
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.
+2.
+3.pineco||
+card put successful
+invalid place number
+Winner: ali_reza
+username doesn't exist
+user logged in successfully
+card name is invalid
+you don't have this type of card for sell
+card lugia bought successfully
+you don't have this type of card for sell
+card rowlet bought successfully
+card rowlet sold successfully
+card name is invalid
+card ducklett bought successfully
+shop menu
+card ducklett sold successfully
+username doesn't exist
+user logged in successfully

@@ -50,37 +50,47 @@ public class User {
         this.experience = experience;
     }
 
-    public static User getUserByUsername(String username){
-        for(User user : App.users){
-            if(user.getUsername().equals(username)){
+    public static User getUserByUsername(String username) {
+        for (User user : App.users) {
+            if (user.getUsername().equals(username)) {
                 return user;
             }
         }
         return null;
     }
 
-    public Card getStorageCardByName(String cardName){
-        for(int i=0;i<storageCards.size();i++){
-            if(storageCards.get(i).getName().equals(cardName)){
-                return storageCards.get(i);
+    public Card getStorageCardByName(String cardName) {
+        for (Card card : storageCards) {
+            if (card.getName().equals(cardName)) {
+                return card;
             }
         }
         return null;
     }
 
-    public Card getDeckCardByName(String cardName){
-        for(int i=0;i<deckCards.size();i++){
-            if(deckCards.get(i).getName().equals(cardName)){
-                return deckCards.get(i);
+    public Card getDeckCardByName(String cardName) {
+        for (Card storageCard : storageCards) {
+            if (storageCard.getName().equals(cardName)) {
+                for (Card deckCard : deckCards) {
+                    if (deckCard.getName().equals(cardName)) {
+                        return deckCard;
+                    }
+                }
+                return null;
             }
         }
         return null;
     }
 
-    public Card getUnequippedCardByName(String cardName){
-        for(int i=0;i<unequippedCards.size();i++){
-            if(unequippedCards.get(i).getName().equals(cardName)){
-                return unequippedCards.get(i);
+    public Card getUnequippedCardByName(String cardName) {
+        for (Card storageCard : storageCards) {
+            if (storageCard.getName().equals(cardName)) {
+                for (Card unequippedCard : unequippedCards) {
+                    if (unequippedCard.getName().equals(cardName)) {
+                        return unequippedCard;
+                    }
+                }
+                return null;
             }
         }
         return null;
@@ -110,36 +120,31 @@ public class User {
         this.storageCards = storageCards;
     }
 
-    public int getDeckCardsCount(){
+    public int getDeckCardsCount() {
         return deckCards.size();
     }
 
-    public int getStorageCardsCount(){
-        return storageCards.size();
-    }
-    public int getUnequippedCardsCount(){
-        return unequippedCards.size();
-    }
-
-    public void addToDeck(Card card){
+    public void addToDeck(Card card) {
         deckCards.add(card);
     }
 
-    public void addToStorage(Card card){
+    public void addToStorage(Card card) {
         storageCards.add(card);
     }
-    public void addToUnequipped(Card card){
+
+    public void addToUnequipped(Card card) {
         unequippedCards.add(card);
     }
 
-    public void removeFromDeck(Card card){
+    public void removeFromDeck(Card card) {
         deckCards.remove(card);
     }
 
-    public void removeFromStorage(Card card){
+    public void removeFromStorage(Card card) {
         storageCards.remove(card);
     }
-    public void removeFromUnequipped(Card card){
+
+    public void removeFromUnequipped(Card card) {
         unequippedCards.remove(card);
     }
 }

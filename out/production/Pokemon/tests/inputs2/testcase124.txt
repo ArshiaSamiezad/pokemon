@@ -1,0 +1,233 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+substitute active card with bench 1
+show my info 0
+substitute active card with bench 2
+show enemy info 2
+substitute active card with bench 3
+substitute active card with bench 2
+show table
+substitute active card with bench 4
+execute action
+put card pineco to 2
+put card t pig to 3
+put card ducklett to 4
+put card ducklet to 1
+show enemy info 3
+show enemy info 1
+execute action
+end turn
+go to shop menu
+buy card ducklett
+buy card tepig
+show current menu
+back
+go to shop menu
+back
+go to profile menu
+show my deck
+show ranking
+show storage
+back
+go to shop menu
+sell card rowlet
+buy card pineco
+back
+go to shop menu
+show current menu
+show current menu
+back
+go to profile menu
+equip card rowlet to my deck
+equip card rowlet to my deck
+equip card pineco to my deck
+equip card yellow to my deck
+equip card pineco to my deck
+equip card lugia to my deck
+equip card dragonite to my deck
+equip card ducklett to my deck
+show experience
+equip card lug  a to my deck
+show coins
+show my deck
+show experience
+show ranking
+unequip card ducklett from my deck
+unequip card pineco from my deck
+unequip card p ink from my deck
+unequip card lugia from my deck
+equip card pineco to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card dragonite to my deck
+show current menu
+show storage
+show storage
+equip card ducklett to my deck
+equip card tepig to my deck
+equip card pineco to my deck
+equip card pinEco to my deck
+equip card ducklett to my deck
+equip card ducklet to my deck
+equip card du  klett to my deck
+equip card rowlet to my deck
+equip card ducklett to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card pin co to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card rowlet to my deck
+equip card tepig to my deck
+equip card dragonite to my deck
+equip card yellow to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card ducklett to my deck
+show experience
+show experience
+show coins
+show current menu
+equip card ducklett to my deck
+equip card ducklett to my deck
+equip card rowlet to my deck
+equip card yellow to my deck
+equip card pineco to my deck
+equip card lugia to my deck
+equip card tepig to my deck
+equip card pink to my deck
+equip card lugia to my deck
+equip card rowlet to my deck
+equip card yellow to my deck
+equip card tepi*g to my deck
+equip card tepig to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card dragonite to my deck
+equip card rowlet to my deck
+equip card yellow to my deck
+equip card rowlet to my deck
+equip card dragonite to my deck
+equip card t pig to my deck
+equip card rowlet to my deck
+equip card rowlet to my deck
+show experience
+back
+go to profile menu
+show my deck
+back
+go to shop menu
+buy card rowlet
+back
+go to profile menu
+show my deck
+show my rank
+show ranking
+back
+go to profile menu
+equip card lugia to my deck
+equip card drag nite to my deck
+equip card pin co to my deck
+equip card ducklett to my deck
+equip card ducklett to my deck
+equip card dragonite to my deck
+equip card ducklett to my deck
+show my rank
+unequip card pineco from my deck
+unequip card draGonite from my deck
+unequip card yellow from my deck
+unequip card p ink from my deck
+equip card rowlet to my deck
+equip card dragonite to my deck
+equip card pin co to my deck
+equip card ducklett to my deck
+equip card lugia to my deck
+back
+go to profile menu
+show my deck
+show ranking
+show my rank
+equip card dragonite to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card rowlet to my deck
+equip card pineco to my deck
+equip card tepi*g to my deck
+equip card pink to my deck
+equip card ducklett to my deck
+show my deck
+show storage
+show experience
+show experience
+back
+logout
+register username sflwmeIDeXG_FCF password oVN#!BGqt email n!-@.com
+register username WWwX password Fj5j$E*uz email bXs.HhHlS@weevcgiy.com
+login username reza password N7Y_-m_H#DZzHDMNJ
+login username x7VxK-@'.#OSj#p password 1J
+login username TX_XB_RRxyUbdpmQM password TQ@NuJ$U^c'icL')B
+login username WWwX password Fj5j$E*uz
+logout
+exit

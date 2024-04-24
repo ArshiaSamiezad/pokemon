@@ -1,0 +1,88 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+put card rowlet to 1
+put card tepig to 1
+substitute active card with bench 0
+show enemy info 3
+show enemy info 1
+show enemy info 1
+end turn
+logout
+register username QeUpCSFug password RJ!$rik email qrt&3@xxud.com
+register username o password JAc^v#e email   <*>Xk@Tc%sc.com
+register username ali_reza password noQHbr7su6v)F'H+*F5P email !<s+-%Cn@fgvjq.com
+register username Ds password R5!uV'_!iim&Dj email @zh.com
+login username Ds password ZW7LqB^VT3!B-
+login username Ds password R5!uV'_!iim&Dj
+go to profile menu
+show my rank
+equip card t pig to my deck
+show coins
+unequip card yellow from my deck
+unequip card lugia from my deck
+unequip card pi_nk from my deck
+back
+logout
+exit

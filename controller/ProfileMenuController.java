@@ -23,7 +23,7 @@ public class ProfileMenuController {
         ArrayList<Card> storageCards = user.getStorageCards();
         for (int i = 0; i < storageCards.size(); i++) {
             Card card = storageCards.get(i);
-            System.out.println((i + 1) + "." + card.getType() + " " + card.getName() + " " + card.getBuyValue()); //+" "+card
+            System.out.println((i + 1) + "." + card.getType() + " " + card.getName() + " " + card.getBuyValue());
         }
     }
 
@@ -70,7 +70,7 @@ public class ProfileMenuController {
         User user = App.getLoggedInUser();
         ArrayList<Card> deckCards = user.getDeckCards();
         for (int i = 0; i < deckCards.size(); i++) {
-            System.out.println((i + 1) +"."+ deckCards.get(i).getName()); //+" "+deckCards.get(i)
+            System.out.println((i + 1) + "." + deckCards.get(i).getName()); //+" "+deckCards.get(i)
         }
     }
 
@@ -81,7 +81,7 @@ public class ProfileMenuController {
         getRanking(users, ranks);
         for (int i = 0; i < users.size(); i++) {
             if (users.get(i).equals(user)) {
-                return i+1;
+                return i + 1;
             }
         }
         throw new ArithmeticException("User not in list");
@@ -92,7 +92,7 @@ public class ProfileMenuController {
         ArrayList<Integer> ranks = new ArrayList<Integer>();
         getRanking(users, ranks);
         for (int i = 0; i < users.size(); i++) {
-            System.out.println((i+1) + ".username:" + users.get(i).getUsername() + " experience:" + users.get(i).getExperience());
+            System.out.println((i + 1) + ".username:" + users.get(i).getUsername() + " experience:" + users.get(i).getExperience());
         }
     }
 
@@ -138,7 +138,7 @@ public class ProfileMenuController {
             for (int j = i + 1; j < users.size(); j++) {
                 User userI = users.get(i);
                 User userJ = users.get(j);
-                if (!(userI.getExperience()==(userJ.getExperience()))) {
+                if (!(userI.getExperience() == (userJ.getExperience()))) {
                     break;
                 }
                 if (userI.getUsername().compareTo(userJ.getUsername()) > 0) {

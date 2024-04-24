@@ -1,0 +1,6977 @@
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+user logged in successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+invalid bench number
+no pokemon in the selected place
+no pokemon in the selected place
+invalid bench number
+card put successful
+no pokemon in the selected place
+no pokemon in the selected place
+substitution successful
+reza's turn
+card put successful
+round 1
+your active card:
+
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.pineco
+5.rowlet
+6.pink
+7.pink
+8.pink
+9.yellow
+10.yellow
+11.yellow
+
+your bench:
+1.
+2.ducklett||
+3.
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.
+2.
+3.
+no pokemon in the selected place
+invalid place number
+round 1
+your active card:
+
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.pineco
+5.rowlet
+6.pink
+7.pink
+8.pink
+9.yellow
+10.yellow
+11.yellow
+
+your bench:
+1.
+2.ducklett||
+3.
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.
+2.
+3.
+invalid bench number
+no pokemon in the selected place
+no pokemon in the selected place
+round 1
+your active card:
+
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.pineco
+5.rowlet
+6.pink
+7.pink
+8.pink
+9.yellow
+10.yellow
+11.yellow
+
+your bench:
+1.
+2.ducklett||
+3.
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.
+2.
+3.
+no pokemon in the selected place
+card put successful
+no pokemon in the selected place
+no active pokemon
+round 1
+your active card:
+
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.rowlet
+5.pink
+6.pink
+7.pink
+8.yellow
+9.yellow
+10.yellow
+
+your bench:
+1.pineco||
+2.ducklett||
+3.
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.
+2.
+3.
+invalid bench number
+substitution successful
+substitution successful
+round 1
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.rowlet
+5.pink
+6.pink
+7.pink
+8.yellow
+9.yellow
+10.yellow
+
+your bench:
+1.ducklett||
+2.
+3.
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.
+2.
+3.
+card put successful
+invalid bench number
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid action
+ali_reza's turn
+round 2
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.ducklett
+5.rowlet
+6.pink
+7.pink
+8.pink
+9.yellow
+10.yellow
+11.yellow
+
+your bench:
+1.
+2.
+3.
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett|yellow|
+2.
+3.
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1: yellow
+energy 2:
+round 2
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.ducklett
+5.rowlet
+6.pink
+7.pink
+8.pink
+9.yellow
+10.yellow
+11.yellow
+
+your bench:
+1.
+2.
+3.
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett|yellow|
+2.
+3.
+no pokemon in the selected place
+a pokemon already exists there
+invalid bench number
+no pokemon in the selected place
+invalid place number
+card put successful
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+reza's turn
+no pokemon in the selected place
+card put successful
+invalid bench number
+no pokemon in the selected place
+a pokemon already exists there
+ali_reza's turn
+substitution successful
+no pokemon in the selected place
+a pokemon already exists there
+a pokemon already exists there
+round 3
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.ducklett
+5.pink
+6.pink
+7.pink
+8.yellow
+9.yellow
+10.yellow
+
+your bench:
+1.
+2.pineco||
+3.
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett|yellow|pink
+2.
+3.
+substitution successful
+you don't have the selected card
+invalid place number
+a pokemon already exists there
+no pokemon in the selected place
+round 3
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.ducklett
+5.pink
+6.pink
+7.pink
+8.yellow
+9.yellow
+10.yellow
+
+your bench:
+1.
+2.rowlet||
+3.
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett|yellow|pink
+2.
+3.
+invalid action
+reza's turn
+no pokemon in the selected place
+round 3
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.rowlet
+5.pink
+6.pink
+7.yellow
+8.yellow
+
+your bench:
+1.ducklett|yellow|pink
+2.
+3.
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.
+2.rowlet||
+3.
+invalid place number
+no pokemon in the selected place
+no pokemon in the selected place
+invalid bench number
+invalid action
+ali_reza's turn
+no pokemon in the selected place
+invalid place number
+no pokemon in the selected place
+card put successful
+invalid bench number
+invalid place number
+no pokemon in the selected place
+invalid action
+reza's turn
+invalid place number
+invalid bench number
+no pokemon in the selected place
+invalid bench number
+substitution successful
+round 4
+your active card:
+ducklett|yellow|pink
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.rowlet
+5.pink
+6.pink
+7.yellow
+8.yellow
+
+your bench:
+1.pineco||
+2.
+3.
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.
+2.rowlet||
+3.ducklett||
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+card name is invalid
+invalid action
+ali_reza's turn
+invalid bench number
+substitution successful
+substitution successful
+you don't have the selected card
+reza's turn
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1: yellow
+energy 2: pink
+card name is invalid
+you don't have the selected card
+no pokemon in the selected place
+substitution successful
+no pokemon in the selected place
+round 5
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.rowlet
+5.pink
+6.pink
+7.yellow
+8.yellow
+
+your bench:
+1.ducklett|yellow|pink
+2.
+3.
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.
+2.rowlet||
+3.ducklett||
+ali_reza's turn
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1: yellow
+energy 2: pink
+card name is invalid
+substitution successful
+invalid place number
+no pokemon in the selected place
+invalid place number
+invalid bench number
+invalid place number
+substitution successful
+reza's turn
+you don't have the selected card
+invalid bench number
+no pokemon in the selected place
+no pokemon in the selected place
+round 6
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.rowlet
+5.pink
+6.pink
+7.yellow
+8.yellow
+
+your bench:
+1.ducklett|yellow|pink
+2.
+3.
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.
+2.rowlet||
+3.ducklett||
+no pokemon in the selected place
+no pokemon in the selected place
+card name is invalid
+you don't have the selected card
+ali_reza's turn
+substitution successful
+invalid place number
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+invalid bench number
+you don't have the selected card
+reza's turn
+round 7
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.rowlet
+5.pink
+6.pink
+7.yellow
+8.yellow
+
+your bench:
+1.ducklett|yellow|pink
+2.
+3.
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.
+2.rowlet||
+3.pineco||
+card name is invalid
+card name is invalid
+a pokemon already exists there
+round 7
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.rowlet
+5.pink
+6.pink
+7.yellow
+8.yellow
+
+your bench:
+1.ducklett|yellow|pink
+2.
+3.
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.
+2.rowlet||
+3.pineco||
+invalid bench number
+invalid place number
+ali_reza's turn
+substitution successful
+invalid place number
+no pokemon in the selected place
+a pokemon already exists there
+substitution successful
+card name is invalid
+invalid action
+reza's turn
+no pokemon in the selected place
+no pokemon in the selected place
+substitution successful
+round 8
+your active card:
+ducklett|yellow|pink
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.rowlet
+5.pink
+6.pink
+7.yellow
+8.yellow
+
+your bench:
+1.pineco||
+2.
+3.
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.
+2.rowlet||
+3.pineco||
+invalid place number
+card put successful
+round 8
+your active card:
+ducklett|yellow|pink
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.rowlet
+5.pink
+6.pink
+7.yellow
+
+your bench:
+1.pineco|yellow|
+2.
+3.
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.
+2.rowlet||
+3.pineco||
+no pokemon in the selected place
+ali_reza's turn
+invalid command
+invalid bench number
+no pokemon in the selected place
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+no pokemon in the selected place
+reza's turn
+round 9
+your active card:
+ducklett|yellow|pink
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.rowlet
+5.pink
+6.pink
+7.yellow
+
+your bench:
+1.pineco|yellow|
+2.
+3.
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.
+2.rowlet||
+3.pineco||
+you don't have the selected card
+no pokemon in the selected place
+you don't have the selected card
+you don't have the selected card
+round 9
+your active card:
+ducklett|yellow|pink
+
+your hand:
+1.dragonite
+2.tepig
+3.lugia
+4.rowlet
+5.pink
+6.pink
+7.yellow
+
+your bench:
+1.pineco|yellow|
+2.
+3.
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.
+2.rowlet||
+3.pineco||
+substitution successful
+ali_reza's turn
+no pokemon in the selected place
+card put successful
+card put successful
+invalid bench number
+invalid place number
+round 10
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+3.pink
+4.pink
+5.yellow
+6.yellow
+7.yellow
+
+your bench:
+1.dragonite|pink|
+2.rowlet||
+3.pineco||
+
+reza's active card:
+pineco|yellow|
+
+reza's bench:
+1.ducklett|yellow|pink
+2.
+3.
+substitution successful
+invalid place number
+invalid bench number
+substitution successful
+invalid action
+reza's turn
+card name is invalid
+card put successful
+pokemon: tepig
+special condition:
+hitpoint: 140.00/140.00
+energy 1:
+energy 2:
+you don't have the selected card
+invalid place number
+substitution successful
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1:
+energy 2:
+no pokemon in the selected place
+you don't have the selected card
+invalid bench number
+ali_reza's turn
+invalid bench number
+invalid bench number
+you don't have the selected card
+round 11
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+3.pink
+4.pink
+5.yellow
+6.yellow
+7.yellow
+
+your bench:
+1.ducklett||
+2.dragonite|pink|
+3.pineco||
+
+reza's active card:
+ducklett|yellow|pink
+
+reza's bench:
+1.pineco|yellow|
+2.tepig||
+3.
+reza's turn
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2:
+you don't have the selected card
+card put successful
+substitution successful
+you don't have the selected card
+ali_reza's turn
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1:
+energy 2:
+card put successful
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1:
+energy 2:
+invalid bench number
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: pink
+energy 2:
+a pokemon already exists there
+no pokemon in the selected place
+substitution successful
+round 12
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+3.pink
+4.yellow
+5.yellow
+6.yellow
+
+your bench:
+1.rowlet||
+2.dragonite|pink|
+3.pineco|pink|
+
+reza's active card:
+tepig|pink|
+
+reza's bench:
+1.pineco|yellow|
+2.ducklett|yellow|pink
+3.
+reza's turn
+invalid bench number
+card put successful
+pokemon already has 2 energies
+you don't have the selected card
+a pokemon already exists there
+you don't have the selected card
+round 12
+your active card:
+tepig|pink|
+
+your hand:
+1.dragonite
+2.lugia
+3.pink
+4.yellow
+
+your bench:
+1.pineco|yellow|
+2.ducklett|yellow|pink
+3.rowlet||
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.rowlet||
+2.dragonite|pink|
+3.pineco|pink|
+round 12
+your active card:
+tepig|pink|
+
+your hand:
+1.dragonite
+2.lugia
+3.pink
+4.yellow
+
+your bench:
+1.pineco|yellow|
+2.ducklett|yellow|pink
+3.rowlet||
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.rowlet||
+2.dragonite|pink|
+3.pineco|pink|
+substitution successful
+ali_reza's turn
+round 13
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+3.pink
+4.yellow
+5.yellow
+6.yellow
+
+your bench:
+1.rowlet||
+2.dragonite|pink|
+3.pineco|pink|
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.pineco|yellow|
+2.ducklett|yellow|pink
+3.tepig|pink|
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2:
+card put successful
+you don't have the selected card
+pokemon: tepig
+special condition:
+hitpoint: 140.00/140.00
+energy 1: pink
+energy 2:
+you don't have the selected card
+substitution successful
+round 13
+your active card:
+dragonite|pink|
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.rowlet||
+2.ducklett||
+3.pineco|pink|pink
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.pineco|yellow|
+2.ducklett|yellow|pink
+3.tepig|pink|
+you don't have the selected card
+invalid place number
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1:
+energy 2:
+round 13
+your active card:
+dragonite|pink|
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.rowlet||
+2.ducklett||
+3.pineco|pink|pink
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.pineco|yellow|
+2.ducklett|yellow|pink
+3.tepig|pink|
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: pink
+energy 2: pink
+a pokemon already exists there
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1: yellow
+energy 2: pink
+invalid action
+reza's turn
+substitution successful
+you don't have the selected card
+you don't have the selected card
+invalid action
+ali_reza's turn
+substitution successful
+substitution successful
+substitution successful
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1: yellow
+energy 2: pink
+round 14
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.rowlet||
+2.dragonite|pink|
+3.pineco|pink|pink
+
+reza's active card:
+tepig|pink|
+
+reza's bench:
+1.pineco|yellow|
+2.ducklett|yellow|pink
+3.rowlet||
+action executed successfully
+reza's turn
+card put successful
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2:
+invalid bench number
+substitution successful
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1:
+energy 2:
+you don't have the selected card
+invalid bench number
+ali_reza's turn
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1:
+energy 2:
+a pokemon already exists there
+invalid bench number
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2:
+card name is invalid
+card name is invalid
+you don't have the selected card
+round 15
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.rowlet||
+2.dragonite|pink|
+3.pineco|pink|pink
+
+reza's active card:
+pineco|yellow|
+
+reza's bench:
+1.ducklett|yellow|pink
+2.tepig|pink|
+3.rowlet||
+round 15
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.rowlet||
+2.dragonite|pink|
+3.pineco|pink|pink
+
+reza's active card:
+pineco|yellow|
+
+reza's bench:
+1.ducklett|yellow|pink
+2.tepig|pink|
+3.rowlet||
+reza's turn
+a pokemon already exists there
+invalid bench number
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1: yellow
+energy 2: pink
+substitution successful
+invalid bench number
+action executed successfully
+ali_reza's turn
+you don't have the selected card
+substitution successful
+you don't have the selected card
+round 16
+your active card:
+dragonite|pink|
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.rowlet||
+2.ducklett||
+3.pineco|pink|pink
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.ducklett|yellow|pink
+2.pineco|yellow|
+3.rowlet||
+invalid command
+substitution successful
+reza's turn
+substitution successful
+round 16
+your active card:
+ducklett|yellow|pink
+
+your hand:
+1.dragonite
+2.lugia
+3.yellow
+
+your bench:
+1.tepig||
+2.pineco|yellow|
+3.rowlet||
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.rowlet||
+2.dragonite|pink|
+3.pineco|pink|pink
+substitution successful
+invalid bench number
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: pink
+energy 2: pink
+invalid place number
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+ali_reza's turn
+round 17
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.rowlet||
+2.dragonite|pink|
+3.pineco|pink|pink
+
+reza's active card:
+pineco|yellow|
+
+reza's bench:
+1.tepig||
+2.ducklett|yellow|pink
+3.rowlet||
+invalid bench number
+you don't have the selected card
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: pink
+energy 2: pink
+invalid place number
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+invalid bench number
+a pokemon already exists there
+you don't have the selected card
+round 17
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.ducklett||
+2.dragonite|pink|
+3.pineco|pink|pink
+
+reza's active card:
+pineco|yellow|
+
+reza's bench:
+1.tepig||
+2.ducklett|yellow|pink
+3.rowlet||
+you don't have the selected card
+invalid action
+reza's turn
+pokemon: tepig
+special condition:
+hitpoint: 108.00/140.00
+energy 1:
+energy 2:
+substitution successful
+invalid command
+invalid place number
+invalid bench number
+a pokemon already exists there
+substitution successful
+round 17
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+3.yellow
+
+your bench:
+1.rowlet||
+2.ducklett|yellow|pink
+3.pineco|yellow|
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.ducklett||
+2.dragonite|pink|
+3.pineco|pink|pink
+you don't have the selected card
+ali_reza's turn
+pokemon: tepig
+special condition:
+hitpoint: 108.00/140.00
+energy 1:
+energy 2:
+invalid bench number
+round 18
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.ducklett||
+2.dragonite|pink|
+3.pineco|pink|pink
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.ducklett|yellow|pink
+3.pineco|yellow|
+invalid bench number
+a pokemon already exists there
+round 18
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.ducklett||
+2.dragonite|pink|
+3.pineco|pink|pink
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.ducklett|yellow|pink
+3.pineco|yellow|
+substitution successful
+invalid action
+reza's turn
+substitution successful
+substitution successful
+card put successful
+pokemon: dragonite
+special condition:
+hitpoint: 106.50/120.00
+energy 1: pink
+energy 2:
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1: yellow
+energy 2: pink
+you don't have the selected card
+invalid bench number
+action executed successfully
+ali_reza's turn
+you don't have the selected card
+you don't have the selected card
+you don't have the selected card
+substitution successful
+invalid target number
+reza's turn
+you don't have the selected card
+substitution successful
+invalid bench number
+invalid bench number
+ali_reza's turn
+a pokemon already exists there
+you don't have the selected card
+round 20
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.ducklett||
+2.dragonite|pink|
+3.pineco|pink|pink
+
+reza's active card:
+pineco|yellow|
+
+reza's bench:
+1.rowlet|yellow|
+2.ducklett|yellow|pink
+3.tepig||
+substitution successful
+round 20
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.rowlet||
+2.dragonite|pink|
+3.pineco|pink|pink
+
+reza's active card:
+pineco|yellow|
+
+reza's bench:
+1.rowlet|yellow|
+2.ducklett|yellow|pink
+3.tepig||
+you don't have the selected card
+action executed successfully
+reza's turn
+invalid bench number
+you don't have the selected card
+invalid bench number
+you don't have the selected card
+round 20
+your active card:
+pineco|yellow|
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.rowlet||
+2.ducklett|yellow|pink
+3.tepig||
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.rowlet||
+2.dragonite|pink|
+3.pineco|pink|pink
+pokemon: dragonite
+special condition:
+hitpoint: 93.00/120.00
+energy 1: pink
+energy 2:
+a pokemon already exists there
+card name is invalid
+substitution successful
+invalid action
+ali_reza's turn
+you don't have the selected card
+substitution successful
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+reza's turn
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2:
+invalid bench number
+substitution successful
+pokemon: ducklett
+special condition:
+hitpoint: 52.00/70.00
+energy 1:
+energy 2:
+invalid bench number
+pokemon: dragonite
+special condition:
+hitpoint: 93.00/120.00
+energy 1: pink
+energy 2:
+you don't have the selected card
+round 21
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.ducklett|yellow|pink
+3.pineco|yellow|
+
+ali_reza's active card:
+pineco|pink|pink
+
+ali_reza's bench:
+1.rowlet||
+2.dragonite|pink|
+3.ducklett||
+invalid bench number
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2:
+invalid target number
+ali_reza's turn
+round 22
+your active card:
+pineco|pink|pink
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.rowlet||
+2.dragonite|pink|
+3.ducklett||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.tepig||
+2.ducklett|yellow|pink
+3.pineco|yellow|
+substitution successful
+invalid command
+you don't have the selected card
+substitution successful
+pokemon: dragonite
+special condition:
+hitpoint: 93.00/120.00
+energy 1: pink
+energy 2:
+round 22
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.ducklett||
+2.dragonite|pink|
+3.pineco|pink|pink
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.tepig||
+2.ducklett|yellow|pink
+3.pineco|yellow|
+round 22
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.ducklett||
+2.dragonite|pink|
+3.pineco|pink|pink
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.tepig||
+2.ducklett|yellow|pink
+3.pineco|yellow|
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+round 22
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.ducklett||
+2.dragonite|pink|
+3.pineco|pink|pink
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.tepig||
+2.ducklett|yellow|pink
+3.pineco|yellow|
+invalid target number
+reza's turn
+round 22
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.ducklett|yellow|pink
+3.pineco|yellow|
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.ducklett||
+2.dragonite|pink|
+3.pineco|pink|pink
+invalid bench number
+you don't have the selected card
+invalid bench number
+round 22
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.ducklett|yellow|pink
+3.pineco|yellow|
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.ducklett||
+2.dragonite|pink|
+3.pineco|pink|pink
+invalid action
+ali_reza's turn
+pokemon: dragonite
+special condition:
+hitpoint: 93.00/120.00
+energy 1: pink
+energy 2:
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+pokemon: ducklett
+special condition:
+hitpoint: 52.00/70.00
+energy 1:
+energy 2:
+card name is invalid
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2:
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1: yellow
+energy 2: pink
+round 23
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.ducklett||
+2.dragonite|pink|
+3.pineco|pink|pink
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.tepig||
+2.ducklett|yellow|pink
+3.pineco|yellow|
+substitution successful
+you don't have the selected card
+invalid bench number
+action executed successfully
+reza's turn
+you don't have the selected card
+substitution successful
+card name is invalid
+you don't have the selected card
+ali_reza's turn
+substitution successful
+a pokemon already exists there
+you don't have the selected card
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1: yellow
+energy 2: pink
+a pokemon already exists there
+invalid bench number
+round 24
+your active card:
+dragonite|pink|
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+5.yellow
+
+your bench:
+1.ducklett||
+2.pineco|pink|
+3.rowlet||
+
+reza's active card:
+ducklett|yellow|pink
+
+reza's bench:
+1.tepig||
+2.rowlet||
+3.pineco|yellow|
+substitution successful
+invalid action
+reza's turn
+you don't have the selected card
+you don't have the selected card
+invalid command
+you don't have the selected card
+card name is invalid
+substitution successful
+invalid bench number
+action executed successfully
+ali_reza's turn
+a pokemon already exists there
+pokemon: tepig
+special condition:
+hitpoint: 108.00/140.00
+energy 1:
+energy 2:
+substitution successful
+you don't have the selected card
+pokemon: ducklett
+special condition:
+hitpoint: 52.00/70.00
+energy 1:
+energy 2:
+card put successful
+round 25
+your active card:
+dragonite|pink|
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+
+your bench:
+1.ducklett||
+2.pineco|pink|yellow
+3.rowlet||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.tepig||
+2.rowlet||
+3.ducklett|yellow|pink
+round 25
+your active card:
+dragonite|pink|
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+
+your bench:
+1.ducklett||
+2.pineco|pink|yellow
+3.rowlet||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.tepig||
+2.rowlet||
+3.ducklett|yellow|pink
+pokemon: dragonite
+special condition:
+hitpoint: 93.00/120.00
+energy 1: pink
+energy 2:
+a pokemon already exists there
+you don't have the selected card
+substitution successful
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+reza's turn
+a pokemon already exists there
+pokemon: dragonite
+special condition:
+hitpoint: 93.00/120.00
+energy 1: pink
+energy 2:
+substitution successful
+you don't have the selected card
+you don't have the selected card
+invalid bench number
+invalid action
+ali_reza's turn
+round 26
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+
+your bench:
+1.ducklett||
+2.pineco|pink|yellow
+3.dragonite|pink|
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.tepig||
+2.pineco||
+3.ducklett|yellow|pink
+a pokemon already exists there
+invalid bench number
+invalid place number
+you don't have the selected card
+invalid target number
+reza's turn
+you don't have the selected card
+invalid bench number
+substitution successful
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: pink
+energy 2: yellow
+a pokemon already exists there
+invalid place number
+you don't have the selected card
+pokemon: dragonite
+special condition:
+hitpoint: 93.00/120.00
+energy 1: pink
+energy 2:
+invalid place number
+ali_reza's turn
+card name is invalid
+you don't have the selected card
+substitution successful
+invalid bench number
+action executed successfully
+reza's turn
+pokemon: tepig
+special condition:
+hitpoint: 108.00/140.00
+energy 1:
+energy 2:
+invalid place number
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2:
+substitution successful
+you don't have the selected card
+substitution successful
+a pokemon already exists there
+substitution successful
+invalid action
+ali_reza's turn
+pokemon: ducklett
+special condition:
+hitpoint: 70.00/70.00
+energy 1: yellow
+energy 2: pink
+pokemon: ducklett
+special condition:
+hitpoint: 52.00/70.00
+energy 1:
+energy 2:
+round 28
+your active card:
+pineco|yellow|
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+
+your bench:
+1.ducklett||
+2.rowlet||
+3.dragonite|pink|
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.ducklett|yellow|pink
+3.pineco||
+you don't have the selected card
+pokemon: tepig
+special condition:
+hitpoint: 108.00/140.00
+energy 1:
+energy 2:
+you don't have the selected card
+a pokemon already exists there
+you don't have the selected card
+substitution successful
+invalid bench number
+reza's turn
+round 28
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.rowlet||
+2.ducklett|yellow|pink
+3.pineco||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.ducklett||
+2.pineco|yellow|
+3.dragonite|pink|
+you don't have the selected card
+invalid bench number
+invalid place number
+you don't have the selected card
+you don't have the selected card
+substitution successful
+you don't have the selected card
+substitution successful
+ali_reza's turn
+you don't have the selected card
+substitution successful
+invalid bench number
+invalid bench number
+invalid place number
+you don't have the selected card
+substitution successful
+substitution successful
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+action executed successfully
+reza's turn
+invalid place number
+you don't have the selected card
+substitution successful
+you don't have the selected card
+substitution successful
+pokemon: tepig
+special condition:
+hitpoint: 108.00/140.00
+energy 1:
+energy 2:
+you don't have the selected card
+ali_reza's turn
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1: yellow
+energy 2:
+a pokemon already exists there
+round 30
+your active card:
+pineco|yellow|
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+4.yellow
+
+your bench:
+1.ducklett||
+2.dragonite|pink|
+3.rowlet||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.rowlet||
+2.pineco||
+3.tepig||
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+substitution successful
+reza's turn
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+card name is invalid
+substitution successful
+you don't have the selected card
+you don't have the selected card
+you don't have the selected card
+invalid bench number
+invalid action
+ali_reza's turn
+card put successful
+card name is invalid
+card name is invalid
+invalid command
+invalid bench number
+substitution successful
+action executed successfully
+reza's turn
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+round 31
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.ducklett||
+2.rowlet||
+3.dragonite|pink|yellow
+a pokemon already exists there
+round 31
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.ducklett||
+2.rowlet||
+3.dragonite|pink|yellow
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+round 31
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.ducklett||
+2.rowlet||
+3.dragonite|pink|yellow
+round 31
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.ducklett||
+2.rowlet||
+3.dragonite|pink|yellow
+substitution successful
+invalid bench number
+pokemon: dragonite
+special condition:
+hitpoint: 93.00/120.00
+energy 1: pink
+energy 2: yellow
+ali_reza's turn
+substitution successful
+substitution successful
+you don't have the selected card
+you don't have the selected card
+reza's turn
+you don't have the selected card
+substitution successful
+substitution successful
+card name is invalid
+round 32
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.rowlet||
+2.pineco||
+3.dragonite|pink|yellow
+pokemon: ducklett
+special condition:
+hitpoint: 52.00/70.00
+energy 1:
+energy 2:
+you don't have the selected card
+action executed successfully
+ali_reza's turn
+substitution successful
+round 33
+your active card:
+dragonite|pink|yellow
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+
+your bench:
+1.rowlet||
+2.pineco||
+3.ducklett||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+pokemon: tepig
+special condition:
+hitpoint: 108.00/140.00
+energy 1:
+energy 2:
+you don't have the selected card
+card name is invalid
+round 33
+your active card:
+dragonite|pink|yellow
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+
+your bench:
+1.rowlet||
+2.pineco||
+3.ducklett||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+round 33
+your active card:
+dragonite|pink|yellow
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+
+your bench:
+1.rowlet||
+2.pineco||
+3.ducklett||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+round 33
+your active card:
+dragonite|pink|yellow
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+
+your bench:
+1.rowlet||
+2.pineco||
+3.ducklett||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+you don't have the selected card
+substitution successful
+a pokemon already exists there
+card name is invalid
+reza's turn
+you don't have the selected card
+you don't have the selected card
+substitution successful
+invalid bench number
+substitution successful
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+substitution successful
+invalid action
+ali_reza's turn
+invalid bench number
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+round 34
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+
+your bench:
+1.rowlet||
+2.pineco||
+3.dragonite|pink|yellow
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.pineco||
+card name is invalid
+substitution successful
+substitution successful
+action executed successfully
+reza's turn
+substitution successful
+round 34
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.tepig||
+3.pineco||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.rowlet||
+2.dragonite|pink|yellow
+3.ducklett||
+a pokemon already exists there
+a pokemon already exists there
+invalid place number
+you don't have the selected card
+invalid bench number
+invalid target number
+ali_reza's turn
+substitution successful
+substitution successful
+round 35
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+3.yellow
+
+your bench:
+1.ducklett||
+2.dragonite|pink|yellow
+3.pineco||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.ducklett||
+2.tepig||
+3.pineco||
+card put successful
+substitution successful
+substitution successful
+invalid bench number
+action executed successfully
+reza's turn
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+a pokemon already exists there
+you don't have the selected card
+invalid bench number
+you don't have the selected card
+you don't have the selected card
+substitution successful
+invalid action
+ali_reza's turn
+card name is invalid
+round 36
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.dragonite|pink|yellow
+3.ducklett|yellow|
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.pineco||
+substitution successful
+invalid bench number
+invalid action
+reza's turn
+you don't have the selected card
+substitution successful
+substitution successful
+invalid action
+ali_reza's turn
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+invalid bench number
+a pokemon already exists there
+pokemon: dragonite
+special condition:
+hitpoint: 93.00/120.00
+energy 1: pink
+energy 2: yellow
+substitution successful
+substitution successful
+card name is invalid
+substitution successful
+reza's turn
+pokemon: tepig
+special condition:
+hitpoint: 108.00/140.00
+energy 1:
+energy 2:
+a pokemon already exists there
+you don't have the selected card
+pokemon: tepig
+special condition:
+hitpoint: 108.00/140.00
+energy 1:
+energy 2:
+round 37
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.rowlet||
+3.pineco||
+
+ali_reza's active card:
+dragonite|pink|yellow
+
+ali_reza's bench:
+1.pineco||
+2.rowlet||
+3.ducklett|yellow|
+round 37
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.rowlet||
+3.pineco||
+
+ali_reza's active card:
+dragonite|pink|yellow
+
+ali_reza's bench:
+1.pineco||
+2.rowlet||
+3.ducklett|yellow|
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+you don't have the selected card
+substitution successful
+substitution successful
+action executed successfully
+ali_reza's turn
+invalid place number
+invalid bench number
+invalid place number
+invalid bench number
+card name is invalid
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+invalid bench number
+you don't have the selected card
+a pokemon already exists there
+reza's turn
+you don't have the selected card
+invalid bench number
+substitution successful
+invalid place number
+invalid place number
+invalid bench number
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+round 38
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.pineco||
+2.tepig||
+3.rowlet||
+
+ali_reza's active card:
+dragonite|pink|yellow
+
+ali_reza's bench:
+1.pineco||
+2.rowlet||
+3.ducklett|yellow|
+ali_reza's turn
+invalid bench number
+substitution successful
+you don't have the selected card
+you don't have the selected card
+round 39
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.dragonite|pink|yellow
+3.ducklett|yellow|
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.pineco||
+2.tepig||
+3.rowlet||
+a pokemon already exists there
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+you don't have the selected card
+reza's turn
+a pokemon already exists there
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+substitution successful
+substitution successful
+substitution successful
+you don't have the selected card
+ali_reza's turn
+round 40
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.dragonite|pink|yellow
+3.ducklett|yellow|
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.rowlet||
+2.ducklett||
+3.tepig||
+you don't have the selected card
+you don't have the selected card
+a pokemon already exists there
+invalid bench number
+you don't have the selected card
+invalid bench number
+card name is invalid
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+action executed successfully
+reza's turn
+a pokemon already exists there
+round 40
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.rowlet||
+2.ducklett||
+3.tepig||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.pineco||
+2.dragonite|pink|yellow
+3.ducklett|yellow|
+invalid bench number
+a pokemon already exists there
+round 40
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.rowlet||
+2.ducklett||
+3.tepig||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.pineco||
+2.dragonite|pink|yellow
+3.ducklett|yellow|
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+invalid bench number
+invalid bench number
+round 40
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.rowlet||
+2.ducklett||
+3.tepig||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.pineco||
+2.dragonite|pink|yellow
+3.ducklett|yellow|
+card name is invalid
+ali_reza's turn
+you don't have the selected card
+substitution successful
+substitution successful
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+substitution successful
+reza's turn
+you don't have the selected card
+pokemon: dragonite
+special condition:
+hitpoint: 93.00/120.00
+energy 1: pink
+energy 2: yellow
+invalid bench number
+you don't have the selected card
+substitution successful
+substitution successful
+substitution successful
+ali_reza's turn
+round 42
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.dragonite|pink|yellow
+3.ducklett|yellow|
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+substitution successful
+card name is invalid
+substitution successful
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+invalid bench number
+you don't have the selected card
+reza's turn
+you don't have the selected card
+you don't have the selected card
+invalid bench number
+you don't have the selected card
+invalid bench number
+substitution successful
+ali_reza's turn
+you don't have the selected card
+substitution successful
+you don't have the selected card
+invalid bench number
+invalid bench number
+reza's turn
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid command
+card name is invalid
+substitution successful
+pokemon: dragonite
+special condition:
+hitpoint: 93.00/120.00
+energy 1: pink
+energy 2: yellow
+you don't have the selected card
+you don't have the selected card
+invalid bench number
+invalid action
+ali_reza's turn
+invalid bench number
+a pokemon already exists there
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+substitution successful
+you don't have the selected card
+reza's turn
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+pokemon: tepig
+special condition:
+hitpoint: 108.00/140.00
+energy 1:
+energy 2:
+substitution successful
+invalid place number
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+substitution successful
+substitution successful
+card name is invalid
+invalid place number
+ali_reza's turn
+card name is invalid
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+you don't have the selected card
+round 45
+your active card:
+dragonite|pink|yellow
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett|yellow|
+2.rowlet||
+3.pineco||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+substitution successful
+pokemon: dragonite
+special condition:
+hitpoint: 93.00/120.00
+energy 1: pink
+energy 2: yellow
+card name is invalid
+invalid bench number
+invalid action
+reza's turn
+a pokemon already exists there
+invalid bench number
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+pokemon: tepig
+special condition:
+hitpoint: 108.00/140.00
+energy 1:
+energy 2:
+you don't have the selected card
+you don't have the selected card
+substitution successful
+you don't have the selected card
+round 45
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.rowlet||
+2.pineco||
+3.tepig||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.ducklett|yellow|
+2.dragonite|pink|yellow
+3.pineco||
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+invalid place number
+action executed successfully
+ali_reza's turn
+substitution successful
+invalid bench number
+a pokemon already exists there
+invalid place number
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+invalid place number
+invalid command
+invalid command
+pokemon: ducklett
+special condition:
+hitpoint: 52.00/70.00
+energy 1: yellow
+energy 2:
+action executed successfully
+reza's turn
+you don't have the selected card
+you don't have the selected card
+invalid command
+substitution successful
+pokemon: ducklett
+special condition:
+hitpoint: 52.00/70.00
+energy 1: yellow
+energy 2:
+you don't have the selected card
+ali_reza's turn
+substitution successful
+substitution successful
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+pokemon: dragonite
+special condition:
+hitpoint: 76.20/120.00
+energy 1:
+energy 2:
+pokemon: dragonite
+special condition:
+hitpoint: 76.20/120.00
+energy 1:
+energy 2:
+you don't have the selected card
+reza's turn
+substitution successful
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+a pokemon already exists there
+invalid bench number
+invalid bench number
+a pokemon already exists there
+ali_reza's turn
+substitution successful
+pokemon: ducklett
+special condition:
+hitpoint: 52.00/70.00
+energy 1: yellow
+energy 2:
+a pokemon already exists there
+round 48
+your active card:
+dragonite||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.pineco||
+3.ducklett|yellow|
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.ducklett||
+3.pineco||
+you don't have the selected card
+reza's turn
+card name is invalid
+invalid bench number
+substitution successful
+substitution successful
+a pokemon already exists there
+action executed successfully
+ali_reza's turn
+you don't have the selected card
+substitution successful
+substitution successful
+action executed successfully
+reza's turn
+round 49
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.tepig||
+3.pineco||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.rowlet||
+2.ducklett|yellow|
+3.dragonite||
+substitution successful
+substitution successful
+invalid bench number
+invalid command
+pokemon: ducklett
+special condition:
+hitpoint: 52.00/70.00
+energy 1: yellow
+energy 2:
+round 49
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.rowlet||
+2.ducklett||
+3.pineco||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.rowlet||
+2.ducklett|yellow|
+3.dragonite||
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+you don't have the selected card
+card name is invalid
+ali_reza's turn
+round 50
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.ducklett|yellow|
+3.dragonite||
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.ducklett||
+3.pineco||
+round 50
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.ducklett|yellow|
+3.dragonite||
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.ducklett||
+3.pineco||
+round 50
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.ducklett|yellow|
+3.dragonite||
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.ducklett||
+3.pineco||
+you don't have the selected card
+you don't have the selected card
+pokemon: ducklett
+special condition:
+hitpoint: 52.00/70.00
+energy 1: yellow
+energy 2:
+round 50
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.ducklett|yellow|
+3.dragonite||
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.ducklett||
+3.pineco||
+invalid place number
+invalid bench number
+a pokemon already exists there
+invalid place number
+reza's turn
+substitution successful
+round 50
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.ducklett||
+3.pineco||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.rowlet||
+2.ducklett|yellow|
+3.dragonite||
+you don't have the selected card
+invalid bench number
+substitution successful
+round 50
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.rowlet||
+3.pineco||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.rowlet||
+2.ducklett|yellow|
+3.dragonite||
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+invalid bench number
+card name is invalid
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+ali_reza's turn
+substitution successful
+card name is invalid
+pokemon: ducklett
+special condition:
+hitpoint: 52.00/70.00
+energy 1: yellow
+energy 2:
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+reza's turn
+substitution successful
+invalid bench number
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+invalid bench number
+invalid bench number
+you don't have the selected card
+invalid bench number
+you don't have the selected card
+invalid place number
+ali_reza's turn
+substitution successful
+you don't have the selected card
+you don't have the selected card
+invalid bench number
+action executed successfully
+reza's turn
+you don't have the selected card
+invalid command
+invalid bench number
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+you don't have the selected card
+ali_reza's turn
+substitution successful
+you don't have the selected card
+invalid bench number
+invalid bench number
+invalid bench number
+you don't have the selected card
+you don't have the selected card
+reza's turn
+you don't have the selected card
+you don't have the selected card
+substitution successful
+ali_reza's turn
+round 54
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.dragonite||
+3.ducklett|yellow|
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.pineco||
+2.tepig||
+3.ducklett||
+substitution successful
+invalid place number
+round 54
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.dragonite||
+3.ducklett|yellow|
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.pineco||
+2.tepig||
+3.ducklett||
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+substitution successful
+invalid action
+reza's turn
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+pokemon: ducklett
+special condition:
+hitpoint: 52.00/70.00
+energy 1: yellow
+energy 2:
+invalid bench number
+round 54
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.pineco||
+2.tepig||
+3.ducklett||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.pineco||
+2.dragonite||
+3.ducklett|yellow|
+round 54
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.pineco||
+2.tepig||
+3.ducklett||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.pineco||
+2.dragonite||
+3.ducklett|yellow|
+invalid bench number
+substitution successful
+a pokemon already exists there
+ali_reza's turn
+invalid place number
+you don't have the selected card
+you don't have the selected card
+a pokemon already exists there
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+round 55
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.dragonite||
+3.ducklett|yellow|
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.rowlet||
+2.tepig||
+3.ducklett||
+action executed successfully
+reza's turn
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+invalid bench number
+ali_reza's turn
+invalid command
+a pokemon already exists there
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid bench number
+you don't have the selected card
+substitution successful
+round 56
+your active card:
+ducklett|yellow|
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.dragonite||
+3.rowlet||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.tepig||
+2.rowlet||
+3.ducklett||
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+reza's turn
+substitution successful
+you don't have the selected card
+you don't have the selected card
+you don't have the selected card
+substitution successful
+substitution successful
+substitution successful
+ali_reza's turn
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+card name is invalid
+you don't have the selected card
+round 57
+your active card:
+ducklett|yellow|
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.dragonite||
+3.rowlet||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.pineco||
+2.tepig||
+3.ducklett||
+you don't have the selected card
+substitution successful
+invalid place number
+invalid place number
+invalid bench number
+substitution successful
+reza's turn
+pokemon: dragonite
+special condition:
+hitpoint: 76.20/120.00
+energy 1:
+energy 2:
+you don't have the selected card
+substitution successful
+pokemon: dragonite
+special condition:
+hitpoint: 76.20/120.00
+energy 1:
+energy 2:
+round 57
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.pineco||
+2.rowlet||
+3.ducklett||
+
+ali_reza's active card:
+ducklett|yellow|
+
+ali_reza's bench:
+1.pineco||
+2.dragonite||
+3.rowlet||
+invalid bench number
+substitution successful
+you don't have the selected card
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+invalid action
+ali_reza's turn
+invalid bench number
+substitution successful
+substitution successful
+reza's turn
+you don't have the selected card
+round 58
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.rowlet||
+3.ducklett||
+
+ali_reza's active card:
+ducklett|yellow|
+
+ali_reza's bench:
+1.pineco||
+2.dragonite||
+3.rowlet||
+round 58
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.rowlet||
+3.ducklett||
+
+ali_reza's active card:
+ducklett|yellow|
+
+ali_reza's bench:
+1.pineco||
+2.dragonite||
+3.rowlet||
+substitution successful
+a pokemon already exists there
+ali_reza's turn
+a pokemon already exists there
+substitution successful
+invalid place number
+substitution successful
+round 59
+your active card:
+ducklett|yellow|
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.dragonite||
+3.rowlet||
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.pineco||
+2.rowlet||
+3.ducklett||
+substitution successful
+a pokemon already exists there
+reza's turn
+pokemon: ducklett
+special condition:
+hitpoint: 52.00/70.00
+energy 1: yellow
+energy 2:
+you don't have the selected card
+substitution successful
+substitution successful
+substitution successful
+substitution successful
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+round 59
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.ducklett||
+3.rowlet||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.pineco||
+2.dragonite||
+3.ducklett|yellow|
+invalid bench number
+invalid action
+ali_reza's turn
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+round 60
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.dragonite||
+3.ducklett|yellow|
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.tepig||
+2.ducklett||
+3.rowlet||
+substitution successful
+you don't have the selected card
+invalid place number
+you don't have the selected card
+invalid bench number
+substitution successful
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+action executed successfully
+reza's turn
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+pokemon: dragonite
+special condition:
+hitpoint: 104.20/120.00
+energy 1:
+energy 2:
+you don't have the selected card
+you don't have the selected card
+pokemon: dragonite
+special condition:
+hitpoint: 104.20/120.00
+energy 1:
+energy 2:
+a pokemon already exists there
+invalid bench number
+substitution successful
+round 60
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.ducklett||
+3.pineco||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.pineco||
+2.dragonite||
+3.ducklett|yellow|
+you don't have the selected card
+a pokemon already exists there
+round 60
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.ducklett||
+3.pineco||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.pineco||
+2.dragonite||
+3.ducklett|yellow|
+round 60
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.ducklett||
+3.pineco||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.pineco||
+2.dragonite||
+3.ducklett|yellow|
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+action executed successfully
+ali_reza's turn
+a pokemon already exists there
+you don't have the selected card
+invalid bench number
+reza's turn
+substitution successful
+you don't have the selected card
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+action executed successfully
+ali_reza's turn
+round 62
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.dragonite||
+3.ducklett|yellow|
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.ducklett||
+3.pineco||
+a pokemon already exists there
+substitution successful
+card name is invalid
+round 62
+your active card:
+dragonite||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.rowlet||
+3.ducklett|yellow|
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.ducklett||
+3.pineco||
+substitution successful
+invalid place number
+pokemon: dragonite
+special condition: burning
+hitpoint: 100.70/120.00
+energy 1:
+energy 2:
+reza's turn
+pokemon: rowlet
+special condition:
+hitpoint: 178.75/180.00
+energy 1:
+energy 2:
+substitution successful
+substitution successful
+invalid bench number
+invalid bench number
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+a pokemon already exists there
+invalid bench number
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+you don't have the selected card
+round 62
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.rowlet||
+2.tepig||
+3.ducklett||
+
+ali_reza's active card:
+ducklett|yellow|
+
+ali_reza's bench:
+1.pineco||
+2.rowlet||
+3.dragonite||
+ali_reza's turn
+invalid bench number
+you don't have the selected card
+invalid place number
+you don't have the selected card
+substitution successful
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid place number
+substitution successful
+reza's turn
+you don't have the selected card
+you don't have the selected card
+substitution successful
+substitution successful
+pokemon: tepig
+special condition:
+hitpoint: 66.00/140.00
+energy 1:
+energy 2:
+pokemon: tepig
+special condition:
+hitpoint: 66.00/140.00
+energy 1:
+energy 2:
+you don't have the selected card
+substitution successful
+ali_reza's turn
+you don't have the selected card
+substitution successful
+round 64
+your active card:
+ducklett|yellow|
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.rowlet||
+3.dragonite||
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.pineco||
+3.ducklett||
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+substitution successful
+substitution successful
+pokemon: tepig
+special condition:
+hitpoint: 66.00/140.00
+energy 1:
+energy 2:
+reza's turn
+invalid bench number
+substitution successful
+substitution successful
+round 64
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.rowlet||
+2.pineco||
+3.ducklett||
+
+ali_reza's active card:
+ducklett|yellow|
+
+ali_reza's bench:
+1.rowlet||
+2.pineco||
+3.dragonite||
+substitution successful
+substitution successful
+you don't have the selected card
+action executed successfully
+ali_reza's turn
+substitution successful
+round 65
+your active card:
+dragonite||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.pineco||
+3.ducklett|yellow|
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.pineco||
+3.ducklett||
+pokemon: pineco
+special condition: burning
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+pokemon: ducklett
+special condition:
+hitpoint: 34.00/70.00
+energy 1: yellow
+energy 2:
+pokemon: pineco
+special condition: burning
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid command
+you don't have the selected card
+you don't have the selected card
+pokemon: pineco
+special condition: burning
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid bench number
+round 65
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.dragonite||
+3.ducklett|yellow|
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.pineco||
+3.ducklett||
+reza's turn
+you don't have the selected card
+you don't have the selected card
+round 65
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.rowlet||
+2.pineco||
+3.ducklett||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.rowlet||
+2.dragonite||
+3.ducklett|yellow|
+substitution successful
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+invalid bench number
+substitution successful
+invalid bench number
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+invalid place number
+round 65
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.rowlet||
+3.ducklett||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.rowlet||
+2.dragonite||
+3.ducklett|yellow|
+invalid action
+ali_reza's turn
+you don't have the selected card
+substitution successful
+you don't have the selected card
+pokemon: dragonite
+special condition:
+hitpoint: 77.20/120.00
+energy 1:
+energy 2:
+invalid bench number
+invalid bench number
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+invalid action
+reza's turn
+round 66
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.rowlet||
+3.ducklett||
+
+ali_reza's active card:
+dragonite||
+
+ali_reza's bench:
+1.rowlet||
+2.pineco||
+3.ducklett|yellow|
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+substitution successful
+substitution successful
+ali_reza's turn
+substitution successful
+you don't have the selected card
+card name is invalid
+invalid bench number
+invalid bench number
+pokemon: ducklett
+special condition:
+hitpoint: 58.00/70.00
+energy 1:
+energy 2:
+substitution successful
+action executed successfully
+reza's turn
+you don't have the selected card
+you don't have the selected card
+invalid place number
+substitution successful
+you don't have the selected card
+substitution successful
+ali_reza's turn
+invalid place number
+a pokemon already exists there
+a pokemon already exists there
+you don't have the selected card
+substitution successful
+substitution successful
+pokemon: tepig
+special condition:
+hitpoint: 66.00/140.00
+energy 1:
+energy 2:
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+reza's turn
+a pokemon already exists there
+you don't have the selected card
+invalid bench number
+card name is invalid
+invalid bench number
+pokemon: tepig
+special condition:
+hitpoint: 66.00/140.00
+energy 1:
+energy 2:
+action executed successfully
+ali_reza's turn
+substitution successful
+substitution successful
+invalid bench number
+invalid bench number
+round 69
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.dragonite||
+3.ducklett||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+reza's turn
+invalid command
+you don't have the selected card
+pokemon: dragonite
+special condition:
+hitpoint: 77.20/120.00
+energy 1:
+energy 2:
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+card name is invalid
+action executed successfully
+ali_reza's turn
+you don't have the selected card
+you don't have the selected card
+round 70
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.dragonite||
+3.ducklett||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.pineco||
+2.rowlet||
+3.tepig||
+substitution successful
+action executed successfully
+reza's turn
+you don't have the selected card
+round 70
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.pineco||
+2.rowlet||
+3.tepig||
+
+ali_reza's active card:
+dragonite||
+
+ali_reza's bench:
+1.rowlet||
+2.pineco||
+3.ducklett||
+substitution successful
+invalid place number
+card name is invalid
+action executed successfully
+ali_reza's turn
+invalid bench number
+invalid bench number
+substitution successful
+a pokemon already exists there
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+you don't have the selected card
+reza's turn
+round 71
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.rowlet||
+2.dragonite||
+3.ducklett||
+substitution successful
+pokemon: dragonite
+special condition:
+hitpoint: 77.20/120.00
+energy 1:
+energy 2:
+you don't have the selected card
+pokemon: tepig
+special condition:
+hitpoint: 66.00/140.00
+energy 1:
+energy 2:
+invalid bench number
+pokemon: tepig
+special condition:
+hitpoint: 66.00/140.00
+energy 1:
+energy 2:
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+round 71
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.rowlet||
+2.dragonite||
+3.ducklett||
+ali_reza's turn
+invalid bench number
+you don't have the selected card
+invalid place number
+card name is invalid
+round 72
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.dragonite||
+3.ducklett||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+pokemon: ducklett
+special condition:
+hitpoint: 19.60/70.00
+energy 1:
+energy 2:
+substitution successful
+invalid place number
+round 72
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.dragonite||
+3.pineco||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+invalid bench number
+round 72
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.dragonite||
+3.pineco||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+round 72
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.dragonite||
+3.pineco||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+action executed successfully
+reza's turn
+a pokemon already exists there
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+round 72
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.rowlet||
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.rowlet||
+2.dragonite||
+3.pineco||
+invalid action
+ali_reza's turn
+round 73
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.dragonite||
+3.pineco||
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.ducklett||
+2.pineco||
+3.rowlet||
+pokemon: tepig
+special condition:
+hitpoint: 34.00/140.00
+energy 1:
+energy 2:
+invalid bench number
+you don't have the selected card
+invalid command
+invalid bench number
+you don't have the selected card
+reza's turn
+you don't have the selected card
+card name is invalid
+pokemon: rowlet
+special condition:
+hitpoint: 178.75/180.00
+energy 1:
+energy 2:
+round 73
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.rowlet||
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.rowlet||
+2.dragonite||
+3.pineco||
+substitution successful
+substitution successful
+ali_reza's turn
+round 74
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.dragonite||
+3.pineco||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.pineco||
+2.tepig||
+3.rowlet||
+you don't have the selected card
+you don't have the selected card
+a pokemon already exists there
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+card name is invalid
+invalid bench number
+invalid bench number
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid action
+reza's turn
+you don't have the selected card
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+invalid bench number
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+substitution successful
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+substitution successful
+invalid bench number
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+pokemon: rowlet
+special condition:
+hitpoint: 178.75/180.00
+energy 1:
+energy 2:
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+ali_reza's turn
+pokemon: ducklett
+special condition:
+hitpoint: 34.00/70.00
+energy 1:
+energy 2:
+invalid bench number
+a pokemon already exists there
+substitution successful
+card name is invalid
+substitution successful
+invalid action
+reza's turn
+substitution successful
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid place number
+pokemon: ducklett
+special condition:
+hitpoint: 19.60/70.00
+energy 1:
+energy 2:
+a pokemon already exists there
+a pokemon already exists there
+substitution successful
+a pokemon already exists there
+invalid action
+ali_reza's turn
+pokemon: dragonite
+special condition:
+hitpoint: 77.20/120.00
+energy 1:
+energy 2:
+a pokemon already exists there
+round 76
+your active card:
+dragonite||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.rowlet||
+3.ducklett||
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.ducklett||
+2.pineco||
+3.rowlet||
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+you don't have the selected card
+invalid action
+reza's turn
+substitution successful
+round 76
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.pineco||
+3.rowlet||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.dragonite||
+2.rowlet||
+3.ducklett||
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid bench number
+invalid place number
+invalid command
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+invalid action
+ali_reza's turn
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+round 77
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.dragonite||
+2.rowlet||
+3.pineco||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.tepig||
+2.ducklett||
+3.rowlet||
+invalid bench number
+invalid bench number
+invalid place number
+you don't have the selected card
+invalid action
+reza's turn
+you don't have the selected card
+substitution successful
+substitution successful
+round 77
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.rowlet||
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.dragonite||
+2.rowlet||
+3.pineco||
+pokemon: rowlet
+special condition:
+hitpoint: 178.75/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+substitution successful
+you don't have the selected card
+action executed successfully
+ali_reza's turn
+pokemon: ducklett
+special condition:
+hitpoint: 19.60/70.00
+energy 1:
+energy 2:
+round 78
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.dragonite||
+2.rowlet||
+3.pineco||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+invalid command
+round 78
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.dragonite||
+2.rowlet||
+3.pineco||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+you don't have the selected card
+pokemon: dragonite
+special condition:
+hitpoint: 77.20/120.00
+energy 1:
+energy 2:
+pokemon: dragonite
+special condition:
+hitpoint: 77.20/120.00
+energy 1:
+energy 2:
+you don't have the selected card
+you don't have the selected card
+you don't have the selected card
+invalid bench number
+action executed successfully
+reza's turn
+invalid bench number
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+you don't have the selected card
+pokemon: ducklett
+special condition:
+hitpoint: 34.00/70.00
+energy 1:
+energy 2:
+you don't have the selected card
+substitution successful
+substitution successful
+invalid bench number
+invalid action
+ali_reza's turn
+you don't have the selected card
+a pokemon already exists there
+round 79
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.dragonite||
+2.rowlet||
+3.pineco||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+substitution successful
+invalid bench number
+round 79
+your active card:
+dragonite||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.rowlet||
+3.pineco||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.ducklett||
+2.pineco||
+3.tepig||
+action executed successfully
+reza's turn
+substitution successful
+invalid bench number
+substitution successful
+you don't have the selected card
+you don't have the selected card
+you don't have the selected card
+action executed successfully
+ali_reza's turn
+invalid place number
+substitution successful
+invalid bench number
+card name is invalid
+round 80
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.dragonite||
+3.pineco||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett||
+2.tepig||
+3.rowlet||
+invalid target number
+reza's turn
+pokemon: dragonite
+special condition:
+hitpoint: 77.20/120.00
+energy 1:
+energy 2:
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+substitution successful
+round 80
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.pineco||
+2.tepig||
+3.ducklett||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.ducklett||
+2.dragonite||
+3.pineco||
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+pokemon: ducklett
+special condition:
+hitpoint: 19.60/70.00
+energy 1:
+energy 2:
+you don't have the selected card
+a pokemon already exists there
+invalid place number
+a pokemon already exists there
+ali_reza's turn
+substitution successful
+invalid bench number
+pokemon: tepig
+special condition:
+hitpoint: 2.00/140.00
+energy 1:
+energy 2:
+substitution successful
+invalid bench number
+round 81
+your active card:
+dragonite||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.ducklett||
+3.pineco||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.pineco||
+2.tepig||
+3.ducklett||
+invalid bench number
+you don't have the selected card
+reza's turn
+substitution successful
+you don't have the selected card
+pokemon: ducklett
+special condition:
+hitpoint: 34.00/70.00
+energy 1:
+energy 2:
+invalid bench number
+card name is invalid
+ali_reza's turn
+you don't have the selected card
+pokemon: tepig
+special condition:
+hitpoint: 2.00/140.00
+energy 1:
+energy 2:
+invalid bench number
+you don't have the selected card
+round 82
+your active card:
+dragonite||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.rowlet||
+2.ducklett||
+3.pineco||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.pineco||
+2.tepig||
+3.rowlet||
+a pokemon already exists there
+reza's turn
+you don't have the selected card
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid bench number
+invalid place number
+substitution successful
+you don't have the selected card
+ali_reza's turn
+substitution successful
+invalid bench number
+substitution successful
+reza's turn
+substitution successful
+invalid bench number
+invalid place number
+invalid place number
+round 83
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.pineco||
+2.tepig||
+3.rowlet||
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.rowlet||
+2.pineco||
+3.dragonite||
+ali_reza's turn
+you don't have the selected card
+you don't have the selected card
+substitution successful
+pokemon: rowlet
+special condition:
+hitpoint: 178.75/180.00
+energy 1:
+energy 2:
+reza's turn
+invalid command
+you don't have the selected card
+substitution successful
+you don't have the selected card
+card name is invalid
+round 84
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.pineco||
+2.ducklett||
+3.rowlet||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.ducklett||
+2.pineco||
+3.dragonite||
+round 84
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.pineco||
+2.ducklett||
+3.rowlet||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.ducklett||
+2.pineco||
+3.dragonite||
+round 84
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.pineco||
+2.ducklett||
+3.rowlet||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.ducklett||
+2.pineco||
+3.dragonite||
+you don't have the selected card
+a pokemon already exists there
+action executed successfully
+ali_reza's turn
+you don't have the selected card
+you don't have the selected card
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+round 85
+your active card:
+dragonite||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.rowlet||
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.pineco||
+2.ducklett||
+3.rowlet||
+pokemon: pineco
+special condition: burning
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+pokemon: pineco
+special condition: burning
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid place number
+you don't have the selected card
+invalid place number
+you don't have the selected card
+reza's turn
+substitution successful
+you don't have the selected card
+round 85
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.pineco||
+2.tepig||
+3.rowlet||
+
+ali_reza's active card:
+dragonite||
+
+ali_reza's bench:
+1.ducklett||
+2.pineco||
+3.rowlet||
+card name is invalid
+invalid action
+ali_reza's turn
+invalid command
+you don't have the selected card
+invalid bench number
+invalid place number
+a pokemon already exists there
+you don't have the selected card
+pokemon: ducklett
+special condition:
+hitpoint: 19.60/70.00
+energy 1:
+energy 2:
+you don't have the selected card
+pokemon: dragonite
+special condition:
+hitpoint: 63.70/120.00
+energy 1:
+energy 2:
+round 86
+your active card:
+dragonite||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.rowlet||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.pineco||
+2.tepig||
+3.rowlet||
+round 86
+your active card:
+dragonite||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.rowlet||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.pineco||
+2.tepig||
+3.rowlet||
+reza's turn
+round 86
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.pineco||
+2.tepig||
+3.rowlet||
+
+ali_reza's active card:
+dragonite||
+
+ali_reza's bench:
+1.ducklett||
+2.pineco||
+3.rowlet||
+substitution successful
+you don't have the selected card
+substitution successful
+invalid bench number
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 177.50/180.00
+energy 1:
+energy 2:
+invalid target number
+ali_reza's turn
+invalid bench number
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+round 87
+your active card:
+dragonite||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.rowlet||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.pineco||
+2.tepig||
+3.rowlet||
+you don't have the selected card
+pokemon: tepig
+special condition:
+hitpoint: 2.00/140.00
+energy 1:
+energy 2:
+reza's turn
+you don't have the selected card
+a pokemon already exists there
+you don't have the selected card
+invalid bench number
+pokemon: rowlet
+special condition:
+hitpoint: 177.50/180.00
+energy 1:
+energy 2:
+ali_reza's turn
+pokemon: dragonite
+special condition:
+hitpoint: 63.70/120.00
+energy 1:
+energy 2:
+invalid bench number
+substitution successful
+you don't have the selected card
+you don't have the selected card
+you don't have the selected card
+action executed successfully
+reza's turn
+substitution successful
+pokemon: dragonite
+special condition:
+hitpoint: 63.70/120.00
+energy 1:
+energy 2:
+substitution successful
+invalid command
+round 88
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.pineco||
+2.rowlet||
+3.ducklett||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.ducklett||
+2.dragonite||
+3.rowlet||
+substitution successful
+round 88
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.rowlet||
+3.ducklett||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.ducklett||
+2.dragonite||
+3.rowlet||
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid bench number
+you don't have the selected card
+invalid bench number
+round 88
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.rowlet||
+3.ducklett||
+
+ali_reza's active card:
+pineco||
+
+ali_reza's bench:
+1.ducklett||
+2.dragonite||
+3.rowlet||
+invalid action
+ali_reza's turn
+you don't have the selected card
+invalid bench number
+you don't have the selected card
+substitution successful
+reza's turn
+substitution successful
+invalid bench number
+round 89
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.pineco||
+3.ducklett||
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.pineco||
+2.dragonite||
+3.rowlet||
+round 89
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.pineco||
+3.ducklett||
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.pineco||
+2.dragonite||
+3.rowlet||
+invalid place number
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid action
+ali_reza's turn
+substitution successful
+pokemon: ducklett
+special condition:
+hitpoint: 19.60/70.00
+energy 1:
+energy 2:
+invalid place number
+pokemon: ducklett
+special condition:
+hitpoint: 31.00/70.00
+energy 1:
+energy 2:
+invalid place number
+round 90
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.dragonite||
+3.ducklett||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.tepig||
+2.pineco||
+3.ducklett||
+pokemon: rowlet
+special condition:
+hitpoint: 177.50/180.00
+energy 1:
+energy 2:
+substitution successful
+invalid place number
+invalid bench number
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+reza's turn
+round 90
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.pineco||
+3.ducklett||
+
+ali_reza's active card:
+dragonite||
+
+ali_reza's bench:
+1.pineco||
+2.ducklett||
+3.rowlet||
+a pokemon already exists there
+you don't have the selected card
+you don't have the selected card
+invalid bench number
+invalid bench number
+you don't have the selected card
+invalid bench number
+ali_reza's turn
+substitution successful
+a pokemon already exists there
+pokemon: ducklett
+special condition:
+hitpoint: 31.00/70.00
+energy 1:
+energy 2:
+substitution successful
+pokemon: ducklett
+special condition:
+hitpoint: 31.00/70.00
+energy 1:
+energy 2:
+substitution successful
+you don't have the selected card
+reza's turn
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 177.50/180.00
+energy 1:
+energy 2:
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+a pokemon already exists there
+you don't have the selected card
+substitution successful
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+action executed successfully
+ali_reza's turn
+a pokemon already exists there
+invalid bench number
+a pokemon already exists there
+pokemon: tepig
+special condition:
+hitpoint: 2.00/140.00
+energy 1:
+energy 2:
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+pokemon: tepig
+special condition:
+hitpoint: 2.00/140.00
+energy 1:
+energy 2:
+a pokemon already exists there
+substitution successful
+reza's turn
+pokemon: ducklett
+special condition:
+hitpoint: 55.60/70.00
+energy 1:
+energy 2:
+pokemon: dragonite
+special condition:
+hitpoint: 63.70/120.00
+energy 1:
+energy 2:
+invalid bench number
+round 92
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.pineco||
+3.ducklett||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.dragonite||
+2.pineco||
+3.ducklett||
+round 92
+your active card:
+rowlet||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.pineco||
+3.ducklett||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.dragonite||
+2.pineco||
+3.ducklett||
+substitution successful
+substitution successful
+a pokemon already exists there
+round 92
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.rowlet||
+3.pineco||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.dragonite||
+2.pineco||
+3.ducklett||
+invalid command
+invalid action
+ali_reza's turn
+pokemon: tepig
+special condition:
+hitpoint: 2.00/140.00
+energy 1:
+energy 2:
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+substitution successful
+you don't have the selected card
+round 93
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.dragonite||
+2.rowlet||
+3.ducklett||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.tepig||
+2.rowlet||
+3.pineco||
+invalid bench number
+round 93
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.dragonite||
+2.rowlet||
+3.ducklett||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.tepig||
+2.rowlet||
+3.pineco||
+substitution successful
+reza's turn
+you don't have the selected card
+invalid bench number
+you don't have the selected card
+invalid place number
+invalid place number
+invalid bench number
+invalid bench number
+round 93
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.rowlet||
+3.pineco||
+
+ali_reza's active card:
+dragonite||
+
+ali_reza's bench:
+1.pineco||
+2.rowlet||
+3.ducklett||
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+round 93
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.rowlet||
+3.pineco||
+
+ali_reza's active card:
+dragonite||
+
+ali_reza's bench:
+1.pineco||
+2.rowlet||
+3.ducklett||
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+action executed successfully
+ali_reza's turn
+substitution successful
+round 94
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.dragonite||
+3.ducklett||
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.pineco||
+invalid bench number
+card name is invalid
+invalid place number
+round 94
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.dragonite||
+3.ducklett||
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.pineco||
+pokemon: tepig
+special condition:
+hitpoint: 2.00/140.00
+energy 1:
+energy 2:
+a pokemon already exists there
+reza's turn
+round 94
+your active card:
+tepig||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.rowlet||
+3.pineco||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.pineco||
+2.dragonite||
+3.ducklett||
+you don't have the selected card
+you don't have the selected card
+card name is invalid
+substitution successful
+ali_reza's turn
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+you don't have the selected card
+you don't have the selected card
+invalid action
+reza's turn
+you don't have the selected card
+substitution successful
+invalid bench number
+substitution successful
+round 95
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.tepig||
+2.rowlet||
+3.pineco||
+
+ali_reza's active card:
+dragonite||
+
+ali_reza's bench:
+1.pineco||
+2.rowlet||
+3.ducklett||
+a pokemon already exists there
+ali_reza's turn
+substitution successful
+a pokemon already exists there
+you don't have the selected card
+invalid bench number
+invalid place number
+you don't have the selected card
+substitution successful
+action executed successfully
+reza's turn
+invalid bench number
+you don't have the selected card
+substitution successful
+substitution successful
+invalid place number
+ali_reza's turn
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+substitution successful
+invalid place number
+substitution successful
+invalid place number
+invalid place number
+round 97
+your active card:
+dragonite||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.rowlet||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+invalid bench number
+pokemon: rowlet
+special condition:
+hitpoint: 177.50/180.00
+energy 1:
+energy 2:
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+substitution successful
+reza's turn
+substitution successful
+you don't have the selected card
+pokemon: tepig
+special condition:
+hitpoint: 2.00/140.00
+energy 1:
+energy 2:
+you don't have the selected card
+card name is invalid
+substitution successful
+action executed successfully
+ali_reza's turn
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+a pokemon already exists there
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+you don't have the selected card
+you don't have the selected card
+you don't have the selected card
+pokemon: tepig
+special condition:
+hitpoint: 2.00/140.00
+energy 1:
+energy 2:
+round 98
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.dragonite||
+
+reza's active card:
+rowlet||
+
+reza's bench:
+1.ducklett||
+2.tepig||
+3.pineco||
+invalid target number
+reza's turn
+substitution successful
+you don't have the selected card
+substitution successful
+invalid place number
+pokemon: dragonite
+special condition:
+hitpoint: 36.20/120.00
+energy 1:
+energy 2:
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+invalid bench number
+pokemon: dragonite
+special condition:
+hitpoint: 36.20/120.00
+energy 1:
+energy 2:
+you don't have the selected card
+a pokemon already exists there
+substitution successful
+invalid action
+ali_reza's turn
+substitution successful
+you don't have the selected card
+a pokemon already exists there
+round 99
+your active card:
+pineco||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.rowlet||
+3.dragonite||
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.pineco||
+3.ducklett||
+you don't have the selected card
+substitution successful
+substitution successful
+invalid bench number
+reza's turn
+pokemon: ducklett
+special condition:
+hitpoint: 55.60/70.00
+energy 1:
+energy 2:
+substitution successful
+substitution successful
+a pokemon already exists there
+ali_reza's turn
+invalid bench number
+pokemon: tepig
+special condition:
+hitpoint: 2.00/140.00
+energy 1:
+energy 2:
+substitution successful
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+card name is invalid
+substitution successful
+you don't have the selected card
+substitution successful
+you don't have the selected card
+round 100
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.dragonite||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.tepig||
+2.pineco||
+3.rowlet||
+round 100
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.dragonite||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.tepig||
+2.pineco||
+3.rowlet||
+invalid action
+reza's turn
+you don't have the selected card
+substitution successful
+invalid bench number
+you don't have the selected card
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+action executed successfully
+ali_reza's turn
+substitution successful
+pokemon: pineco
+special condition: burning
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+substitution successful
+you don't have the selected card
+you don't have the selected card
+invalid bench number
+you don't have the selected card
+a pokemon already exists there
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+reza's turn
+substitution successful
+you don't have the selected card
+pokemon: ducklett
+special condition:
+hitpoint: 25.00/70.00
+energy 1:
+energy 2:
+substitution successful
+invalid bench number
+you don't have the selected card
+ali_reza's turn
+card name is invalid
+a pokemon already exists there
+round 102
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.dragonite||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+substitution successful
+invalid bench number
+you don't have the selected card
+substitution successful
+you don't have the selected card
+invalid target number
+reza's turn
+you don't have the selected card
+substitution successful
+a pokemon already exists there
+substitution successful
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+ali_reza's turn
+you don't have the selected card
+invalid place number
+you don't have the selected card
+invalid command
+you don't have the selected card
+you don't have the selected card
+invalid bench number
+you don't have the selected card
+round 103
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.rowlet||
+3.dragonite||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+round 103
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.rowlet||
+3.dragonite||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+reza's turn
+pokemon: tepig
+special condition:
+hitpoint: 2.00/140.00
+energy 1:
+energy 2:
+a pokemon already exists there
+you don't have the selected card
+invalid bench number
+you don't have the selected card
+you don't have the selected card
+ali_reza's turn
+pokemon: rowlet
+special condition:
+hitpoint: 176.25/180.00
+energy 1:
+energy 2:
+pokemon: pineco
+special condition:
+hitpoint: 110.00/110.00
+energy 1:
+energy 2:
+round 104
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.pineco||
+2.rowlet||
+3.dragonite||
+
+reza's active card:
+pineco||
+
+reza's bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+pokemon: ducklett
+special condition:
+hitpoint: 55.60/70.00
+energy 1:
+energy 2:
+substitution successful
+substitution successful
+substitution successful
+a pokemon already exists there
+invalid bench number
+reza's turn
+you don't have the selected card
+pokemon: ducklett
+special condition:
+hitpoint: 25.00/70.00
+energy 1:
+energy 2:
+you don't have the selected card
+invalid place number
+you don't have the selected card
+you don't have the selected card
+pokemon: ducklett
+special condition:
+hitpoint: 25.00/70.00
+energy 1:
+energy 2:
+round 104
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.dragonite||
+2.rowlet||
+3.pineco||
+round 104
+your active card:
+pineco||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.ducklett||
+2.rowlet||
+3.tepig||
+
+ali_reza's active card:
+ducklett||
+
+ali_reza's bench:
+1.dragonite||
+2.rowlet||
+3.pineco||
+invalid bench number
+substitution successful
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+pokemon: rowlet
+special condition:
+hitpoint: 176.25/180.00
+energy 1:
+energy 2:
+ali_reza's turn
+pokemon: rowlet
+special condition:
+hitpoint: 176.25/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+invalid bench number
+you don't have the selected card
+pokemon: dragonite
+special condition:
+hitpoint: 22.70/120.00
+energy 1:
+energy 2:
+you don't have the selected card
+action executed successfully
+reza's turn
+pokemon: rowlet
+special condition:
+hitpoint: 176.25/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+substitution successful
+substitution successful
+you don't have the selected card
+substitution successful
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+invalid action
+ali_reza's turn
+you don't have the selected card
+invalid bench number
+you don't have the selected card
+you don't have the selected card
+invalid bench number
+round 106
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.dragonite||
+2.rowlet||
+3.pineco||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.rowlet||
+2.pineco||
+3.tepig||
+round 106
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.dragonite||
+2.rowlet||
+3.pineco||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.rowlet||
+2.pineco||
+3.tepig||
+substitution successful
+reza's turn
+pokemon: ducklett
+special condition:
+hitpoint: 55.60/70.00
+energy 1:
+energy 2:
+card name is invalid
+pokemon: dragonite
+special condition:
+hitpoint: 22.70/120.00
+energy 1:
+energy 2:
+round 106
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.rowlet||
+2.pineco||
+3.tepig||
+
+ali_reza's active card:
+rowlet||
+
+ali_reza's bench:
+1.dragonite||
+2.ducklett||
+3.pineco||
+you don't have the selected card
+pokemon: ducklett
+special condition:
+hitpoint: 25.00/70.00
+energy 1:
+energy 2:
+you don't have the selected card
+card name is invalid
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 176.25/180.00
+energy 1:
+energy 2:
+ali_reza's turn
+you don't have the selected card
+substitution successful
+a pokemon already exists there
+substitution successful
+reza's turn
+invalid place number
+invalid bench number
+a pokemon already exists there
+pokemon: ducklett
+special condition:
+hitpoint: 25.00/70.00
+energy 1:
+energy 2:
+you don't have the selected card
+round 107
+your active card:
+ducklett||
+
+your hand:
+1.dragonite
+2.lugia
+
+your bench:
+1.rowlet||
+2.pineco||
+3.tepig||
+
+ali_reza's active card:
+dragonite||
+
+ali_reza's bench:
+1.ducklett||
+2.rowlet||
+3.pineco||
+pokemon: ducklett
+special condition:
+hitpoint: 55.60/70.00
+energy 1:
+energy 2:
+invalid action
+ali_reza's turn
+round 108
+your active card:
+dragonite||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.rowlet||
+3.pineco||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.rowlet||
+2.pineco||
+3.tepig||
+pokemon: tepig
+special condition:
+hitpoint: 2.00/140.00
+energy 1:
+energy 2:
+you don't have the selected card
+substitution successful
+round 108
+your active card:
+ducklett||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.dragonite||
+2.rowlet||
+3.pineco||
+
+reza's active card:
+ducklett||
+
+reza's bench:
+1.rowlet||
+2.pineco||
+3.tepig||
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+substitution successful
+substitution successful
+pokemon: tepig
+special condition:
+hitpoint: 2.00/140.00
+energy 1:
+energy 2:
+a pokemon already exists there
+substitution successful
+reza's turn
+substitution successful
+you don't have the selected card
+you don't have the selected card
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+you don't have the selected card
+invalid place number
+card name is invalid
+pokemon: rowlet
+special condition:
+hitpoint: 176.25/180.00
+energy 1:
+energy 2:
+invalid action
+ali_reza's turn
+you don't have the selected card
+round 109
+your active card:
+rowlet||
+
+your hand:
+1.tepig
+2.lugia
+
+your bench:
+1.ducklett||
+2.pineco||
+3.dragonite||
+
+reza's active card:
+tepig||
+
+reza's bench:
+1.rowlet||
+2.pineco||
+3.ducklett||
+invalid bench number
+a pokemon already exists there
+substitution successful
+pokemon: ducklett
+special condition:
+hitpoint: 25.00/70.00
+energy 1:
+energy 2:
+invalid bench number
+invalid bench number
+pokemon: rowlet
+special condition:
+hitpoint: 169.00/180.00
+energy 1:
+energy 2:
+action executed successfully
+reza's turn
+you don't have the selected card
+you don't have the selected card
+you don't have the selected card
+Winner: ali_reza

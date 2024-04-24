@@ -5,6 +5,7 @@ import enums.MainMenuCommands;
 import enums.ShopMenuCommands;
 
 import com.ahmz.test.tester.Scanner;
+
 import java.util.regex.Matcher;
 
 public class MainMenu extends AppMenu {
@@ -26,7 +27,7 @@ public class MainMenu extends AppMenu {
             }
         } else if ((matcher = MainMenuCommands.Logout.getMather(input)) != null) {
             controller.logout();
-        }else if ((matcher = MainMenuCommands.ShowMenu.getMather(input)) != null) {
+        } else if ((matcher = MainMenuCommands.ShowMenu.getMather(input)) != null) {
             System.out.println("main menu");
         } else {
             System.out.println("invalid command");

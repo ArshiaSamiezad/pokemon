@@ -1,0 +1,112 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+substitute active card with bench 5
+show my info 2
+put card yellow to 0
+substitute active card with bench 0
+substitute active card with bench 3
+substitute active card with bench 1
+execute action
+substitute active card with bench 0
+substitute active card with bench 3
+show my info 3
+substitute active card with bench 3
+execute action -t 2
+end turn
+go to profile menu
+show my rank
+show storage
+show my rank
+show experience
+equip card dragonite to my deck
+equip card yel  low to my deck
+equip card yellow to my deck
+equip card rowlet to my deck
+equip card yellow to my deck
+equip card pink to my deck
+show my rank
+show my rank
+show coins
+show experience
+show my rank
+show coins
+back
+go to shop menu
+buy card yellow
+sell card t pig
+sell card dragonite
+buy card dragonite
+buy card tepig
+back
+start new game with reza
+start new game with reza
+start new game with reza
+logout
+register username nZzIDG password kae#+P0ZU&bnuX>e3-F email Yb39H.@WlSVCjmR.co
+register username CuMCaYGzhodsEltqJqM password Ks6UZju&@vh#4z email @&a'.com
+register username kxKjhNBdFAWegloSRsw password xYsgk$P*W@Lm)KoF7P email .H03qC@bfxs.com
+login username kxKjhNBdFAWegloSRsw password xYsgk$P*W@Lm)KoF7P
+logout
+exit

@@ -1,0 +1,145 @@
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+user registered successfully
+user logged in successfully
+card dragonite bought successfully
+card tepig bought successfully
+card lugia bought successfully
+card ducklett bought successfully
+card pineco bought successfully
+card rowlet bought successfully
+card pink bought successfully
+card pink bought successfully
+card pink bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card yellow bought successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+user logged in successfully
+card dragonite equipped to your deck successfully
+card tepig equipped to your deck successfully
+card lugia equipped to your deck successfully
+card ducklett equipped to your deck successfully
+card pineco equipped to your deck successfully
+card rowlet equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card pink equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card yellow equipped to your deck successfully
+card put successful
+invalid bench number
+no pokemon in the selected place
+no pokemon in the selected place
+pokemon: rowlet
+special condition:
+hitpoint: 180.00/180.00
+energy 1:
+energy 2:
+no pokemon in the selected place
+no pokemon in the selected place
+card put successful
+invalid action
+a pokemon already exists there
+invalid place number
+no pokemon in the selected place
+invalid bench number
+no pokemon in the selected place
+invalid bench number
+action executed successfully
+reza's turn
+no pokemon in the selected place
+no pokemon in the selected place
+no pokemon in the selected place
+no pokemon in the selected place
+no pokemon in the selected place
+no pokemon in the selected place
+no pokemon in the selected place
+no pokemon in the selected place
+no active pokemon
+Winner: ali_reza
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+you don't have this type of card
+number of coins:200
+experience:0
+card dragonite unequipped from your deck successfully
+you don't have this type of card in your deck
+card name is invalid
+card name is invalid
+experience:0
+your rank:1
+1.fire dragonite 10
+2.fire tepig 13
+3.water lugia 11
+4.water ducklett 15
+5.energy pink 5
+6.energy pink 5
+7.energy pink 5
+8.energy yellow 5
+9.energy yellow 5
+10.energy yellow 5
+your rank:1
+your rank:1
+1.tepig
+2.lugia
+3.ducklett
+4.pink
+5.pink
+6.pink
+7.yellow
+8.yellow
+9.yellow
+number of coins:200
+1.tepig
+2.lugia
+3.ducklett
+4.pink
+5.pink
+6.pink
+7.yellow
+8.yellow
+9.yellow
+you don't have this type of card
+card dragonite equipped to your deck successfully
+you don't have this type of card
+card name is invalid
+card name is invalid
+user registered successfully
+username doesn't exist
+username doesn't exist
+password is incorrect
+username doesn't exist
+user logged in successfully
+username doesn't exist
+password is incorrect
+password is incorrect
+username doesn't exist
+user logged in successfully

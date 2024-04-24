@@ -1,0 +1,135 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+substitute active card with bench 3
+put card rowlet to 2
+put card yellow to 1
+put card rowlet to 0
+show table
+substitute active card with bench 0
+substitute active card with bench 2
+end turn
+show table
+show enemy info 1
+substitute active card with bench 0
+show enemy info 1
+substitute active card with bench 0
+put card ducklet to 1
+end turn
+logout
+register username pu$mwS*WqP@<F8zdoyU password *g+_lk$mTYIb  email D#-&FQY*N@eyusivae.com
+register username nWWTrl password d+ISr!sDusI email @p+nq.com
+register username lgnzFDiuqSNdnSX_G password ZTY#yW!HVX'> email 3H.9VrWH@ondyo.com
+login username lgnzFDiuqSNdnSX_G password Ja'mOGP#d0Wzl'*
+login username PAku password GMLsu&.3%z
+login username lgnzFDiuqSNdnSX_G password ZTY#yW!HVX'>
+go to profile menu
+equip card tepig to my deck
+equip card dragonite to my deck
+equip card yel  low to my deck
+equip card pinEco to my deck
+equip card yellow to my deck
+equip card dragonite to my deck
+show experience
+show coins
+equip card yellow to my deck
+equip card dragonite to my deck
+equip card dragonite to my deck
+equip card rowlet to my deck
+equip card rowlet to my deck
+equip card y+ellow to my deck
+equip card ducklett to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card du  klett to my deck
+equip card pink to my deck
+equip card pineco to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card yellow to my deck
+equip card ducklett to my deck
+equip card rowlet to my deck
+equip card yellow to my deck
+show coins
+show storage
+equip card pineco to my deck
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card row@let to my deck
+equip card lugia to my deck
+equip card pineco to my deck
+equip card ducklett to my deck
+equip card lugia to my deck
+equip card yellow to my deck
+show storage
+show current menu
+equip card lugia to my deck
+equip card pink to my deck
+equip card dragonite to my deck
+equip card rowlet to my deck
+equip card pineco to my deck
+show ranking
+back
+logout
+exit

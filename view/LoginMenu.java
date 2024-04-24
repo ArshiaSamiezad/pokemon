@@ -5,6 +5,7 @@ import enums.LoginMenuCommands;
 import enums.ShopMenuCommands;
 
 import com.ahmz.test.tester.Scanner;
+
 import java.util.regex.Matcher;
 
 public class LoginMenu extends AppMenu {
@@ -23,7 +24,7 @@ public class LoginMenu extends AppMenu {
                     matcher.group("password")));
         } else if ((matcher = LoginMenuCommands.Exit.getMather(input)) != null) {
             controller.exit();
-        }else if ((matcher = LoginMenuCommands.ShowMenu.getMather(input)) != null) {
+        } else if ((matcher = LoginMenuCommands.ShowMenu.getMather(input)) != null) {
             System.out.println("login menu");
         } else {
             System.out.println("invalid command");

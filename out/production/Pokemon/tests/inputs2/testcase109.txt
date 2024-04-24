@@ -1,0 +1,110 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+show table
+substitute active card with bench 3
+substitute active card with bench 2
+put card lugia to 7
+substitute active card with bench 16
+show table
+execute action
+show table
+put card dragonite to 0
+put card rowlet to 2
+substitute active card with bench 3
+put card rowl et to 3
+put card tepig to 14
+put card ducklet to 1
+execute action -t 2
+end turn
+put card pineco to 10
+show enemy info 3
+show table
+show my info 5
+show enemy info 2
+put card lugia to 6
+show my info 0
+put card lugia to 2
+show table
+execute action -t 7
+end turn
+go to shop menu
+back
+go to shop menu
+back
+logout
+login username KvcLnjXDeCyPZF password Lr7q_*GBLeLSk19
+login username reza password XLku&$Msl
+login username HTyhWX password gqUo$x)O
+login username Zml password +BvVW-<'vhzWjg
+login username reza password Abc^123
+go to shop menu
+buy card pineco
+back
+go to shop menu
+sell card pinEco
+sell card yellow
+back
+logout
+exit

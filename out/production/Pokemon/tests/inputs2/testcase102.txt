@@ -1,0 +1,100 @@
+register username ali_reza password Abc^123 email ali.reza@gmail.com
+login username ali_reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+logout
+register username reza password Abc^123 email reza@gmail.com
+login username reza password Abc^123
+go to shop menu
+buy card dragonite
+buy card tepig
+buy card lugia
+buy card ducklett
+buy card pineco
+buy card rowlet
+buy card pink
+buy card pink
+buy card pink
+buy card yellow
+buy card yellow
+buy card yellow
+back
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+logout
+login username ali_reza password Abc^123
+go to profile menu
+equip card dragonite to my deck
+equip card tepig to my deck
+equip card lugia to my deck
+equip card ducklett to my deck
+equip card pineco to my deck
+equip card rowlet to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card pink to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+equip card yellow to my deck
+back
+start new game with reza
+put card rowlet to 0
+substitute active card with bench 1
+show table
+put card yellow to 3
+put card dragonite to 3
+substitute active card with bench 2
+substitute active card with bench 0
+execute action
+substitute active card with bench 2
+substitute active card with bench 0
+substitute active card with bench 18
+show table
+put card pink to 1
+show enemy info 1
+show my info 1
+execute action
+end turn
+substitute active card with bench 2
+show table
+put card yellow to 3
+substitute active card with bench 2
+put card row@let to 2
+substitute active card with bench 2
+substitute active card with bench 2
+show enemy info 5
+show my info 2
+substitute active card with bench -5
+end turn
+go to shop menu
+buy card pineco
+buy card tepig
+buy card ducklett
+buy card pineco
+back
+logout
+exit
