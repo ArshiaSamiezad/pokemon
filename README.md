@@ -117,3 +117,74 @@ sell card <card name>
 |  Pink (energy)  |       3      |
 | Yellow (energy) |       3      |
 
+## Game Menu:
+
+- **Each pokemon has a certain class and passive abilities:**
+
+| Class |                            Passive Ability                           |
+|:-----:|:--------------------------------------------------------------------:|
+|  Fire |              Target pokemon will burn in the next round.             |
+| Water |                      Resistant against burning.                      |
+| Plant | Passive shield with 15 hitpoints, and will be refreshed every round. |
+
+- **Each pokemon has a certain active ability:**
+
+|  Pokemon  |                                       Active Ability                                      |
+|:---------:|:-----------------------------------------------------------------------------------------:|
+| Dragonite |                             Attacks the active enemy pokemon.                             |
+|   Tepig   | Attacks the active pokemon with full power and bench pokemons with 0.2 of its full power. |
+|   Lugia   |          Attacks the active pokemon and makes them unconcious for the next round.         |
+|  Ducklett |              Attacks the targeted (Active or bench) pokemon and disables it.              |
+|   Pineco  |                                       Heals itself.                                       |
+|   Rowlet  |                              Heals the targeted ally pokemon.                             |
+
+- **Each pokemon has a certain maximum hitpoint and power:**
+
+|  Pokemon  |                                       Active Ability                                      |
+|:---------:|:-----------------------------------------------------------------------------------------:|
+| Dragonite |                             Attacks the active enemy pokemon.                             |
+|   Tepig   | Attacks the active pokemon with full power and bench pokemons with 0.2 of its full power. |
+|   Lugia   |          Attacks the active pokemon and makes them unconcious for the next round.         |
+|  Ducklett |              Attacks the targeted (Active or bench) pokemon and disables it.              |
+|   Pineco  |                                       Heals itself.                                       |
+|   Rowlet  |                              Heals the targeted ally pokemon.                             |
+
+- **Each pokemon has a weakness from each class, and a resistance for each pokemon:**
+
+|  Pokemon  |                                       Active Ability                                      |
+|:---------:|:-----------------------------------------------------------------------------------------:|
+| Dragonite |                             Attacks the active enemy pokemon.                             |
+|   Tepig   | Attacks the active pokemon with full power and bench pokemons with 0.2 of its full power. |
+|   Lugia   |          Attacks the active pokemon and makes them unconcious for the next round.         |
+|  Ducklett |              Attacks the targeted (Active or bench) pokemon and disables it.              |
+|   Pineco  |                                       Heals itself.                                       |
+|   Rowlet  |                              Heals the targeted ally pokemon.                             |
+
+- **Each pokemon can have upto 2 energy cards attached to it:**
+
+| Energy type | Pink | Yellow |
+|:-----------:|:----:|:------:|
+|     Fire    |   1  |    1   |
+|    Water    | 1.05 |    1   |
+|    Plant    | 1.15 |   1.2  |
+
+*Note: Each energy card affects the power of attack.*
+
+## How to play:
+
+- Each player has a 12 card deck that isn't visible to the enemy.
+- Each player has a bench that can hold upto 3 pokemons, and an active card place that can hold 1 pokemon. If a pokemon is placed into the bench or active place from deck, it will be removed from the deck and won't be in the players deck after the game has finished. In other words, playing a pokemon means losing it after the game, whether dead or not. Bench and active places are visible to the enemy.
+- Active card index is 0, and bench card indexes are from 1 to 3.
+- A player loses if and only if the active pokemon place is empty after playing their turn.
+- First player is the player who started the game.
+
+## Game Commands:
+
+```java
+show table
+show my info <place number>
+show enemy info <place number>
+put card <card name> to <place number>
+substitute active card with bench <bench number>
+execute action -t <target>
+```
